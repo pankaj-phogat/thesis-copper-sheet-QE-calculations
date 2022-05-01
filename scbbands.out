@@ -1,0 +1,1327 @@
+[0] MPI startup(): Intel(R) MPI Library, Version 2018 Update 1  Build 20171011 (id: 17941)
+[0] MPI startup(): Copyright (C) 2003-2017 Intel Corporation.  All rights reserved.
+[0] MPI startup(): Multi-threaded optimized library
+[1] DAPL startup(): trying to open DAPL provider from I_MPI_DAPL_PROVIDER: ofa-v2-mlx5_0-1u
+[3] DAPL startup(): trying to open DAPL provider from I_MPI_DAPL_PROVIDER: ofa-v2-mlx5_0-1u
+[6] DAPL startup(): trying to open DAPL provider from I_MPI_DAPL_PROVIDER: ofa-v2-mlx5_0-1u
+[16] DAPL startup(): trying to open DAPL provider from I_MPI_DAPL_PROVIDER: ofa-v2-mlx5_0-1u
+[23] DAPL startup(): trying to open DAPL provider from I_MPI_DAPL_PROVIDER: ofa-v2-mlx5_0-1u
+[24] DAPL startup(): trying to open DAPL provider from I_MPI_DAPL_PROVIDER: ofa-v2-mlx5_0-1u
+[39] DAPL startup(): trying to open DAPL provider from I_MPI_DAPL_PROVIDER: ofa-v2-mlx5_0-1u
+[40] DAPL startup(): trying to open DAPL provider from I_MPI_DAPL_PROVIDER: ofa-v2-mlx5_0-1u
+[55] DAPL startup(): trying to open DAPL provider from I_MPI_DAPL_PROVIDER: ofa-v2-mlx5_0-1u
+[58] DAPL startup(): trying to open DAPL provider from I_MPI_DAPL_PROVIDER: ofa-v2-mlx5_0-1u
+[61] DAPL startup(): trying to open DAPL provider from I_MPI_DAPL_PROVIDER: ofa-v2-mlx5_0-1u
+[67] DAPL startup(): trying to open DAPL provider from I_MPI_DAPL_PROVIDER: ofa-v2-mlx5_0-1u
+[71] DAPL startup(): trying to open DAPL provider from I_MPI_DAPL_PROVIDER: ofa-v2-mlx5_0-1u
+[72] DAPL startup(): trying to open DAPL provider from I_MPI_DAPL_PROVIDER: ofa-v2-mlx5_0-1u
+[57] DAPL startup(): trying to open DAPL provider from I_MPI_DAPL_PROVIDER: ofa-v2-mlx5_0-1u
+[2] DAPL startup(): trying to open DAPL provider from I_MPI_DAPL_PROVIDER: ofa-v2-mlx5_0-1u
+[64] DAPL startup(): trying to open DAPL provider from I_MPI_DAPL_PROVIDER: ofa-v2-mlx5_0-1u
+[8] DAPL startup(): trying to open DAPL provider from I_MPI_DAPL_PROVIDER: ofa-v2-mlx5_0-1u
+[17] DAPL startup(): trying to open DAPL provider from I_MPI_DAPL_PROVIDER: ofa-v2-mlx5_0-1u
+[21] DAPL startup(): trying to open DAPL provider from I_MPI_DAPL_PROVIDER: ofa-v2-mlx5_0-1u
+[31] DAPL startup(): trying to open DAPL provider from I_MPI_DAPL_PROVIDER: ofa-v2-mlx5_0-1u
+[19] DAPL startup(): trying to open DAPL provider from I_MPI_DAPL_PROVIDER: ofa-v2-mlx5_0-1u
+[47] DAPL startup(): trying to open DAPL provider from I_MPI_DAPL_PROVIDER: ofa-v2-mlx5_0-1u
+[60] DAPL startup(): trying to open DAPL provider from I_MPI_DAPL_PROVIDER: ofa-v2-mlx5_0-1u
+[49] DAPL startup(): trying to open DAPL provider from I_MPI_DAPL_PROVIDER: ofa-v2-mlx5_0-1u
+[36] DAPL startup(): trying to open DAPL provider from I_MPI_DAPL_PROVIDER: ofa-v2-mlx5_0-1u
+[74] DAPL startup(): trying to open DAPL provider from I_MPI_DAPL_PROVIDER: ofa-v2-mlx5_0-1u
+[76] DAPL startup(): trying to open DAPL provider from I_MPI_DAPL_PROVIDER: ofa-v2-mlx5_0-1u
+[41] DAPL startup(): trying to open DAPL provider from I_MPI_DAPL_PROVIDER: ofa-v2-mlx5_0-1u
+[56] DAPL startup(): trying to open DAPL provider from I_MPI_DAPL_PROVIDER: ofa-v2-mlx5_0-1u
+[59] DAPL startup(): trying to open DAPL provider from I_MPI_DAPL_PROVIDER: ofa-v2-mlx5_0-1u
+[52] DAPL startup(): trying to open DAPL provider from I_MPI_DAPL_PROVIDER: ofa-v2-mlx5_0-1u
+[13] DAPL startup(): trying to open DAPL provider from I_MPI_DAPL_PROVIDER: ofa-v2-mlx5_0-1u
+[48] DAPL startup(): trying to open DAPL provider from I_MPI_DAPL_PROVIDER: ofa-v2-mlx5_0-1u
+[42] DAPL startup(): trying to open DAPL provider from I_MPI_DAPL_PROVIDER: ofa-v2-mlx5_0-1u
+[7] DAPL startup(): trying to open DAPL provider from I_MPI_DAPL_PROVIDER: ofa-v2-mlx5_0-1u
+[62] DAPL startup(): trying to open DAPL provider from I_MPI_DAPL_PROVIDER: ofa-v2-mlx5_0-1u
+[45] DAPL startup(): trying to open DAPL provider from I_MPI_DAPL_PROVIDER: ofa-v2-mlx5_0-1u
+[73] DAPL startup(): trying to open DAPL provider from I_MPI_DAPL_PROVIDER: ofa-v2-mlx5_0-1u
+[15] DAPL startup(): trying to open DAPL provider from I_MPI_DAPL_PROVIDER: ofa-v2-mlx5_0-1u
+[54] DAPL startup(): trying to open DAPL provider from I_MPI_DAPL_PROVIDER: ofa-v2-mlx5_0-1u
+[65] DAPL startup(): trying to open DAPL provider from I_MPI_DAPL_PROVIDER: ofa-v2-mlx5_0-1u
+[30] DAPL startup(): trying to open DAPL provider from I_MPI_DAPL_PROVIDER: ofa-v2-mlx5_0-1u
+[46] DAPL startup(): trying to open DAPL provider from I_MPI_DAPL_PROVIDER: ofa-v2-mlx5_0-1u
+[69] DAPL startup(): trying to open DAPL provider from I_MPI_DAPL_PROVIDER: ofa-v2-mlx5_0-1u
+[70] DAPL startup(): trying to open DAPL provider from I_MPI_DAPL_PROVIDER: ofa-v2-mlx5_0-1u
+[44] DAPL startup(): trying to open DAPL provider from I_MPI_DAPL_PROVIDER: ofa-v2-mlx5_0-1u
+[77] DAPL startup(): trying to open DAPL provider from I_MPI_DAPL_PROVIDER: ofa-v2-mlx5_0-1u
+[75] DAPL startup(): trying to open DAPL provider from I_MPI_DAPL_PROVIDER: ofa-v2-mlx5_0-1u
+[66] DAPL startup(): trying to open DAPL provider from I_MPI_DAPL_PROVIDER: ofa-v2-mlx5_0-1u
+[68] DAPL startup(): trying to open DAPL provider from I_MPI_DAPL_PROVIDER: ofa-v2-mlx5_0-1u
+[50] DAPL startup(): trying to open DAPL provider from I_MPI_DAPL_PROVIDER: ofa-v2-mlx5_0-1u
+[53] DAPL startup(): trying to open DAPL provider from I_MPI_DAPL_PROVIDER: ofa-v2-mlx5_0-1u
+[63] DAPL startup(): trying to open DAPL provider from I_MPI_DAPL_PROVIDER: ofa-v2-mlx5_0-1u
+[43] DAPL startup(): trying to open DAPL provider from I_MPI_DAPL_PROVIDER: ofa-v2-mlx5_0-1u
+[78] DAPL startup(): trying to open DAPL provider from I_MPI_DAPL_PROVIDER: ofa-v2-mlx5_0-1u
+[79] DAPL startup(): trying to open DAPL provider from I_MPI_DAPL_PROVIDER: ofa-v2-mlx5_0-1u
+[25] DAPL startup(): trying to open DAPL provider from I_MPI_DAPL_PROVIDER: ofa-v2-mlx5_0-1u
+[51] DAPL startup(): trying to open DAPL provider from I_MPI_DAPL_PROVIDER: ofa-v2-mlx5_0-1u
+[12] DAPL startup(): trying to open DAPL provider from I_MPI_DAPL_PROVIDER: ofa-v2-mlx5_0-1u
+[33] DAPL startup(): trying to open DAPL provider from I_MPI_DAPL_PROVIDER: ofa-v2-mlx5_0-1u
+[32] DAPL startup(): trying to open DAPL provider from I_MPI_DAPL_PROVIDER: ofa-v2-mlx5_0-1u
+[29] DAPL startup(): trying to open DAPL provider from I_MPI_DAPL_PROVIDER: ofa-v2-mlx5_0-1u
+[38] DAPL startup(): trying to open DAPL provider from I_MPI_DAPL_PROVIDER: ofa-v2-mlx5_0-1u
+[11] DAPL startup(): trying to open DAPL provider from I_MPI_DAPL_PROVIDER: ofa-v2-mlx5_0-1u
+[37] DAPL startup(): trying to open DAPL provider from I_MPI_DAPL_PROVIDER: ofa-v2-mlx5_0-1u
+[22] DAPL startup(): trying to open DAPL provider from I_MPI_DAPL_PROVIDER: ofa-v2-mlx5_0-1u
+[27] DAPL startup(): trying to open DAPL provider from I_MPI_DAPL_PROVIDER: ofa-v2-mlx5_0-1u
+[35] DAPL startup(): trying to open DAPL provider from I_MPI_DAPL_PROVIDER: ofa-v2-mlx5_0-1u
+[24] MPI startup(): DAPL provider ofa-v2-mlx5_0-1u
+[9] DAPL startup(): trying to open DAPL provider from I_MPI_DAPL_PROVIDER: ofa-v2-mlx5_0-1u
+[18] DAPL startup(): trying to open DAPL provider from I_MPI_DAPL_PROVIDER: ofa-v2-mlx5_0-1u
+[14] DAPL startup(): trying to open DAPL provider from I_MPI_DAPL_PROVIDER: ofa-v2-mlx5_0-1u
+[3] MPI startup(): DAPL provider ofa-v2-mlx5_0-1u
+[28] DAPL startup(): trying to open DAPL provider from I_MPI_DAPL_PROVIDER: ofa-v2-mlx5_0-1u
+[5] DAPL startup(): trying to open DAPL provider from I_MPI_DAPL_PROVIDER: ofa-v2-mlx5_0-1u
+[34] DAPL startup(): trying to open DAPL provider from I_MPI_DAPL_PROVIDER: ofa-v2-mlx5_0-1u
+[23] MPI startup(): DAPL provider ofa-v2-mlx5_0-1u
+[4] DAPL startup(): trying to open DAPL provider from I_MPI_DAPL_PROVIDER: ofa-v2-mlx5_0-1u
+[16] MPI startup(): DAPL provider ofa-v2-mlx5_0-1u
+[20] DAPL startup(): trying to open DAPL provider from I_MPI_DAPL_PROVIDER: ofa-v2-mlx5_0-1u
+[26] DAPL startup(): trying to open DAPL provider from I_MPI_DAPL_PROVIDER: ofa-v2-mlx5_0-1u
+[1] MPI startup(): DAPL provider ofa-v2-mlx5_0-1u
+[39] MPI startup(): DAPL provider ofa-v2-mlx5_0-1u
+[10] DAPL startup(): trying to open DAPL provider from I_MPI_DAPL_PROVIDER: ofa-v2-mlx5_0-1u
+[6] MPI startup(): DAPL provider ofa-v2-mlx5_0-1u
+[0] DAPL startup(): trying to open DAPL provider from I_MPI_DAPL_PROVIDER: ofa-v2-mlx5_0-1u
+[40] MPI startup(): DAPL provider ofa-v2-mlx5_0-1u
+[55] MPI startup(): DAPL provider ofa-v2-mlx5_0-1u
+[58] MPI startup(): DAPL provider ofa-v2-mlx5_0-1u
+[72] MPI startup(): DAPL provider ofa-v2-mlx5_0-1u
+[61] MPI startup(): DAPL provider ofa-v2-mlx5_0-1u
+[67] MPI startup(): DAPL provider ofa-v2-mlx5_0-1u
+[71] MPI startup(): DAPL provider ofa-v2-mlx5_0-1u
+[2] MPI startup(): DAPL provider ofa-v2-mlx5_0-1u
+[57] MPI startup(): DAPL provider ofa-v2-mlx5_0-1u
+[8] MPI startup(): DAPL provider ofa-v2-mlx5_0-1u
+[17] MPI startup(): DAPL provider ofa-v2-mlx5_0-1u
+[31] MPI startup(): DAPL provider ofa-v2-mlx5_0-1u
+[21] MPI startup(): DAPL provider ofa-v2-mlx5_0-1u
+[64] MPI startup(): DAPL provider ofa-v2-mlx5_0-1u
+[19] MPI startup(): DAPL provider ofa-v2-mlx5_0-1u
+[47] MPI startup(): DAPL provider ofa-v2-mlx5_0-1u
+[36] MPI startup(): DAPL provider ofa-v2-mlx5_0-1u
+[1] MPI startup(): shm and dapl data transfer modes
+[2] MPI startup(): shm and dapl data transfer modes
+[3] MPI startup(): shm and dapl data transfer modes
+[8] MPI startup(): shm and dapl data transfer modes
+[24] MPI startup(): shm and dapl data transfer modes
+[36] MPI startup(): shm and dapl data transfer modes
+[6] MPI startup(): shm and dapl data transfer modes
+[16] MPI startup(): shm and dapl data transfer modes
+[17] MPI startup(): shm and dapl data transfer modes
+[19] MPI startup(): shm and dapl data transfer modes
+[21] MPI startup(): shm and dapl data transfer modes
+[23] MPI startup(): shm and dapl data transfer modes
+[31] MPI startup(): shm and dapl data transfer modes
+[39] MPI startup(): shm and dapl data transfer modes
+[60] MPI startup(): DAPL provider ofa-v2-mlx5_0-1u
+[47] MPI startup(): shm and dapl data transfer modes
+[55] MPI startup(): shm and dapl data transfer modes
+[57] MPI startup(): shm and dapl data transfer modes
+[58] MPI startup(): shm and dapl data transfer modes
+[60] MPI startup(): shm and dapl data transfer modes
+[61] MPI startup(): shm and dapl data transfer modes
+[64] MPI startup(): shm and dapl data transfer modes
+[67] MPI startup(): shm and dapl data transfer modes
+[71] MPI startup(): shm and dapl data transfer modes
+[72] MPI startup(): shm and dapl data transfer modes
+[40] MPI startup(): shm and dapl data transfer modes
+[49] MPI startup(): DAPL provider ofa-v2-mlx5_0-1u
+[49] MPI startup(): shm and dapl data transfer modes
+[76] MPI startup(): DAPL provider ofa-v2-mlx5_0-1u
+[7] MPI startup(): DAPL provider ofa-v2-mlx5_0-1u
+[76] MPI startup(): shm and dapl data transfer modes
+[7] MPI startup(): shm and dapl data transfer modes
+[74] MPI startup(): DAPL provider ofa-v2-mlx5_0-1u
+[74] MPI startup(): shm and dapl data transfer modes
+[41] MPI startup(): DAPL provider ofa-v2-mlx5_0-1u
+[41] MPI startup(): shm and dapl data transfer modes
+[52] MPI startup(): DAPL provider ofa-v2-mlx5_0-1u
+[13] MPI startup(): DAPL provider ofa-v2-mlx5_0-1u
+[52] MPI startup(): shm and dapl data transfer modes
+[13] MPI startup(): shm and dapl data transfer modes
+[59] MPI startup(): DAPL provider ofa-v2-mlx5_0-1u
+[59] MPI startup(): shm and dapl data transfer modes
+[56] MPI startup(): DAPL provider ofa-v2-mlx5_0-1u
+[48] MPI startup(): DAPL provider ofa-v2-mlx5_0-1u
+[56] MPI startup(): shm and dapl data transfer modes
+[42] MPI startup(): DAPL provider ofa-v2-mlx5_0-1u
+[48] MPI startup(): shm and dapl data transfer modes
+[42] MPI startup(): shm and dapl data transfer modes
+[30] MPI startup(): DAPL provider ofa-v2-mlx5_0-1u
+[30] MPI startup(): shm and dapl data transfer modes
+[15] MPI startup(): DAPL provider ofa-v2-mlx5_0-1u
+[15] MPI startup(): shm and dapl data transfer modes
+[54] MPI startup(): DAPL provider ofa-v2-mlx5_0-1u
+[54] MPI startup(): shm and dapl data transfer modes
+[65] MPI startup(): DAPL provider ofa-v2-mlx5_0-1u
+[62] MPI startup(): DAPL provider ofa-v2-mlx5_0-1u
+[45] MPI startup(): DAPL provider ofa-v2-mlx5_0-1u
+[65] MPI startup(): shm and dapl data transfer modes
+[62] MPI startup(): shm and dapl data transfer modes
+[45] MPI startup(): shm and dapl data transfer modes
+[46] MPI startup(): DAPL provider ofa-v2-mlx5_0-1u
+[46] MPI startup(): shm and dapl data transfer modes
+[73] MPI startup(): DAPL provider ofa-v2-mlx5_0-1u
+[73] MPI startup(): shm and dapl data transfer modes
+[69] MPI startup(): DAPL provider ofa-v2-mlx5_0-1u
+[70] MPI startup(): DAPL provider ofa-v2-mlx5_0-1u
+[69] MPI startup(): shm and dapl data transfer modes
+[70] MPI startup(): shm and dapl data transfer modes
+[77] MPI startup(): DAPL provider ofa-v2-mlx5_0-1u
+[77] MPI startup(): shm and dapl data transfer modes
+[78] MPI startup(): DAPL provider ofa-v2-mlx5_0-1u
+[25] MPI startup(): DAPL provider ofa-v2-mlx5_0-1u
+[78] MPI startup(): shm and dapl data transfer modes
+[25] MPI startup(): shm and dapl data transfer modes
+[29] MPI startup(): DAPL provider ofa-v2-mlx5_0-1u
+[79] MPI startup(): DAPL provider ofa-v2-mlx5_0-1u
+[29] MPI startup(): shm and dapl data transfer modes
+[11] MPI startup(): DAPL provider ofa-v2-mlx5_0-1u
+[79] MPI startup(): shm and dapl data transfer modes
+[50] MPI startup(): DAPL provider ofa-v2-mlx5_0-1u
+[66] MPI startup(): DAPL provider ofa-v2-mlx5_0-1u
+[11] MPI startup(): shm and dapl data transfer modes
+[50] MPI startup(): shm and dapl data transfer modes
+[12] MPI startup(): DAPL provider ofa-v2-mlx5_0-1u
+[66] MPI startup(): shm and dapl data transfer modes
+[12] MPI startup(): shm and dapl data transfer modes
+[32] MPI startup(): DAPL provider ofa-v2-mlx5_0-1u
+[37] MPI startup(): DAPL provider ofa-v2-mlx5_0-1u
+[53] MPI startup(): DAPL provider ofa-v2-mlx5_0-1u
+[32] MPI startup(): shm and dapl data transfer modes
+[43] MPI startup(): DAPL provider ofa-v2-mlx5_0-1u
+[33] MPI startup(): DAPL provider ofa-v2-mlx5_0-1u
+[51] MPI startup(): DAPL provider ofa-v2-mlx5_0-1u
+[37] MPI startup(): shm and dapl data transfer modes
+[63] MPI startup(): DAPL provider ofa-v2-mlx5_0-1u
+[9] MPI startup(): DAPL provider ofa-v2-mlx5_0-1u
+[53] MPI startup(): shm and dapl data transfer modes
+[43] MPI startup(): shm and dapl data transfer modes
+[75] MPI startup(): DAPL provider ofa-v2-mlx5_0-1u
+[33] MPI startup(): shm and dapl data transfer modes
+[51] MPI startup(): shm and dapl data transfer modes
+[68] MPI startup(): DAPL provider ofa-v2-mlx5_0-1u
+[63] MPI startup(): shm and dapl data transfer modes
+[9] MPI startup(): shm and dapl data transfer modes
+[22] MPI startup(): DAPL provider ofa-v2-mlx5_0-1u
+[22] MPI startup(): shm and dapl data transfer modes
+[35] MPI startup(): DAPL provider ofa-v2-mlx5_0-1u
+[27] MPI startup(): DAPL provider ofa-v2-mlx5_0-1u
+[35] MPI startup(): shm and dapl data transfer modes
+[27] MPI startup(): shm and dapl data transfer modes
+[38] MPI startup(): DAPL provider ofa-v2-mlx5_0-1u
+[4] MPI startup(): DAPL provider ofa-v2-mlx5_0-1u
+[4] MPI startup(): shm and dapl data transfer modes
+[38] MPI startup(): shm and dapl data transfer modes
+[20] MPI startup(): DAPL provider ofa-v2-mlx5_0-1u
+[20] MPI startup(): shm and dapl data transfer modes
+[34] MPI startup(): DAPL provider ofa-v2-mlx5_0-1u
+[34] MPI startup(): shm and dapl data transfer modes
+[0] MPI startup(): DAPL provider ofa-v2-mlx5_0-1u
+[14] MPI startup(): DAPL provider ofa-v2-mlx5_0-1u
+[0] MPI startup(): shm and dapl data transfer modes
+[44] MPI startup(): DAPL provider ofa-v2-mlx5_0-1u
+[44] MPI startup(): shm and dapl data transfer modes
+[18] MPI startup(): DAPL provider ofa-v2-mlx5_0-1u
+[68] MPI startup(): shm and dapl data transfer modes
+[26] MPI startup(): DAPL provider ofa-v2-mlx5_0-1u
+[75] MPI startup(): shm and dapl data transfer modes
+[14] MPI startup(): shm and dapl data transfer modes
+[28] MPI startup(): DAPL provider ofa-v2-mlx5_0-1u
+[10] MPI startup(): DAPL provider ofa-v2-mlx5_0-1u
+[26] MPI startup(): shm and dapl data transfer modes
+[18] MPI startup(): shm and dapl data transfer modes
+[10] MPI startup(): shm and dapl data transfer modes
+[28] MPI startup(): shm and dapl data transfer modes
+[5] MPI startup(): DAPL provider ofa-v2-mlx5_0-1u
+[5] MPI startup(): shm and dapl data transfer modes
+[42] MPID_nem_init_dapl_coll_fns(): User set DAPL collective mask = 0000
+[42] MPID_nem_init_dapl_coll_fns(): Effective DAPL collective mask = 0000
+[44] MPID_nem_init_dapl_coll_fns(): User set DAPL collective mask = 0000
+[44] MPID_nem_init_dapl_coll_fns(): Effective DAPL collective mask = 0000
+[47] MPID_nem_init_dapl_coll_fns(): User set DAPL collective mask = 0000
+[47] MPID_nem_init_dapl_coll_fns(): Effective DAPL collective mask = 0000
+[48] MPID_nem_init_dapl_coll_fns(): User set DAPL collective mask = 0000
+[48] MPID_nem_init_dapl_coll_fns(): Effective DAPL collective mask = 0000
+[52] MPID_nem_init_dapl_coll_fns(): User set DAPL collective mask = 0000
+[52] MPID_nem_init_dapl_coll_fns(): Effective DAPL collective mask = 0000
+[55] MPID_nem_init_dapl_coll_fns(): User set DAPL collective mask = 0000
+[55] MPID_nem_init_dapl_coll_fns(): Effective DAPL collective mask = 0000
+[45] MPID_nem_init_dapl_coll_fns(): User set DAPL collective mask = 0000
+[45] MPID_nem_init_dapl_coll_fns(): Effective DAPL collective mask = 0000
+[65] MPID_nem_init_dapl_coll_fns(): User set DAPL collective mask = 0000
+[65] MPID_nem_init_dapl_coll_fns(): Effective DAPL collective mask = 0000
+[66] MPID_nem_init_dapl_coll_fns(): User set DAPL collective mask = 0000
+[66] MPID_nem_init_dapl_coll_fns(): Effective DAPL collective mask = 0000
+[67] MPID_nem_init_dapl_coll_fns(): User set DAPL collective mask = 0000
+[67] MPID_nem_init_dapl_coll_fns(): Effective DAPL collective mask = 0000
+[69] MPID_nem_init_dapl_coll_fns(): User set DAPL collective mask = 0000
+[69] MPID_nem_init_dapl_coll_fns(): Effective DAPL collective mask = 0000
+[71] MPID_nem_init_dapl_coll_fns(): User set DAPL collective mask = 0000
+[71] MPID_nem_init_dapl_coll_fns(): Effective DAPL collective mask = 0000
+[72] MPID_nem_init_dapl_coll_fns(): User set DAPL collective mask = 0000
+[72] MPID_nem_init_dapl_coll_fns(): Effective DAPL collective mask = 0000
+[73] MPID_nem_init_dapl_coll_fns(): User set DAPL collective mask = 0000
+[73] MPID_nem_init_dapl_coll_fns(): Effective DAPL collective mask = 0000
+[75] MPID_nem_init_dapl_coll_fns(): User set DAPL collective mask = 0000
+[75] MPID_nem_init_dapl_coll_fns(): Effective DAPL collective mask = 0000
+[76] MPID_nem_init_dapl_coll_fns(): User set DAPL collective mask = 0000
+[76] MPID_nem_init_dapl_coll_fns(): Effective DAPL collective mask = 0000
+[78] MPID_nem_init_dapl_coll_fns(): User set DAPL collective mask = 0000
+[78] MPID_nem_init_dapl_coll_fns(): Effective DAPL collective mask = 0000
+[79] MPID_nem_init_dapl_coll_fns(): User set DAPL collective mask = 0000
+[79] MPID_nem_init_dapl_coll_fns(): Effective DAPL collective mask = 0000
+[40] MPID_nem_init_dapl_coll_fns(): User set DAPL collective mask = 0000
+[40] MPID_nem_init_dapl_coll_fns(): Effective DAPL collective mask = 0000
+[41] MPID_nem_init_dapl_coll_fns(): User set DAPL collective mask = 0000
+[41] MPID_nem_init_dapl_coll_fns(): Effective DAPL collective mask = 0000
+[43] MPID_nem_init_dapl_coll_fns(): User set DAPL collective mask = 0000
+[43] MPID_nem_init_dapl_coll_fns(): Effective DAPL collective mask = 0000
+[46] MPID_nem_init_dapl_coll_fns(): User set DAPL collective mask = 0000
+[46] MPID_nem_init_dapl_coll_fns(): Effective DAPL collective mask = 0000
+[51] MPID_nem_init_dapl_coll_fns(): User set DAPL collective mask = 0000
+[51] MPID_nem_init_dapl_coll_fns(): Effective DAPL collective mask = 0000
+[56] MPID_nem_init_dapl_coll_fns(): User set DAPL collective mask = 0000
+[56] MPID_nem_init_dapl_coll_fns(): Effective DAPL collective mask = 0000
+[57] MPID_nem_init_dapl_coll_fns(): User set DAPL collective mask = 0000
+[57] MPID_nem_init_dapl_coll_fns(): Effective DAPL collective mask = 0000
+[58] MPID_nem_init_dapl_coll_fns(): User set DAPL collective mask = 0000
+[58] MPID_nem_init_dapl_coll_fns(): Effective DAPL collective mask = 0000
+[60] MPID_nem_init_dapl_coll_fns(): User set DAPL collective mask = 0000
+[60] MPID_nem_init_dapl_coll_fns(): Effective DAPL collective mask = 0000
+[61] MPID_nem_init_dapl_coll_fns(): User set DAPL collective mask = 0000
+[61] MPID_nem_init_dapl_coll_fns(): Effective DAPL collective mask = 0000
+[62] MPID_nem_init_dapl_coll_fns(): User set DAPL collective mask = 0000
+[62] MPID_nem_init_dapl_coll_fns(): Effective DAPL collective mask = 0000
+[63] MPID_nem_init_dapl_coll_fns(): User set DAPL collective mask = 0000
+[63] MPID_nem_init_dapl_coll_fns(): Effective DAPL collective mask = 0000
+[77] MPID_nem_init_dapl_coll_fns(): User set DAPL collective mask = 0000
+[77] MPID_nem_init_dapl_coll_fns(): Effective DAPL collective mask = 0000
+[49] MPID_nem_init_dapl_coll_fns(): User set DAPL collective mask = 0000
+[49] MPID_nem_init_dapl_coll_fns(): Effective DAPL collective mask = 0000
+[50] MPID_nem_init_dapl_coll_fns(): User set DAPL collective mask = 0000
+[50] MPID_nem_init_dapl_coll_fns(): Effective DAPL collective mask = 0000
+[64] MPID_nem_init_dapl_coll_fns(): User set DAPL collective mask = 0000
+[64] MPID_nem_init_dapl_coll_fns(): Effective DAPL collective mask = 0000
+[68] MPID_nem_init_dapl_coll_fns(): User set DAPL collective mask = 0000
+[68] MPID_nem_init_dapl_coll_fns(): Effective DAPL collective mask = 0000
+[70] MPID_nem_init_dapl_coll_fns(): User set DAPL collective mask = 0000
+[70] MPID_nem_init_dapl_coll_fns(): Effective DAPL collective mask = 0000
+[74] MPID_nem_init_dapl_coll_fns(): User set DAPL collective mask = 0000
+[74] MPID_nem_init_dapl_coll_fns(): Effective DAPL collective mask = 0000
+[53] MPID_nem_init_dapl_coll_fns(): User set DAPL collective mask = 0000
+[53] MPID_nem_init_dapl_coll_fns(): Effective DAPL collective mask = 0000
+[54] MPID_nem_init_dapl_coll_fns(): User set DAPL collective mask = 0000
+[54] MPID_nem_init_dapl_coll_fns(): Effective DAPL collective mask = 0000
+[59] MPID_nem_init_dapl_coll_fns(): User set DAPL collective mask = 0000
+[59] MPID_nem_init_dapl_coll_fns(): Effective DAPL collective mask = 0000
+[2] MPID_nem_init_dapl_coll_fns(): User set DAPL collective mask = 0000
+[2] MPID_nem_init_dapl_coll_fns(): Effective DAPL collective mask = 0000
+[4] MPID_nem_init_dapl_coll_fns(): User set DAPL collective mask = 0000
+[4] MPID_nem_init_dapl_coll_fns(): Effective DAPL collective mask = 0000
+[7] MPID_nem_init_dapl_coll_fns(): User set DAPL collective mask = 0000
+[7] MPID_nem_init_dapl_coll_fns(): Effective DAPL collective mask = 0000
+[10] MPID_nem_init_dapl_coll_fns(): User set DAPL collective mask = 0000
+[10] MPID_nem_init_dapl_coll_fns(): Effective DAPL collective mask = 0000
+[11] MPID_nem_init_dapl_coll_fns(): User set DAPL collective mask = 0000
+[11] MPID_nem_init_dapl_coll_fns(): Effective DAPL collective mask = 0000
+[13] MPID_nem_init_dapl_coll_fns(): User set DAPL collective mask = 0000
+[13] MPID_nem_init_dapl_coll_fns(): Effective DAPL collective mask = 0000
+[16] MPID_nem_init_dapl_coll_fns(): User set DAPL collective mask = 0000
+[16] MPID_nem_init_dapl_coll_fns(): Effective DAPL collective mask = 0000
+[20] MPID_nem_init_dapl_coll_fns(): User set DAPL collective mask = 0000
+[20] MPID_nem_init_dapl_coll_fns(): Effective DAPL collective mask = 0000
+[21] MPID_nem_init_dapl_coll_fns(): User set DAPL collective mask = 0000
+[24] MPID_nem_init_dapl_coll_fns(): User set DAPL collective mask = 0000
+[24] MPID_nem_init_dapl_coll_fns(): Effective DAPL collective mask = 0000
+[27] MPID_nem_init_dapl_coll_fns(): User set DAPL collective mask = 0000
+[27] MPID_nem_init_dapl_coll_fns(): Effective DAPL collective mask = 0000
+[28] MPID_nem_init_dapl_coll_fns(): User set DAPL collective mask = 0000
+[28] MPID_nem_init_dapl_coll_fns(): Effective DAPL collective mask = 0000
+[30] MPID_nem_init_dapl_coll_fns(): User set DAPL collective mask = 0000
+[30] MPID_nem_init_dapl_coll_fns(): Effective DAPL collective mask = 0000
+[31] MPID_nem_init_dapl_coll_fns(): User set DAPL collective mask = 0000
+[31] MPID_nem_init_dapl_coll_fns(): Effective DAPL collective mask = 0000
+[33] MPID_nem_init_dapl_coll_fns(): User set DAPL collective mask = 0000
+[33] MPID_nem_init_dapl_coll_fns(): Effective DAPL collective mask = 0000
+[37] MPID_nem_init_dapl_coll_fns(): User set DAPL collective mask = 0000
+[37] MPID_nem_init_dapl_coll_fns(): Effective DAPL collective mask = 0000
+[39] MPID_nem_init_dapl_coll_fns(): User set DAPL collective mask = 0000
+[39] MPID_nem_init_dapl_coll_fns(): Effective DAPL collective mask = 0000
+[0] MPID_nem_init_dapl_coll_fns(): User set DAPL collective mask = 0000
+[0] MPID_nem_init_dapl_coll_fns(): Effective DAPL collective mask = 0000
+[1] MPID_nem_init_dapl_coll_fns(): User set DAPL collective mask = 0000
+[1] MPID_nem_init_dapl_coll_fns(): Effective DAPL collective mask = 0000
+[3] MPID_nem_init_dapl_coll_fns(): User set DAPL collective mask = 0000
+[3] MPID_nem_init_dapl_coll_fns(): Effective DAPL collective mask = 0000
+[5] MPID_nem_init_dapl_coll_fns(): User set DAPL collective mask = 0000
+[5] MPID_nem_init_dapl_coll_fns(): Effective DAPL collective mask = 0000
+[6] MPID_nem_init_dapl_coll_fns(): User set DAPL collective mask = 0000
+[6] MPID_nem_init_dapl_coll_fns(): Effective DAPL collective mask = 0000
+[8] MPID_nem_init_dapl_coll_fns(): User set DAPL collective mask = 0000
+[8] MPID_nem_init_dapl_coll_fns(): Effective DAPL collective mask = 0000
+[9] MPID_nem_init_dapl_coll_fns(): User set DAPL collective mask = 0000
+[9] MPID_nem_init_dapl_coll_fns(): Effective DAPL collective mask = 0000
+[12] MPID_nem_init_dapl_coll_fns(): User set DAPL collective mask = 0000
+[12] MPID_nem_init_dapl_coll_fns(): Effective DAPL collective mask = 0000
+[14] MPID_nem_init_dapl_coll_fns(): User set DAPL collective mask = 0000
+[14] MPID_nem_init_dapl_coll_fns(): Effective DAPL collective mask = 0000
+[15] MPID_nem_init_dapl_coll_fns(): User set DAPL collective mask = 0000
+[15] MPID_nem_init_dapl_coll_fns(): Effective DAPL collective mask = 0000
+[17] MPID_nem_init_dapl_coll_fns(): User set DAPL collective mask = 0000
+[17] MPID_nem_init_dapl_coll_fns(): Effective DAPL collective mask = 0000
+[18] MPID_nem_init_dapl_coll_fns(): User set DAPL collective mask = 0000
+[18] MPID_nem_init_dapl_coll_fns(): Effective DAPL collective mask = 0000
+[19] MPID_nem_init_dapl_coll_fns(): User set DAPL collective mask = 0000
+[19] MPID_nem_init_dapl_coll_fns(): Effective DAPL collective mask = 0000
+[22] MPID_nem_init_dapl_coll_fns(): User set DAPL collective mask = 0000
+[22] MPID_nem_init_dapl_coll_fns(): Effective DAPL collective mask = 0000
+[23] MPID_nem_init_dapl_coll_fns(): User set DAPL collective mask = 0000
+[23] MPID_nem_init_dapl_coll_fns(): Effective DAPL collective mask = 0000
+[25] MPID_nem_init_dapl_coll_fns(): User set DAPL collective mask = 0000
+[25] MPID_nem_init_dapl_coll_fns(): Effective DAPL collective mask = 0000
+[26] MPID_nem_init_dapl_coll_fns(): User set DAPL collective mask = 0000
+[26] MPID_nem_init_dapl_coll_fns(): Effective DAPL collective mask = 0000
+[29] MPID_nem_init_dapl_coll_fns(): User set DAPL collective mask = 0000
+[29] MPID_nem_init_dapl_coll_fns(): Effective DAPL collective mask = 0000
+[32] MPID_nem_init_dapl_coll_fns(): User set DAPL collective mask = 0000
+[32] MPID_nem_init_dapl_coll_fns(): Effective DAPL collective mask = 0000
+[34] MPID_nem_init_dapl_coll_fns(): User set DAPL collective mask = 0000
+[34] MPID_nem_init_dapl_coll_fns(): Effective DAPL collective mask = 0000
+[35] MPID_nem_init_dapl_coll_fns(): User set DAPL collective mask = 0000
+[35] MPID_nem_init_dapl_coll_fns(): Effective DAPL collective mask = 0000
+[36] MPID_nem_init_dapl_coll_fns(): User set DAPL collective mask = 0000
+[36] MPID_nem_init_dapl_coll_fns(): Effective DAPL collective mask = 0000
+[38] MPID_nem_init_dapl_coll_fns(): User set DAPL collective mask = 0000
+[38] MPID_nem_init_dapl_coll_fns(): Effective DAPL collective mask = 0000
+[21] MPID_nem_init_dapl_coll_fns(): Effective DAPL collective mask = 0000
+[0] MPI startup(): Device_reset_idx=0
+[0] MPI startup(): Allgather: 2: 0-0 & 0-80
+[0] MPI startup(): Allgather: 5: 1-96 & 0-80
+[0] MPI startup(): Allgather: 4: 97-149 & 0-80
+[0] MPI startup(): Allgather: 5: 150-256 & 0-80
+[0] MPI startup(): Allgather: 4: 257-17596 & 0-80
+[0] MPI startup(): Allgather: 3: 0-2147483647 & 0-80
+[0] MPI startup(): Allgather: 5: 0-36 & 81-160
+[0] MPI startup(): Allgather: 4: 37-10475 & 81-160
+[0] MPI startup(): Allgather: 3: 0-2147483647 & 81-160
+[0] MPI startup(): Allgather: 5: 0-29 & 161-320
+[0] MPI startup(): Allgather: 4: 30-7632 & 161-320
+[0] MPI startup(): Allgather: 3: 0-2147483647 & 161-320
+[0] MPI startup(): Allgather: 3: 0-0 & 321-640
+[0] MPI startup(): Allgather: 5: 1-45 & 321-640
+[0] MPI startup(): Allgather: 4: 46-8023 & 321-640
+[0] MPI startup(): Allgather: 3: 0-2147483647 & 321-640
+[0] MPI startup(): Allgather: 1: 0-0 & 641-2147483647
+[0] MPI startup(): Allgather: 5: 1-1 & 641-2147483647
+[0] MPI startup(): Allgather: 2: 2-2 & 641-2147483647
+[0] MPI startup(): Allgather: 5: 3-38 & 641-2147483647
+[0] MPI startup(): Allgather: 4: 39-8189 & 641-2147483647
+[0] MPI startup(): Allgather: 3: 0-2147483647 & 641-2147483647
+[0] MPI startup(): Allgatherv: 1: 0-0 & 0-80
+[0] MPI startup(): Allgatherv: 2: 1-2 & 0-80
+[0] MPI startup(): Allgatherv: 1: 3-64 & 0-80
+[0] MPI startup(): Allgatherv: 4: 65-3199 & 0-80
+[0] MPI startup(): Allgatherv: 3: 0-2147483647 & 0-80
+[0] MPI startup(): Allgatherv: 4: 0-0 & 81-160
+[0] MPI startup(): Allgatherv: 2: 1-2 & 81-160
+[0] MPI startup(): Allgatherv: 1: 3-26 & 81-160
+[0] MPI startup(): Allgatherv: 4: 27-4014 & 81-160
+[0] MPI startup(): Allgatherv: 3: 0-2147483647 & 81-160
+[0] MPI startup(): Allgatherv: 4: 0-0 & 161-320
+[0] MPI startup(): Allgatherv: 2: 1-39 & 161-320
+[0] MPI startup(): Allgatherv: 4: 40-3542 & 161-320
+[0] MPI startup(): Allgatherv: 3: 0-2147483647 & 161-320
+[0] MPI startup(): Allgatherv: 4: 0-0 & 321-640
+[0] MPI startup(): Allgatherv: 2: 1-35 & 321-640
+[0] MPI startup(): Allgatherv: 4: 36-3984 & 321-640
+[0] MPI startup(): Allgatherv: 3: 0-2147483647 & 321-640
+[0] MPI startup(): Allgatherv: 1: 0-0 & 641-2147483647
+[0] MPI startup(): Allgatherv: 2: 1-16 & 641-2147483647
+[0] MPI startup(): Allgatherv: 4: 17-4355 & 641-2147483647
+[0] MPI startup(): Allgatherv: 3: 0-2147483647 & 641-2147483647
+[0] MPI startup(): Allreduce: 10: 0-0 & 0-80
+[0] MPI startup(): Allreduce: 11: 1-32 & 0-80
+[0] MPI startup(): Allreduce: 12: 33-10846 & 0-80
+[0] MPI startup(): Allreduce: 2: 10847-1525423 & 0-80
+[0] MPI startup(): Allreduce: 8: 0-2147483647 & 0-80
+[0] MPI startup(): Allreduce: 8: 0-0 & 81-160
+[0] MPI startup(): Allreduce: 11: 1-85 & 81-160
+[0] MPI startup(): Allreduce: 12: 86-16243 & 81-160
+[0] MPI startup(): Allreduce: 2: 16244-2079700 & 81-160
+[0] MPI startup(): Allreduce: 8: 0-2147483647 & 81-160
+[0] MPI startup(): Allreduce: 8: 0-0 & 161-320
+[0] MPI startup(): Allreduce: 11: 1-12 & 161-320
+[0] MPI startup(): Allreduce: 12: 13-22 & 161-320
+[0] MPI startup(): Allreduce: 11: 23-68 & 161-320
+[0] MPI startup(): Allreduce: 12: 69-15358 & 161-320
+[0] MPI startup(): Allreduce: 2: 15359-2801917 & 161-320
+[0] MPI startup(): Allreduce: 4: 0-2147483647 & 161-320
+[0] MPI startup(): Allreduce: 1: 0-0 & 321-640
+[0] MPI startup(): Allreduce: 12: 1-4 & 321-640
+[0] MPI startup(): Allreduce: 11: 5-40 & 321-640
+[0] MPI startup(): Allreduce: 12: 41-64 & 321-640
+[0] MPI startup(): Allreduce: 11: 65-128 & 321-640
+[0] MPI startup(): Allreduce: 12: 129-13155 & 321-640
+[0] MPI startup(): Allreduce: 2: 13156-2984497 & 321-640
+[0] MPI startup(): Allreduce: 4: 0-2147483647 & 321-640
+[0] MPI startup(): Allreduce: 1: 0-0 & 641-2147483647
+[0] MPI startup(): Allreduce: 12: 1-4 & 641-2147483647
+[0] MPI startup(): Allreduce: 10: 5-29 & 641-2147483647
+[0] MPI startup(): Allreduce: 12: 30-36 & 641-2147483647
+[0] MPI startup(): Allreduce: 10: 37-74 & 641-2147483647
+[0] MPI startup(): Allreduce: 11: 75-220 & 641-2147483647
+[0] MPI startup(): Allreduce: 10: 221-256 & 641-2147483647
+[0] MPI startup(): Allreduce: 12: 257-8416 & 641-2147483647
+[0] MPI startup(): Allreduce: 2: 8417-2672861 & 641-2147483647
+[0] MPI startup(): Allreduce: 4: 0-2147483647 & 641-2147483647
+[0] MPI startup(): Alltoall: 4: 0-0 & 0-80
+[0] MPI startup(): Alltoall: 1: 1-208 & 0-80
+[0] MPI startup(): Alltoall: 2: 209-17455 & 0-80
+[0] MPI startup(): Alltoall: 3: 0-2147483647 & 0-80
+[0] MPI startup(): Alltoall: 2: 0-0 & 81-160
+[0] MPI startup(): Alltoall: 1: 1-253 & 81-160
+[0] MPI startup(): Alltoall: 2: 254-2048 & 81-160
+[0] MPI startup(): Alltoall: 3: 0-2147483647 & 81-160
+[0] MPI startup(): Alltoall: 4: 0-0 & 161-320
+[0] MPI startup(): Alltoall: 1: 1-243 & 161-320
+[0] MPI startup(): Alltoall: 2: 244-1024 & 161-320
+[0] MPI startup(): Alltoall: 3: 1025-68014 & 161-320
+[0] MPI startup(): Alltoall: 4: 68015-524288 & 161-320
+[0] MPI startup(): Alltoall: 3: 0-2147483647 & 161-320
+[0] MPI startup(): Alltoall: 2: 0-0 & 321-640
+[0] MPI startup(): Alltoall: 1: 1-110 & 321-640
+[0] MPI startup(): Alltoall: 2: 111-512 & 321-640
+[0] MPI startup(): Alltoall: 4: 513-2048 & 321-640
+[0] MPI startup(): Alltoall: 3: 2049-16384 & 321-640
+[0] MPI startup(): Alltoall: 4: 16385-32768 & 321-640
+[0] MPI startup(): Alltoall: 3: 32769-74069 & 321-640
+[0] MPI startup(): Alltoall: 4: 0-2147483647 & 321-640
+[0] MPI startup(): Alltoall: 4: 0-0 & 641-2147483647
+[0] MPI startup(): Alltoall: 1: 1-79 & 641-2147483647
+[0] MPI startup(): Alltoall: 2: 80-256 & 641-2147483647
+[0] MPI startup(): Alltoall: 4: 257-49632 & 641-2147483647
+[0] MPI startup(): Alltoall: 2: 0-2147483647 & 641-2147483647
+[0] MPI startup(): Alltoallv: 1: 0-2147483647 & 0-2147483647
+[0] MPI startup(): Alltoallw: 0: 0-2147483647 & 0-2147483647
+[0] MPI startup(): Barrier: 7: 0-2147483647 & 0-2147483647
+[0] MPI startup(): Bcast: 1: 0-0 & 0-80
+[0] MPI startup(): Bcast: 11: 1-1 & 0-80
+[0] MPI startup(): Bcast: 10: 2-69 & 0-80
+[0] MPI startup(): Bcast: 11: 70-128 & 0-80
+[0] MPI startup(): Bcast: 10: 129-256 & 0-80
+[0] MPI startup(): Bcast: 11: 257-13458 & 0-80
+[0] MPI startup(): Bcast: 10: 13459-31278 & 0-80
+[0] MPI startup(): Bcast: 11: 31279-112463 & 0-80
+[0] MPI startup(): Bcast: 9: 112464-262144 & 0-80
+[0] MPI startup(): Bcast: 10: 262145-524288 & 0-80
+[0] MPI startup(): Bcast: 11: 524289-1048576 & 0-80
+[0] MPI startup(): Bcast: 10: 1048577-2097152 & 0-80
+[0] MPI startup(): Bcast: 5: 0-2147483647 & 0-80
+[0] MPI startup(): Bcast: 1: 0-0 & 81-160
+[0] MPI startup(): Bcast: 10: 1-1 & 81-160
+[0] MPI startup(): Bcast: 9: 2-3 & 81-160
+[0] MPI startup(): Bcast: 11: 4-8 & 81-160
+[0] MPI startup(): Bcast: 10: 9-77 & 81-160
+[0] MPI startup(): Bcast: 11: 78-512 & 81-160
+[0] MPI startup(): Bcast: 9: 513-1024 & 81-160
+[0] MPI startup(): Bcast: 11: 1025-65536 & 81-160
+[0] MPI startup(): Bcast: 10: 65537-1048576 & 81-160
+[0] MPI startup(): Bcast: 9: 1048577-2097152 & 81-160
+[0] MPI startup(): Bcast: 10: 0-2147483647 & 81-160
+[0] MPI startup(): Bcast: 2: 0-0 & 161-320
+[0] MPI startup(): Bcast: 10: 1-64 & 161-320
+[0] MPI startup(): Bcast: 11: 65-8192 & 161-320
+[0] MPI startup(): Bcast: 9: 8193-20772 & 161-320
+[0] MPI startup(): Bcast: 10: 20773-364345 & 161-320
+[0] MPI startup(): Bcast: 9: 0-2147483647 & 161-320
+[0] MPI startup(): Bcast: 1: 0-0 & 321-640
+[0] MPI startup(): Bcast: 10: 1-8 & 321-640
+[0] MPI startup(): Bcast: 11: 9-219 & 321-640
+[0] MPI startup(): Bcast: 10: 220-512 & 321-640
+[0] MPI startup(): Bcast: 11: 513-2048 & 321-640
+[0] MPI startup(): Bcast: 10: 2049-4096 & 321-640
+[0] MPI startup(): Bcast: 11: 4097-32768 & 321-640
+[0] MPI startup(): Bcast: 10: 32769-65536 & 321-640
+[0] MPI startup(): Bcast: 11: 65537-131072 & 321-640
+[0] MPI startup(): Bcast: 9: 131073-742270 & 321-640
+[0] MPI startup(): Bcast: 6: 742271-1284555 & 321-640
+[0] MPI startup(): Bcast: 10: 1284556-3625708 & 321-640
+[0] MPI startup(): Bcast: 5: 0-2147483647 & 321-640
+[0] MPI startup(): Bcast: 2: 0-0 & 641-2147483647
+[0] MPI startup(): Bcast: 10: 1-16 & 641-2147483647
+[0] MPI startup(): Bcast: 11: 17-128 & 641-2147483647
+[0] MPI startup(): Bcast: 10: 129-512 & 641-2147483647
+[0] MPI startup(): Bcast: 11: 513-4096 & 641-2147483647
+[0] MPI startup(): Bcast: 10: 4097-8192 & 641-2147483647
+[0] MPI startup(): Bcast: 11: 8193-16384 & 641-2147483647
+[0] MPI startup(): Bcast: 10: 16385-32768 & 641-2147483647
+[0] MPI startup(): Bcast: 11: 32769-262144 & 641-2147483647
+[0] MPI startup(): Bcast: 9: 262145-524288 & 641-2147483647
+[0] MPI startup(): Bcast: 11: 524289-2097152 & 641-2147483647
+[0] MPI startup(): Bcast: 5: 0-2147483647 & 641-2147483647
+[0] MPI startup(): Exscan: 0: 0-2147483647 & 0-2147483647
+[0] MPI startup(): Gather: 3: 0-0 & 0-80
+[0] MPI startup(): Gather: 2: 1-5 & 0-80
+[0] MPI startup(): Gather: 1: 6-11 & 0-80
+[0] MPI startup(): Gather: 2: 12-256 & 0-80
+[0] MPI startup(): Gather: 1: 257-664 & 0-80
+[0] MPI startup(): Gather: 2: 665-1627 & 0-80
+[0] MPI startup(): Gather: 1: 1628-3026 & 0-80
+[0] MPI startup(): Gather: 2: 3027-4379 & 0-80
+[0] MPI startup(): Gather: 4: 4380-16382 & 0-80
+[0] MPI startup(): Gather: 3: 16383-16384 & 0-80
+[0] MPI startup(): Gather: 1: 16385-41272 & 0-80
+[0] MPI startup(): Gather: 3: 0-2147483647 & 0-80
+[0] MPI startup(): Gather: 2: 0-0 & 81-160
+[0] MPI startup(): Gather: 1: 1-64 & 81-160
+[0] MPI startup(): Gather: 4: 65-188 & 81-160
+[0] MPI startup(): Gather: 2: 189-2317 & 81-160
+[0] MPI startup(): Gather: 1: 2318-35650 & 81-160
+[0] MPI startup(): Gather: 3: 0-2147483647 & 81-160
+[0] MPI startup(): Gather: 2: 0-0 & 161-320
+[0] MPI startup(): Gather: 1: 1-386 & 161-320
+[0] MPI startup(): Gather: 4: 387-512 & 161-320
+[0] MPI startup(): Gather: 2: 513-1354 & 161-320
+[0] MPI startup(): Gather: 1: 1355-65442 & 161-320
+[0] MPI startup(): Gather: 3: 0-2147483647 & 161-320
+[0] MPI startup(): Gather: 4: 0-0 & 321-640
+[0] MPI startup(): Gather: 1: 1-112 & 321-640
+[0] MPI startup(): Gather: 4: 113-128 & 321-640
+[0] MPI startup(): Gather: 1: 129-32768 & 321-640
+[0] MPI startup(): Gather: 3: 0-2147483647 & 321-640
+[0] MPI startup(): Gather: 3: 0-0 & 641-2147483647
+[0] MPI startup(): Gather: 1: 1-65446 & 641-2147483647
+[0] MPI startup(): Gather: 3: 0-2147483647 & 641-2147483647
+[0] MPI startup(): Gatherv: 1: 0-2147483647 & 0-320
+[0] MPI startup(): Gatherv: 2: 0-2147483647 & 321-640
+[0] MPI startup(): Gatherv: 3: 0-2147483647 & 641-2147483647
+[0] MPI startup(): Reduce_scatter: 1: 0-21612 & 0-80
+[0] MPI startup(): Reduce_scatter: 4: 21613-162210 & 0-80
+[0] MPI startup(): Reduce_scatter: 5: 162211-2910901 & 0-80
+[0] MPI startup(): Reduce_scatter: 4: 0-2147483647 & 0-80
+[0] MPI startup(): Reduce_scatter: 3: 0-0 & 81-160
+[0] MPI startup(): Reduce_scatter: 1: 1-11880 & 81-160
+[0] MPI startup(): Reduce_scatter: 5: 11881-65536 & 81-160
+[0] MPI startup(): Reduce_scatter: 4: 65537-134828 & 81-160
+[0] MPI startup(): Reduce_scatter: 5: 134829-3796667 & 81-160
+[0] MPI startup(): Reduce_scatter: 4: 0-2147483647 & 81-160
+[0] MPI startup(): Reduce_scatter: 1: 0-21479 & 161-320
+[0] MPI startup(): Reduce_scatter: 5: 21480-76004 & 161-320
+[0] MPI startup(): Reduce_scatter: 4: 76005-137657 & 161-320
+[0] MPI startup(): Reduce_scatter: 5: 0-2147483647 & 161-320
+[0] MPI startup(): Reduce_scatter: 5: 0-0 & 321-640
+[0] MPI startup(): Reduce_scatter: 1: 1-71576 & 321-640
+[0] MPI startup(): Reduce_scatter: 4: 71577-160869 & 321-640
+[0] MPI startup(): Reduce_scatter: 5: 0-2147483647 & 321-640
+[0] MPI startup(): Reduce_scatter: 1: 0-0 & 641-2147483647
+[0] MPI startup(): Reduce_scatter: 4: 1-21 & 641-2147483647
+[0] MPI startup(): Reduce_scatter: 1: 22-103775 & 641-2147483647
+[0] MPI startup(): Reduce_scatter: 4: 103776-267032 & 641-2147483647
+[0] MPI startup(): Reduce_scatter: 5: 0-2147483647 & 641-2147483647
+[0] MPI startup(): Reduce: 2: 0-0 & 0-80
+[0] MPI startup(): Reduce: 8: 1-8 & 0-80
+[0] MPI startup(): Reduce: 9: 9-16 & 0-80
+[0] MPI startup(): Reduce: 10: 17-59 & 0-80
+[0] MPI startup(): Reduce: 11: 60-13957 & 0-80
+[0] MPI startup(): Reduce: 5: 13958-182129 & 0-80
+[0] MPI startup(): Reduce: 3: 0-2147483647 & 0-80
+[0] MPI startup(): Reduce: 9: 0-0 & 81-160
+[0] MPI startup(): Reduce: 8: 1-35 & 81-160
+[0] MPI startup(): Reduce: 11: 36-117 & 81-160
+[0] MPI startup(): Reduce: 10: 118-512 & 81-160
+[0] MPI startup(): Reduce: 11: 513-15855 & 81-160
+[0] MPI startup(): Reduce: 5: 15856-183863 & 81-160
+[0] MPI startup(): Reduce: 3: 0-2147483647 & 81-160
+[0] MPI startup(): Reduce: 10: 0-0 & 161-320
+[0] MPI startup(): Reduce: 11: 1-6 & 161-320
+[0] MPI startup(): Reduce: 10: 7-8 & 161-320
+[0] MPI startup(): Reduce: 11: 9-16 & 161-320
+[0] MPI startup(): Reduce: 10: 17-32 & 161-320
+[0] MPI startup(): Reduce: 11: 33-64 & 161-320
+[0] MPI startup(): Reduce: 10: 65-1024 & 161-320
+[0] MPI startup(): Reduce: 11: 1025-11929 & 161-320
+[0] MPI startup(): Reduce: 5: 11930-180232 & 161-320
+[0] MPI startup(): Reduce: 3: 0-2147483647 & 161-320
+[0] MPI startup(): Reduce: 1: 0-0 & 321-640
+[0] MPI startup(): Reduce: 10: 1-4096 & 321-640
+[0] MPI startup(): Reduce: 11: 4097-14731 & 321-640
+[0] MPI startup(): Reduce: 5: 14732-195853 & 321-640
+[0] MPI startup(): Reduce: 3: 0-2147483647 & 321-640
+[0] MPI startup(): Reduce: 3: 0-0 & 641-2147483647
+[0] MPI startup(): Reduce: 10: 1-16 & 641-2147483647
+[0] MPI startup(): Reduce: 11: 17-32 & 641-2147483647
+[0] MPI startup(): Reduce: 10: 33-1024 & 641-2147483647
+[0] MPI startup(): Reduce: 11: 1025-13624 & 641-2147483647
+[0] MPI startup(): Reduce: 5: 13625-230842 & 641-2147483647
+[0] MPI startup(): Reduce: 3: 0-2147483647 & 641-2147483647
+[0] MPI startup(): Scan: 0: 0-2147483647 & 0-2147483647
+[0] MPI startup(): Scatter: 2: 0-0 & 0-80
+[0] MPI startup(): Scatter: 1: 1-44 & 0-80
+[0] MPI startup(): Scatter: 2: 45-1901 & 0-80
+[0] MPI startup(): Scatter: 1: 1902-2852 & 0-80
+[0] MPI startup(): Scatter: 3: 2853-4096 & 0-80
+[0] MPI startup(): Scatter: 1: 4097-16384 & 0-80
+[0] MPI startup(): Scatter: 3: 0-2147483647 & 0-80
+[0] MPI startup(): Scatter: 2: 0-1 & 81-160
+[0] MPI startup(): Scatter: 1: 2-2 & 81-160
+[0] MPI startup(): Scatter: 2: 3-8 & 81-160
+[0] MPI startup(): Scatter: 1: 9-64 & 81-160
+[0] MPI startup(): Scatter: 2: 65-448 & 81-160
+[0] MPI startup(): Scatter: 1: 449-772 & 81-160
+[0] MPI startup(): Scatter: 2: 773-1149 & 81-160
+[0] MPI startup(): Scatter: 1: 1150-22387 & 81-160
+[0] MPI startup(): Scatter: 3: 0-2147483647 & 81-160
+[0] MPI startup(): Scatter: 2: 0-0 & 161-320
+[0] MPI startup(): Scatter: 1: 1-27028 & 161-320
+[0] MPI startup(): Scatter: 3: 0-2147483647 & 161-320
+[0] MPI startup(): Scatter: 2: 0-0 & 321-640
+[0] MPI startup(): Scatter: 1: 1-29137 & 321-640
+[0] MPI startup(): Scatter: 3: 0-2147483647 & 321-640
+[0] MPI startup(): Scatter: 1: 0-28737 & 641-2147483647
+[0] MPI startup(): Scatter: 3: 0-2147483647 & 641-2147483647
+[0] MPI startup(): Scatterv: 1: 0-2147483647 & 0-2147483647
+[45] MPI startup(): Recognition=2 Platform(code=512 ippn=11 dev=6) Fabric(intra=1 inter=4 flags=0x0)
+[51] MPI startup(): Recognition=2 Platform(code=512 ippn=11 dev=6) Fabric(intra=1 inter=4 flags=0x0)
+[62] MPI startup(): Recognition=2 Platform(code=512 ippn=11 dev=6) Fabric(intra=1 inter=4 flags=0x0)
+[63] MPI startup(): Recognition=2 Platform(code=512 ippn=11 dev=6) Fabric(intra=1 inter=4 flags=0x0)
+[67] MPI startup(): Recognition=2 Platform(code=512 ippn=11 dev=6) Fabric(intra=1 inter=4 flags=0x0)
+[69] MPI startup(): Recognition=2 Platform(code=512 ippn=11 dev=6) Fabric(intra=1 inter=4 flags=0x0)
+[79] MPI startup(): Recognition=2 Platform(code=512 ippn=11 dev=6) Fabric(intra=1 inter=4 flags=0x0)
+[41] MPI startup(): Recognition=2 Platform(code=512 ippn=11 dev=6) Fabric(intra=1 inter=4 flags=0x0)
+[43] MPI startup(): Recognition=2 Platform(code=512 ippn=11 dev=6) Fabric(intra=1 inter=4 flags=0x0)
+[47] MPI startup(): Recognition=2 Platform(code=512 ippn=11 dev=6) Fabric(intra=1 inter=4 flags=0x0)
+[49] MPI startup(): Recognition=2 Platform(code=512 ippn=11 dev=6) Fabric(intra=1 inter=4 flags=0x0)
+[50] MPI startup(): Recognition=2 Platform(code=512 ippn=11 dev=6) Fabric(intra=1 inter=4 flags=0x0)
+[53] MPI startup(): Recognition=2 Platform(code=512 ippn=11 dev=6) Fabric(intra=1 inter=4 flags=0x0)
+[54] MPI startup(): Recognition=2 Platform(code=512 ippn=11 dev=6) Fabric(intra=1 inter=4 flags=0x0)
+[55] MPI startup(): Recognition=2 Platform(code=512 ippn=11 dev=6) Fabric(intra=1 inter=4 flags=0x0)
+[57] MPI startup(): Recognition=2 Platform(code=512 ippn=11 dev=6) Fabric(intra=1 inter=4 flags=0x0)
+[58] MPI startup(): Recognition=2 Platform(code=512 ippn=11 dev=6) Fabric(intra=1 inter=4 flags=0x0)
+[59] MPI startup(): Recognition=2 Platform(code=512 ippn=11 dev=6) Fabric(intra=1 inter=4 flags=0x0)
+[61] MPI startup(): Recognition=2 Platform(code=512 ippn=11 dev=6) Fabric(intra=1 inter=4 flags=0x0)
+[66] MPI startup(): Recognition=2 Platform(code=512 ippn=11 dev=6) Fabric(intra=1 inter=4 flags=0x0)
+[70] MPI startup(): Recognition=2 Platform(code=512 ippn=11 dev=6) Fabric(intra=1 inter=4 flags=0x0)
+[71] MPI startup(): Recognition=2 Platform(code=512 ippn=11 dev=6) Fabric(intra=1 inter=4 flags=0x0)
+[73] MPI startup(): Recognition=2 Platform(code=512 ippn=11 dev=6) Fabric(intra=1 inter=4 flags=0x0)
+[75] MPI startup(): Recognition=2 Platform(code=512 ippn=11 dev=6) Fabric(intra=1 inter=4 flags=0x0)
+[78] MPI startup(): Recognition=2 Platform(code=512 ippn=11 dev=6) Fabric(intra=1 inter=4 flags=0x0)
+[42] MPI startup(): Recognition=2 Platform(code=512 ippn=11 dev=6) Fabric(intra=1 inter=4 flags=0x0)
+[44] MPI startup(): Recognition=2 Platform(code=512 ippn=11 dev=6) Fabric(intra=1 inter=4 flags=0x0)
+[46] MPI startup(): Recognition=2 Platform(code=512 ippn=11 dev=6) Fabric(intra=1 inter=4 flags=0x0)
+[48] MPI startup(): Recognition=2 Platform(code=512 ippn=11 dev=6) Fabric(intra=1 inter=4 flags=0x0)
+[52] MPI startup(): Recognition=2 Platform(code=512 ippn=11 dev=6) Fabric(intra=1 inter=4 flags=0x0)
+[56] MPI startup(): Recognition=2 Platform(code=512 ippn=11 dev=6) Fabric(intra=1 inter=4 flags=0x0)
+[60] MPI startup(): Recognition=2 Platform(code=512 ippn=11 dev=6) Fabric(intra=1 inter=4 flags=0x0)
+[64] MPI startup(): Recognition=2 Platform(code=512 ippn=11 dev=6) Fabric(intra=1 inter=4 flags=0x0)
+[65] MPI startup(): Recognition=2 Platform(code=512 ippn=11 dev=6) Fabric(intra=1 inter=4 flags=0x0)
+[68] MPI startup(): Recognition=2 Platform(code=512 ippn=11 dev=6) Fabric(intra=1 inter=4 flags=0x0)
+[72] MPI startup(): Recognition=2 Platform(code=512 ippn=11 dev=6) Fabric(intra=1 inter=4 flags=0x0)
+[3] MPI startup(): Recognition=2 Platform(code=512 ippn=11 dev=6) Fabric(intra=1 inter=4 flags=0x0)
+[74] MPI startup(): Recognition=2 Platform(code=512 ippn=11 dev=6) Fabric(intra=1 inter=4 flags=0x0)
+[21] MPI startup(): Recognition=2 Platform(code=512 ippn=11 dev=6) Fabric(intra=1 inter=4 flags=0x0)
+[76] MPI startup(): Recognition=2 Platform(code=512 ippn=11 dev=6) Fabric(intra=1 inter=4 flags=0x0)
+[22] MPI startup(): Recognition=2 Platform(code=512 ippn=11 dev=6) Fabric(intra=1 inter=4 flags=0x0)
+[77] MPI startup(): Recognition=2 Platform(code=512 ippn=11 dev=6) Fabric(intra=1 inter=4 flags=0x0)
+[24] MPI startup(): Recognition=2 Platform(code=512 ippn=11 dev=6) Fabric(intra=1 inter=4 flags=0x0)
+[28] MPI startup(): Recognition=2 Platform(code=512 ippn=11 dev=6) Fabric(intra=1 inter=4 flags=0x0)
+[29] MPI startup(): Recognition=2 Platform(code=512 ippn=11 dev=6) Fabric(intra=1 inter=4 flags=0x0)
+[30] MPI startup(): Recognition=2 Platform(code=512 ippn=11 dev=6) Fabric(intra=1 inter=4 flags=0x0)
+[38] MPI startup(): Recognition=2 Platform(code=512 ippn=11 dev=6) Fabric(intra=1 inter=4 flags=0x0)
+[0] MPI startup(): Rank    Pid      Node name  Pin cpu
+[0] MPI startup(): 0       60826    cn059      0
+[0] MPI startup(): 1       60827    cn059      1
+[0] MPI startup(): 2       60828    cn059      2
+[0] MPI startup(): 3       60829    cn059      3
+[0] MPI startup(): 4       60830    cn059      4
+[0] MPI startup(): 5       60831    cn059      5
+[0] MPI startup(): 6       60832    cn059      6
+[0] MPI startup(): 7       60833    cn059      7
+[0] MPI startup(): 8       60834    cn059      8
+[0] MPI startup(): 9       60835    cn059      9
+[0] MPI startup(): 10      60836    cn059      10
+[0] MPI startup(): 11      60837    cn059      11
+[0] MPI startup(): 12      60838    cn059      12
+[0] MPI startup(): 13      60839    cn059      13
+[0] MPI startup(): 14      60840    cn059      14
+[0] MPI startup(): 15      60841    cn059      15
+[0] MPI startup(): 16      60842    cn059      16
+[0] MPI startup(): 17      60843    cn059      17
+[0] MPI startup(): 18      60844    cn059      18
+[0] MPI startup(): 19      60845    cn059      19
+[0] MPI startup(): 20      60846    cn059      20
+[0] MPI startup(): 21      60847    cn059      21
+[0] MPI startup(): 22      60848    cn059      22
+[0] MPI startup(): 23      60849    cn059      23
+[0] MPI startup(): 24      60850    cn059      24
+[0] MPI startup(): 25      60851    cn059      25
+[0] MPI startup(): 26      60852    cn059      26
+[0] MPI startup(): 27      60853    cn059      27
+[0] MPI startup(): 28      60854    cn059      28
+[0] MPI startup(): 29      60855    cn059      29
+[0] MPI startup(): 30      60856    cn059      30
+[1] MPI startup(): Recognition=2 Platform(code=512 ippn=11 dev=6) Fabric(intra=1 inter=4 flags=0x0)
+[2] MPI startup(): Recognition=2 Platform(code=512 ippn=11 dev=6) Fabric(intra=1 inter=4 flags=0x0)
+[4] MPI startup(): Recognition=2 Platform(code=512 ippn=11 dev=6) Fabric(intra=1 inter=4 flags=0x0)
+[5] MPI startup(): Recognition=2 Platform(code=512 ippn=11 dev=6) Fabric(intra=1 inter=4 flags=0x0)
+[6] MPI startup(): Recognition=2 Platform(code=512 ippn=11 dev=6) Fabric(intra=1 inter=4 flags=0x0)
+[7] MPI startup(): Recognition=2 Platform(code=512 ippn=11 dev=6) Fabric(intra=1 inter=4 flags=0x0)
+[40] MPI startup(): Recognition=2 Platform(code=512 ippn=11 dev=6) Fabric(intra=1 inter=4 flags=0x0)
+[8] MPI startup(): Recognition=2 Platform(code=512 ippn=11 dev=6) Fabric(intra=1 inter=4 flags=0x0)
+[9] MPI startup(): Recognition=2 Platform(code=512 ippn=11 dev=6) Fabric(intra=1 inter=4 flags=0x0)
+[10] MPI startup(): Recognition=2 Platform(code=512 ippn=11 dev=6) Fabric(intra=1 inter=4 flags=0x0)
+[12] MPI startup(): Recognition=2 Platform(code=512 ippn=11 dev=6) Fabric(intra=1 inter=4 flags=0x0)
+[13] MPI startup(): Recognition=2 Platform(code=512 ippn=11 dev=6) Fabric(intra=1 inter=4 flags=0x0)
+[14] MPI startup(): Recognition=2 Platform(code=512 ippn=11 dev=6) Fabric(intra=1 inter=4 flags=0x0)
+[15] MPI startup(): Recognition=2 Platform(code=512 ippn=11 dev=6) Fabric(intra=1 inter=4 flags=0x0)
+[16] MPI startup(): Recognition=2 Platform(code=512 ippn=11 dev=6) Fabric(intra=1 inter=4 flags=0x0)
+[17] MPI startup(): Recognition=2 Platform(code=512 ippn=11 dev=6) Fabric(intra=1 inter=4 flags=0x0)
+[18] MPI startup(): Recognition=2 Platform(code=512 ippn=11 dev=6) Fabric(intra=1 inter=4 flags=0x0)
+[19] MPI startup(): Recognition=2 Platform(code=512 ippn=11 dev=6) Fabric(intra=1 inter=4 flags=0x0)
+[20] MPI startup(): Recognition=2 Platform(code=512 ippn=11 dev=6) Fabric(intra=1 inter=4 flags=0x0)
+[23] MPI startup(): Recognition=2 Platform(code=512 ippn=11 dev=6) Fabric(intra=1 inter=4 flags=0x0)
+[25] MPI startup(): Recognition=2 Platform(code=512 ippn=11 dev=6) Fabric(intra=1 inter=4 flags=0x0)
+[26] MPI startup(): Recognition=2 Platform(code=512 ippn=11 dev=6) Fabric(intra=1 inter=4 flags=0x0)
+[27] MPI startup(): Recognition=2 Platform(code=512 ippn=11 dev=6) Fabric(intra=1 inter=4 flags=0x0)
+[31] MPI startup(): Recognition=2 Platform(code=512 ippn=11 dev=6) Fabric(intra=1 inter=4 flags=0x0)
+[32] MPI startup(): Recognition=2 Platform(code=512 ippn=11 dev=6) Fabric(intra=1 inter=4 flags=0x0)
+[33] MPI startup(): Recognition=2 Platform(code=512 ippn=11 dev=6) Fabric(intra=1 inter=4 flags=0x0)
+[34] MPI startup(): Recognition=2 Platform(code=512 ippn=11 dev=6) Fabric(intra=1 inter=4 flags=0x0)
+[35] MPI startup(): Recognition=2 Platform(code=512 ippn=11 dev=6) Fabric(intra=1 inter=4 flags=0x0)
+[36] MPI startup(): Recognition=2 Platform(code=512 ippn=11 dev=6) Fabric(intra=1 inter=4 flags=0x0)
+[37] MPI startup(): Recognition=2 Platform(code=512 ippn=11 dev=6) Fabric(intra=1 inter=4 flags=0x0)
+[39] MPI startup(): Recognition=2 Platform(code=512 ippn=11 dev=6) Fabric(intra=1 inter=4 flags=0x0)
+[0] MPI startup(): 31      60857    cn059      31
+[0] MPI startup(): 32      60858    cn059      32
+[0] MPI startup(): 33      60859    cn059      33
+[0] MPI startup(): 34      60860    cn059      34
+[0] MPI startup(): 35      60861    cn059      35
+[0] MPI startup(): 36      60862    cn059      36
+[0] MPI startup(): 37      60863    cn059      37
+[0] MPI startup(): 38      60864    cn059      38
+[0] MPI startup(): 39      60865    cn059      39
+[0] MPI startup(): 40      176420   cn060      0
+[0] MPI startup(): 41      176421   cn060      1
+[0] MPI startup(): 42      176422   cn060      2
+[0] MPI startup(): 43      176423   cn060      3
+[0] MPI startup(): 44      176424   cn060      4
+[0] MPI startup(): 45      176425   cn060      5
+[0] MPI startup(): 46      176426   cn060      6
+[0] MPI startup(): 47      176427   cn060      7
+[0] MPI startup(): 48      176428   cn060      8
+[0] MPI startup(): 49      176429   cn060      9
+[0] MPI startup(): 50      176430   cn060      10
+[0] MPI startup(): 51      176431   cn060      11
+[0] MPI startup(): 52      176432   cn060      12
+[0] MPI startup(): 53      176433   cn060      13
+[0] MPI startup(): 54      176434   cn060      14
+[0] MPI startup(): 55      176435   cn060      15
+[0] MPI startup(): 56      176436   cn060      16
+[0] MPI startup(): 57      176437   cn060      17
+[0] MPI startup(): 58      176438   cn060      18
+[0] MPI startup(): 59      176439   cn060      19
+[0] MPI startup(): 60      176440   cn060      20
+[0] MPI startup(): 61      176441   cn060      21
+[0] MPI startup(): 62      176442   cn060      22
+[0] MPI startup(): 63      176443   cn060      23
+[0] MPI startup(): 64      176444   cn060      24
+[0] MPI startup(): 65      176445   cn060      25
+[0] MPI startup(): 66      176446   cn060      26
+[0] MPI startup(): 67      176447   cn060      27
+[0] MPI startup(): 68      176448   cn060      28
+[0] MPI startup(): 69      176449   cn060      29
+[0] MPI startup(): 70      176450   cn060      30
+[0] MPI startup(): 71      176451   cn060      31
+[0] MPI startup(): 72      176452   cn060      32
+[0] MPI startup(): 73      176453   cn060      33
+[0] MPI startup(): 74      176454   cn060      34
+[0] MPI startup(): 75      176455   cn060      35
+[0] MPI startup(): 76      176456   cn060      36
+[0] MPI startup(): 77      176457   cn060      37
+[0] MPI startup(): 78      176458   cn060      38
+[0] MPI startup(): 79      176459   cn060      39
+[0] MPI startup(): Recognition=2 Platform(code=512 ippn=11 dev=6) Fabric(intra=1 inter=4 flags=0x0)
+[11] MPI startup(): Recognition=2 Platform(code=512 ippn=11 dev=6) Fabric(intra=1 inter=4 flags=0x0)
+[0] MPI startup(): I_MPI_DEBUG=9
+[0] MPI startup(): I_MPI_FALLBACK=disable
+[0] MPI startup(): I_MPI_INFO_BRAND=Intel(R) Xeon(R) Gold 6148 
+[0] MPI startup(): I_MPI_INFO_CACHE1=0,1,2,3,4,8,9,10,11,12,16,17,18,19,20,24,25,26,27,28,32,33,34,35,36,40,41,42,43,44,48,49,50,51,52,56,57,58,59,60
+[0] MPI startup(): I_MPI_INFO_CACHE2=0,1,2,3,4,8,9,10,11,12,16,17,18,19,20,24,25,26,27,28,32,33,34,35,36,40,41,42,43,44,48,49,50,51,52,56,57,58,59,60
+[0] MPI startup(): I_MPI_INFO_CACHE3=0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+[0] MPI startup(): I_MPI_INFO_CACHES=3
+[0] MPI startup(): I_MPI_INFO_CACHE_SHARE=2,2,64
+[0] MPI startup(): I_MPI_INFO_CACHE_SIZE=32768,1048576,28835840
+[0] MPI startup(): I_MPI_INFO_CORE=0,1,2,3,4,8,9,10,11,12,16,17,18,19,20,24,25,26,27,28,0,1,2,3,4,8,9,10,11,12,16,17,18,19,20,24,25,26,27,28
+[0] MPI startup(): I_MPI_INFO_C_NAME=Unknown
+[0] MPI startup(): I_MPI_INFO_DESC=1342177280
+[0] MPI startup(): I_MPI_INFO_FLGB=-744488965
+[0] MPI startup(): I_MPI_INFO_FLGC=2147417087
+[0] MPI startup(): I_MPI_INFO_FLGCEXT=24
+[0] MPI startup(): I_MPI_INFO_FLGD=-1075053569
+[0] MPI startup(): I_MPI_INFO_FLGDEXT=-1677721600
+[0] MPI startup(): I_MPI_INFO_LCPU=40
+[0] MPI startup(): I_MPI_INFO_MODE=263
+[0] MPI startup(): I_MPI_INFO_NUMA_NODE_MAP=mlx5_0:0
+[0] MPI startup(): I_MPI_INFO_NUMA_NODE_NUM=2
+[0] MPI startup(): I_MPI_INFO_PACK=0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+[0] MPI startup(): I_MPI_INFO_SIGN=329300
+[0] MPI startup(): I_MPI_INFO_STATE=0
+[0] MPI startup(): I_MPI_INFO_THREAD=0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+[0] MPI startup(): I_MPI_INFO_VEND=1
+[0] MPI startup(): I_MPI_PIN_INFO=0
+[0] MPI startup(): I_MPI_PIN_MAPPING=40:0 0,1 1,2 2,3 3,4 4,5 5,6 6,7 7,8 8,9 9,10 10,11 11,12 12,13 13,14 14,15 15,16 16,17 17,18 18,19 19,20 20,21 21,22 22,23 23,24 24,25 25,26 26,27 27,28 28,29 29,30 30,31 31,32 32,33 33,34 34,35 35,36 36,37 37,38 38,39 39
+
+     Program PWSCF v.6.4.1 starts on 28Apr2022 at 12:47:40 
+
+     This program is part of the open-source Quantum ESPRESSO suite
+     for quantum simulation of materials; please cite
+         "P. Giannozzi et al., J. Phys.:Condens. Matter 21 395502 (2009);
+         "P. Giannozzi et al., J. Phys.:Condens. Matter 29 465901 (2017);
+          URL http://www.quantum-espresso.org", 
+     in publications or presentations arising from this work. More details at
+     http://www.quantum-espresso.org/quote
+
+     Parallel version (MPI & OpenMP), running on      80 processor cores
+     Number of MPI processes:                80
+     Threads/MPI process:                     1
+
+     MPI processes distributed on     2 nodes
+     R & G space division:  proc/nbgrp/npool/nimage =      80
+     Reading input from scbbands.in
+Warning: card &IONS ignored
+Warning: card / ignored
+Warning: card &CELL ignored
+Warning: card CELL_DOFREE ='2DXY' ignored
+Warning: card / ignored
+
+     Current dimensions of program PWSCF are:
+     Max number of different atomic species (ntypx) = 10
+     Max number of k-points (npk) =  40000
+     Max angular momentum in pseudopotentials (lmaxx) =  3
+
+     Atomic positions and unit cell read from directory:
+     ./tmp/grap.save/
+ 
+
+     --------------------------------------------
+     Parameters for DFT-D3 Dispersion Correction:
+     --------------------------------------------
+       Reference C6 values for interpolation: 
+
+         atom   Coordination number   C6
+         Cu         0.000           674.36
+         Cu         0.958           349.99
+
+       Values used:
+
+         atom   Coordination number  R0_AB[au]  C6      C8
+         Cu         3.847            3.119    349.99  28675.33
+         Cu         3.846            3.119    349.99  28675.33
+         Cu         3.846            3.119    349.99  28675.33
+         Cu         3.846            3.119    349.99  28675.33
+         Cu         3.847            3.119    349.99  28675.33
+         Cu         3.846            3.119    349.99  28675.33
+         Cu         3.846            3.119    349.99  28675.33
+         Cu         3.846            3.119    349.99  28675.33
+         Cu         3.846            3.119    349.99  28675.33
+         Cu         3.846            3.119    349.99  28675.33
+         Cu         3.846            3.119    349.99  28675.33
+         Cu         3.847            3.119    349.99  28675.33
+         Cu         3.847            3.119    349.99  28675.33
+         Cu         3.846            3.119    349.99  28675.33
+         Cu         3.846            3.119    349.99  28675.33
+         Cu         3.847            3.119    349.99  28675.33
+         Cu         3.847            3.119    349.99  28675.33
+         Cu         3.847            3.119    349.99  28675.33
+
+         Molecular C6 ( Ry / a.u.^6 ) =    113397.99
+
+
+     Subspace diagonalization in iterative solution of the eigenvalue problem:
+     one sub-group per band group will be used
+     scalapack distributed-memory algorithm (size of sub-group:  6*  6 procs)
+
+ 
+     Parallelization info
+     --------------------
+     sticks:   dense  smooth     PW     G-vecs:    dense   smooth      PW
+     Min         140      70     18                24662     8718    1192
+     Max         141      71     19                24681     8735    1213
+     Sum       11261    5629   1489              1973819   697885   96199
+ 
+
+
+     bravais-lattice index     =            6
+     lattice parameter (alat)  =      18.8279  a.u.
+     unit-cell volume          =   14610.6765 (a.u.)^3
+     number of atoms/cell      =           18
+     number of atomic types    =            1
+     number of electrons       =       198.00
+     number of Kohn-Sham states=          119
+     kinetic-energy cutoff     =      50.0000  Ry
+     charge density cutoff     =     400.0000  Ry
+     Exchange-correlation      =  SLA  PW   PBE  PBE ( 1  4  3  4 0 0)
+
+     celldm(1)=  18.827902  celldm(2)=   0.000000  celldm(3)=   2.189095
+     celldm(4)=   0.000000  celldm(5)=   0.000000  celldm(6)=   0.000000
+
+     crystal axes: (cart. coord. in units of alat)
+               a(1) = (   1.000000   0.000000   0.000000 )  
+               a(2) = (   0.000000   1.000000   0.000000 )  
+               a(3) = (   0.000000   0.000000   2.189095 )  
+
+     reciprocal axes: (cart. coord. in units 2 pi/alat)
+               b(1) = (  1.000000  0.000000  0.000000 )  
+               b(2) = (  0.000000  1.000000  0.000000 )  
+               b(3) = (  0.000000  0.000000  0.456810 )  
+
+
+     PseudoPot. # 1 for Cu read from file:
+     ./Cu.pbe-n-van_ak.UPF
+     MD5 check sum: 601f7c30f7467666bec936e0661ce3e1
+     Pseudo is Ultrasoft + core correction, Zval = 11.0
+     Generated by new atomic code, or converted to UPF format
+     Using radial grid of  867 points,  6 beta functions with: 
+                l(1) =   0
+                l(2) =   0
+                l(3) =   1
+                l(4) =   1
+                l(5) =   2
+                l(6) =   2
+     Q(r) pseudized with  8 coefficients,  rinner =    1.400   1.400   1.400
+                                                       1.400   1.400
+
+     atomic species   valence    mass     pseudopotential
+        Cu            11.00    63.54600     Cu( 1.00)
+
+      2 Sym. Ops. (no inversion) found
+
+
+                                    s                        frac. trans.
+
+      isym =  1     identity                                     
+
+ cryst.   s( 1) = (     1          0          0      )
+                  (     0          1          0      )
+                  (     0          0          1      )
+
+ cart.    s( 1) = (  1.0000000  0.0000000  0.0000000 )
+                  (  0.0000000  1.0000000  0.0000000 )
+                  (  0.0000000  0.0000000  1.0000000 )
+
+
+      isym =  2     inv. 180 deg rotation - cart. axis [1,-1,0]  
+
+ cryst.   s( 2) = (     0          1          0      )
+                  (     1          0          0      )
+                  (     0          0          1      )
+
+ cart.    s( 2) = (  0.0000000  1.0000000  0.0000000 )
+                  (  1.0000000  0.0000000  0.0000000 )
+                  (  0.0000000  0.0000000  1.0000000 )
+
+
+     point group C_s (m)    
+     there are  2 classes
+     the character table:
+
+       E     s    
+A'     1.00  1.00
+A''    1.00 -1.00
+
+     the symmetry operations in each class and the name of the first element:
+
+     E        1
+          identity                                               
+     s        2
+          inv. 180 deg rotation - cart. axis [1,-1,0]            
+
+   Cartesian axes
+
+     site n.     atom                  positions (alat units)
+         1           Cu  tau(   1) = (   0.0920290   0.0920290   1.0036899  )
+         2           Cu  tau(   2) = (   0.2587005   0.2587005   1.0036840  )
+         3           Cu  tau(   3) = (   0.0920359   0.4254004   1.0036843  )
+         4           Cu  tau(   4) = (   0.2586847   0.5920564   1.0036829  )
+         5           Cu  tau(   5) = (   0.0920159   0.7587188   1.0036844  )
+         6           Cu  tau(   6) = (   0.2586845   0.9253856   1.0036827  )
+         7           Cu  tau(   7) = (   0.4254004   0.0920359   1.0036843  )
+         8           Cu  tau(   8) = (   0.5920564   0.2586847   1.0036829  )
+         9           Cu  tau(   9) = (   0.4253757   0.4253757   1.0036823  )
+        10           Cu  tau(  10) = (   0.5920683   0.5920683   1.0036781  )
+        11           Cu  tau(  11) = (   0.4253942   0.7587257   1.0036842  )
+        12           Cu  tau(  12) = (   0.5920967   0.9253880   1.0036834  )
+        13           Cu  tau(  13) = (   0.7587188   0.0920159   1.0036844  )
+        14           Cu  tau(  14) = (   0.9253856   0.2586845   1.0036827  )
+        15           Cu  tau(  15) = (   0.7587257   0.4253942   1.0036842  )
+        16           Cu  tau(  16) = (   0.9253880   0.5920967   1.0036834  )
+        17           Cu  tau(  17) = (   0.7587390   0.7587390   1.0036878  )
+        18           Cu  tau(  18) = (   0.9253658   0.9253658   1.0036837  )
+
+   Crystallographic axes
+
+     site n.     atom                  positions (cryst. coord.)
+         1           Cu  tau(   1) = (  0.0920290  0.0920290  0.4584954  )
+         2           Cu  tau(   2) = (  0.2587005  0.2587005  0.4584927  )
+         3           Cu  tau(   3) = (  0.0920359  0.4254004  0.4584929  )
+         4           Cu  tau(   4) = (  0.2586847  0.5920564  0.4584922  )
+         5           Cu  tau(   5) = (  0.0920159  0.7587188  0.4584929  )
+         6           Cu  tau(   6) = (  0.2586845  0.9253856  0.4584921  )
+         7           Cu  tau(   7) = (  0.4254004  0.0920359  0.4584929  )
+         8           Cu  tau(   8) = (  0.5920564  0.2586847  0.4584922  )
+         9           Cu  tau(   9) = (  0.4253757  0.4253757  0.4584920  )
+        10           Cu  tau(  10) = (  0.5920683  0.5920683  0.4584900  )
+        11           Cu  tau(  11) = (  0.4253942  0.7587257  0.4584928  )
+        12           Cu  tau(  12) = (  0.5920967  0.9253880  0.4584925  )
+        13           Cu  tau(  13) = (  0.7587188  0.0920159  0.4584929  )
+        14           Cu  tau(  14) = (  0.9253856  0.2586845  0.4584921  )
+        15           Cu  tau(  15) = (  0.7587257  0.4253942  0.4584928  )
+        16           Cu  tau(  16) = (  0.9253880  0.5920967  0.4584925  )
+        17           Cu  tau(  17) = (  0.7587390  0.7587390  0.4584944  )
+        18           Cu  tau(  18) = (  0.9253658  0.9253658  0.4584926  )
+
+     number of k points=     5  Methfessel-Paxton smearing, width (Ry)=  0.0200
+                       cart. coord. in units 2pi/alat
+        k(    1) = (   0.0000000   0.0000000   0.0000000), wk =   0.4938272
+        k(    2) = (   0.0000000   0.5000000   0.0000000), wk =   0.4938272
+        k(    3) = (   0.5000000   0.5000000   0.0000000), wk =   0.4938272
+        k(    4) = (   0.5000000   0.0000000   0.0000000), wk =   0.4938272
+        k(    5) = (   0.0000000   0.0000000   0.0000000), wk =   0.0246914
+
+                       cryst. coord.
+        k(    1) = (   0.0000000   0.0000000   0.0000000), wk =   0.4938272
+        k(    2) = (   0.0000000   0.5000000   0.0000000), wk =   0.4938272
+        k(    3) = (   0.5000000   0.5000000   0.0000000), wk =   0.4938272
+        k(    4) = (   0.5000000   0.0000000   0.0000000), wk =   0.4938272
+        k(    5) = (   0.0000000   0.0000000   0.0000000), wk =   0.0246914
+
+     Dense  grid:  1973819 G-vectors     FFT dimensions: ( 120, 120, 270)
+
+     Smooth grid:   697885 G-vectors     FFT dimensions: (  90,  90, 192)
+
+     Dynamical RAM for                 wfc:       1.98 MB
+
+     Dynamical RAM for     wfc (w. buffer):       1.98 MB
+
+     Dynamical RAM for           str. fact:       0.38 MB
+
+     Dynamical RAM for           local pot:       0.00 MB
+
+     Dynamical RAM for          nlocal pot:       5.39 MB
+
+     Dynamical RAM for                qrad:       4.80 MB
+
+     Dynamical RAM for          rho,v,vnew:       2.45 MB
+
+     Dynamical RAM for           G-vectors:       1.48 MB
+
+     Dynamical RAM for          h,s,v(r/c):       0.29 MB
+
+     Dynamical RAM for          <psi|beta>:       0.59 MB
+
+     Dynamical RAM for                 psi:       7.92 MB
+
+     Dynamical RAM for                hpsi:       7.92 MB
+
+     Dynamical RAM for                spsi:       7.92 MB
+
+     Dynamical RAM for      wfcinit/wfcrot:       5.99 MB
+
+     Dynamical RAM for           addusdens:      76.81 MB
+
+     Estimated static dynamical RAM per process >      19.43 MB
+
+     Estimated max dynamical RAM per process >      96.24 MB
+
+     Estimated total dynamical RAM >       7.52 GB
+
+     The potential is recalculated from file :
+     ./tmp/grap.save/charge-density
+
+
+     negative rho (up, down):  1.315E-03 0.000E+00
+     Starting wfcs are  162 randomized atomic wfcs
+
+     Band Structure Calculation
+     Davidson diagonalization with overlap
+
+     Computing kpt #:     1
+     total cpu time spent up to now is        9.1 secs
+
+     Computing kpt #:     2
+     total cpu time spent up to now is       15.4 secs
+
+     Computing kpt #:     3
+     total cpu time spent up to now is       21.5 secs
+
+     Computing kpt #:     4
+     total cpu time spent up to now is       29.0 secs
+
+     Computing kpt #:     5
+     total cpu time spent up to now is       33.2 secs
+
+     ethr =  5.05E-10,  avg # of iterations = 49.0
+
+     total cpu time spent up to now is       33.2 secs
+
+     End of band structure calculation
+
+          k = 0.0000 0.0000 0.0000 ( 87185 PWs)   bands (ev):
+
+    -8.8767  -7.3227  -7.3223  -7.3219  -7.3215  -6.7399  -6.6818  -6.6816
+    -6.6816  -6.6815  -6.4872  -6.1639  -6.1633  -6.1629  -6.1626  -5.9416
+    -5.9410  -5.9405  -5.9403  -5.6466  -5.6465  -5.6462  -5.6461  -5.6363
+    -5.6360  -5.6354  -5.6350  -5.4882  -5.4880  -5.4876  -5.4874  -5.4646
+    -5.4642  -5.4641  -5.4636  -5.2723  -5.2723  -5.2437  -5.2435  -5.2432
+    -5.2428  -5.1954  -4.9901  -4.9900  -4.9896  -4.9893  -4.8725  -4.8719
+    -4.8716  -4.8715  -4.8487  -4.8485  -4.8482  -4.8479  -4.7861  -4.7859
+    -4.7859  -4.7857  -4.5639  -4.5636  -4.5636  -4.5634  -4.4686  -4.4681
+    -4.4676  -4.4671  -4.4541  -4.4538  -4.4535  -4.4532  -4.4367  -4.4365
+    -4.4361  -4.4357  -4.4246  -4.4245  -4.4240  -4.4237  -4.3814  -4.3814
+    -4.3813  -4.3812  -4.3541  -4.3538  -4.3535  -4.3532  -4.2297  -4.2296
+    -4.2291  -4.2287  -4.2045  -4.1419  -4.1419  -4.0502  -4.0502  -4.0500
+    -4.0500  -3.8366  -3.2206  -2.3833  -1.5898  -1.5897  -1.5893  -1.5889
+    -0.6301  -0.6299  -0.6296  -0.6293  -0.2954  -0.2953  -0.2951  -0.2948
+     1.2264   1.2266   1.2267   1.2270   1.2736   1.3705   1.3705
+
+          k = 0.0000 0.5000 0.0000 ( 87270 PWs)   bands (ev):
+
+    -8.4696  -8.4680  -7.1057  -7.1056  -7.1046  -7.1044  -6.5716  -6.5694
+    -6.3509  -6.3486  -6.2204  -6.2200  -6.2181  -6.2179  -6.0838  -6.0837
+    -5.9684  -5.9681  -5.9662  -5.9657  -5.6949  -5.6946  -5.6932  -5.6926
+    -5.6661  -5.6660  -5.6638  -5.6637  -5.4594  -5.4592  -5.4588  -5.4585
+    -5.2802  -5.2801  -5.2735  -5.2710  -5.1977  -5.1954  -5.1448  -5.1446
+    -5.1440  -5.1438  -5.1206  -5.1205  -5.1061  -5.1039  -4.9527  -4.9525
+    -4.9516  -4.9512  -4.8999  -4.8993  -4.8976  -4.8972  -4.8036  -4.8033
+    -4.8015  -4.8009  -4.7219  -4.7218  -4.7212  -4.7210  -4.7071  -4.7070
+    -4.7070  -4.7069  -4.4839  -4.4834  -4.4813  -4.4810  -4.4351  -4.4329
+    -4.3132  -4.3130  -4.3120  -4.3115  -4.2809  -4.2803  -4.2784  -4.2776
+    -4.2684  -4.2659  -4.2188  -4.2161  -4.1972  -4.1971  -4.1964  -4.1961
+    -4.1325  -4.1324  -4.1298  -4.1297  -3.9562  -3.9534  -3.8561  -3.8560
+    -3.6079  -3.6052  -2.7796  -2.7795  -2.7794  -2.7793  -1.7527  -1.7520
+    -1.0776  -1.0775  -1.0763  -1.0762   0.0847   0.0848   0.0858   0.0859
+     1.6423   1.6426   1.6823   1.6839   1.7712   1.7713   2.1099
+
+          k = 0.5000 0.5000 0.0000 ( 87260 PWs)   bands (ev):
+
+    -8.0958  -8.0946  -8.0941  -8.0926  -6.3963  -6.3944  -6.3938  -6.3917
+    -6.3109  -6.3109  -6.2006  -6.1985  -6.1980  -6.1959  -6.0708  -6.0705
+    -6.0703  -6.0703  -6.0702  -6.0696  -6.0694  -6.0693  -5.7684  -5.7684
+    -5.3985  -5.3985  -5.3984  -5.3982  -5.3852  -5.3849  -5.3844  -5.3844
+    -5.3841  -5.3840  -5.3835  -5.3834  -5.2697  -5.2697  -5.2694  -5.2693
+    -5.2692  -5.2690  -5.2684  -5.2684  -5.0222  -5.0201  -5.0198  -5.0178
+    -5.0002  -5.0001  -4.9997  -4.9993  -4.7594  -4.7593  -4.7592  -4.7590
+    -4.6642  -4.6641  -4.5927  -4.5924  -4.5919  -4.5917  -4.5906  -4.5903
+    -4.5902  -4.5896  -4.4461  -4.4460  -4.4324  -4.4323  -4.4318  -4.4317
+    -4.4313  -4.4313  -4.4308  -4.4307  -4.3872  -4.3854  -4.3853  -4.3836
+    -4.1116  -4.1115  -4.1113  -4.1112  -4.0575  -4.0548  -4.0546  -4.0520
+    -4.0193  -4.0193  -3.9321  -3.9303  -3.9301  -3.9283  -3.5763  -3.5762
+    -3.5759  -3.5759  -3.5749  -3.5748  -3.5744  -3.5743  -1.9998  -1.9998
+    -1.2559  -1.2552  -1.2550  -1.2541   1.0320   1.0320   2.0108   2.0111
+     2.0111   2.0114   2.0191   2.0201   2.0203   2.0212   2.1007
+
+          k = 0.5000 0.0000 0.0000 ( 87270 PWs)   bands (ev):
+
+    -8.4696  -8.4680  -7.1057  -7.1056  -7.1046  -7.1044  -6.5716  -6.5694
+    -6.3509  -6.3486  -6.2204  -6.2200  -6.2181  -6.2179  -6.0838  -6.0837
+    -5.9684  -5.9681  -5.9662  -5.9657  -5.6949  -5.6946  -5.6932  -5.6926
+    -5.6661  -5.6660  -5.6638  -5.6637  -5.4594  -5.4592  -5.4588  -5.4585
+    -5.2802  -5.2801  -5.2735  -5.2710  -5.1977  -5.1954  -5.1448  -5.1446
+    -5.1440  -5.1438  -5.1206  -5.1205  -5.1061  -5.1039  -4.9527  -4.9525
+    -4.9516  -4.9512  -4.8999  -4.8993  -4.8976  -4.8972  -4.8036  -4.8033
+    -4.8015  -4.8009  -4.7219  -4.7218  -4.7212  -4.7210  -4.7071  -4.7070
+    -4.7070  -4.7069  -4.4839  -4.4834  -4.4813  -4.4810  -4.4351  -4.4329
+    -4.3132  -4.3130  -4.3120  -4.3115  -4.2809  -4.2803  -4.2784  -4.2776
+    -4.2684  -4.2659  -4.2188  -4.2161  -4.1972  -4.1971  -4.1964  -4.1961
+    -4.1325  -4.1324  -4.1298  -4.1297  -3.9562  -3.9534  -3.8561  -3.8560
+    -3.6079  -3.6052  -2.7796  -2.7795  -2.7794  -2.7793  -1.7527  -1.7520
+    -1.0776  -1.0775  -1.0763  -1.0762   0.0847   0.0848   0.0858   0.0859
+     1.6423   1.6426   1.6823   1.6839   1.7712   1.7713   2.1099
+
+          k = 0.0000 0.0000 0.0000 ( 87185 PWs)   bands (ev):
+
+    -8.8767  -7.3227  -7.3223  -7.3219  -7.3215  -6.7399  -6.6818  -6.6816
+    -6.6816  -6.6815  -6.4872  -6.1639  -6.1633  -6.1629  -6.1626  -5.9416
+    -5.9410  -5.9405  -5.9403  -5.6466  -5.6465  -5.6462  -5.6461  -5.6363
+    -5.6360  -5.6354  -5.6350  -5.4882  -5.4880  -5.4876  -5.4874  -5.4646
+    -5.4642  -5.4641  -5.4636  -5.2723  -5.2723  -5.2437  -5.2435  -5.2432
+    -5.2428  -5.1954  -4.9901  -4.9900  -4.9896  -4.9893  -4.8725  -4.8719
+    -4.8716  -4.8715  -4.8487  -4.8485  -4.8482  -4.8479  -4.7861  -4.7859
+    -4.7859  -4.7857  -4.5639  -4.5636  -4.5636  -4.5634  -4.4686  -4.4681
+    -4.4676  -4.4671  -4.4541  -4.4538  -4.4535  -4.4532  -4.4367  -4.4365
+    -4.4361  -4.4357  -4.4246  -4.4245  -4.4240  -4.4237  -4.3814  -4.3814
+    -4.3813  -4.3812  -4.3541  -4.3538  -4.3535  -4.3532  -4.2297  -4.2296
+    -4.2291  -4.2287  -4.2045  -4.1419  -4.1419  -4.0502  -4.0502  -4.0500
+    -4.0500  -3.8366  -3.2206  -2.3833  -1.5898  -1.5897  -1.5893  -1.5889
+    -0.6301  -0.6299  -0.6296  -0.6293  -0.2954  -0.2953  -0.2951  -0.2948
+     1.2264   1.2266   1.2267   1.2270   1.2736   1.3705   1.3705
+
+     Writing output data file grap.save/
+ 
+     init_run     :      1.21s CPU      2.45s WALL (       1 calls)
+     electrons    :     27.70s CPU     29.84s WALL (       1 calls)
+
+     Called by init_run:
+     wfcinit      :      0.00s CPU      0.01s WALL (       1 calls)
+     wfcinit:atom :      0.01s CPU      0.01s WALL (       5 calls)
+     wfcinit:wfcr :      1.32s CPU      2.54s WALL (       5 calls)
+     potinit      :      0.08s CPU      0.30s WALL (       1 calls)
+     hinit0       :      0.10s CPU      0.61s WALL (       1 calls)
+
+     Called by electrons:
+     c_bands      :     27.70s CPU     29.83s WALL (       1 calls)
+     v_of_rho     :      0.04s CPU      0.10s WALL (       1 calls)
+     v_h          :      0.00s CPU      0.00s WALL (       1 calls)
+     v_xc         :      0.03s CPU      0.09s WALL (       1 calls)
+     newd         :      0.08s CPU      0.28s WALL (       1 calls)
+
+     Called by c_bands:
+     init_us_2    :      0.01s CPU      0.02s WALL (       5 calls)
+     cegterg      :     25.12s CPU     25.88s WALL (      15 calls)
+
+     Called by sum_band:
+
+     Called by *egterg:
+     h_psi        :     13.65s CPU     13.91s WALL (     265 calls)
+     s_psi        :      0.98s CPU      0.98s WALL (     265 calls)
+     g_psi        :      0.04s CPU      0.04s WALL (     245 calls)
+     cdiaghg      :      6.99s CPU      8.60s WALL (     250 calls)
+     cegterg:over :      1.67s CPU      1.68s WALL (     245 calls)
+     cegterg:upda :      1.81s CPU      1.84s WALL (     245 calls)
+     cegterg:last :      0.91s CPU      0.93s WALL (      30 calls)
+     cdiaghg:chol :      0.72s CPU      1.29s WALL (     250 calls)
+     cdiaghg:inve :      0.32s CPU      0.39s WALL (     250 calls)
+     cdiaghg:para :      0.33s CPU      0.34s WALL (     500 calls)
+
+     Called by h_psi:
+     h_psi:pot    :     13.57s CPU     13.82s WALL (     265 calls)
+     h_psi:calbec :      1.05s CPU      1.16s WALL (     265 calls)
+     vloc_psi     :     11.49s CPU     11.61s WALL (     265 calls)
+     add_vuspsi   :      1.03s CPU      1.04s WALL (     265 calls)
+
+     General routines
+     calbec       :      1.05s CPU      1.16s WALL (     265 calls)
+     fft          :      0.05s CPU      0.41s WALL (      13 calls)
+     ffts         :      0.00s CPU      0.06s WALL (       1 calls)
+     fftw         :     10.95s CPU     11.08s WALL (   20822 calls)
+     interpolate  :      0.01s CPU      0.06s WALL (       1 calls)
+     davcio       :      0.00s CPU      0.03s WALL (      10 calls)
+ 
+     Parallel routines
+     fft_scatt_xy :      1.19s CPU      1.20s WALL (   20836 calls)
+     fft_scatt_yz :      7.14s CPU      7.22s WALL (   20836 calls)
+ 
+     PWSCF        :     30.90s CPU     36.27s WALL
+
+ 
+   This run was terminated on:  12:48:17  28Apr2022            
+
+=------------------------------------------------------------------------------=
+   JOB DONE.
+=------------------------------------------------------------------------------=

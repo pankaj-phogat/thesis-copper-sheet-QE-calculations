@@ -1,0 +1,7 @@
+&bands
+outdir = 'tmp'
+prefix = 'grap'
+filband = 'ScB.bands'
+lsym=.true.
+/
+

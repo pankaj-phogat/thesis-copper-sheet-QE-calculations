@@ -1,0 +1,64 @@
+&CONTROL
+                 calculation = 'vc-relax' ,
+                restart_mode = 'from_scratch' ,
+                  wf_collect = .true. ,
+                      outdir = './tmp',
+                  pseudo_dir = '.' ,
+                      prefix = 'grap' ,
+                     tstress = .true. ,
+                     tprnfor = .true. ,
+                   verbosity = 'high',
+               etot_conv_thr = 1.0D-4,
+               forc_conv_thr = 1.0D-3,
+                       nstep =  250
+ /
+ &SYSTEM
+    a     =  1.08638e+01 ,
+    c     =  2.18106e+01 ,
+    ibrav = 6 ,
+    nat   = 18 ,
+    ntyp  = 1 ,
+                     ecutwfc = 50.D0 ,
+                     ecutrho = 400.D0 ,
+                 occupations = 'smearing' ,
+                     degauss = 0.02 ,
+                    smearing = 'mp' ,
+                    vdw_corr = 'grimme-d3' ,
+ /
+ &ELECTRONS
+                    conv_thr = 1.D-6 ,
+                 mixing_beta = 0.5,
+             diagonalization = 'david'
+ /
+&IONS
+/
+&CELL
+cell_dofree ='2Dxy'
+/
+
+ATOMIC_SPECIES
+    Cu     63.54600  Cu.pbe-n-van_ak.UPF
+
+K_POINTS (automatic)
+ 5 5 1 0 0 0
+
+ATOMIC_POSITIONS (angstrom)
+Cu      1.000000   1.000000  10.000000
+Cu      2.810631   2.810631  10.000000
+Cu      1.000000   4.621260  10.000000
+Cu      2.810631   6.431891  10.000000
+Cu      1.000000   8.242520  10.000000
+Cu      2.810631  10.053151  10.000000
+Cu      4.621260   1.000000  10.000000
+Cu      6.431891   2.810631  10.000000
+Cu      4.621260   4.621260  10.000000
+Cu      6.431891   6.431891  10.000000
+Cu      4.621260   8.242520  10.000000
+Cu      6.431891  10.053151  10.000000
+Cu      8.242520   1.000000  10.000000
+Cu     10.053151   2.810631  10.000000
+Cu      8.242520   4.621260  10.000000
+Cu     10.053151   6.431891  10.000000
+Cu      8.242520   8.242520  10.000000
+Cu     10.053151  10.053151  10.000000
+

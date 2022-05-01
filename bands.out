@@ -1,0 +1,1596 @@
+[0] MPI startup(): Intel(R) MPI Library, Version 2018 Update 1  Build 20171011 (id: 17941)
+[0] MPI startup(): Copyright (C) 2003-2017 Intel Corporation.  All rights reserved.
+[0] MPI startup(): Multi-threaded optimized library
+[2] DAPL startup(): trying to open DAPL provider from I_MPI_DAPL_PROVIDER: ofa-v2-mlx5_0-1u
+[5] DAPL startup(): trying to open DAPL provider from I_MPI_DAPL_PROVIDER: ofa-v2-mlx5_0-1u
+[31] DAPL startup(): trying to open DAPL provider from I_MPI_DAPL_PROVIDER: ofa-v2-mlx5_0-1u
+[3] DAPL startup(): trying to open DAPL provider from I_MPI_DAPL_PROVIDER: ofa-v2-mlx5_0-1u
+[25] DAPL startup(): trying to open DAPL provider from I_MPI_DAPL_PROVIDER: ofa-v2-mlx5_0-1u
+[41] DAPL startup(): trying to open DAPL provider from I_MPI_DAPL_PROVIDER: ofa-v2-mlx5_0-1u
+[62] DAPL startup(): trying to open DAPL provider from I_MPI_DAPL_PROVIDER: ofa-v2-mlx5_0-1u
+[65] DAPL startup(): trying to open DAPL provider from I_MPI_DAPL_PROVIDER: ofa-v2-mlx5_0-1u
+[46] DAPL startup(): trying to open DAPL provider from I_MPI_DAPL_PROVIDER: ofa-v2-mlx5_0-1u
+[59] DAPL startup(): trying to open DAPL provider from I_MPI_DAPL_PROVIDER: ofa-v2-mlx5_0-1u
+[54] DAPL startup(): trying to open DAPL provider from I_MPI_DAPL_PROVIDER: ofa-v2-mlx5_0-1u
+[42] DAPL startup(): trying to open DAPL provider from I_MPI_DAPL_PROVIDER: ofa-v2-mlx5_0-1u
+[52] DAPL startup(): trying to open DAPL provider from I_MPI_DAPL_PROVIDER: ofa-v2-mlx5_0-1u
+[63] DAPL startup(): trying to open DAPL provider from I_MPI_DAPL_PROVIDER: ofa-v2-mlx5_0-1u
+[78] DAPL startup(): trying to open DAPL provider from I_MPI_DAPL_PROVIDER: ofa-v2-mlx5_0-1u
+[19] DAPL startup(): trying to open DAPL provider from I_MPI_DAPL_PROVIDER: ofa-v2-mlx5_0-1u
+[64] DAPL startup(): trying to open DAPL provider from I_MPI_DAPL_PROVIDER: ofa-v2-mlx5_0-1u
+[27] DAPL startup(): trying to open DAPL provider from I_MPI_DAPL_PROVIDER: ofa-v2-mlx5_0-1u
+[4] DAPL startup(): trying to open DAPL provider from I_MPI_DAPL_PROVIDER: ofa-v2-mlx5_0-1u
+[9] DAPL startup(): trying to open DAPL provider from I_MPI_DAPL_PROVIDER: ofa-v2-mlx5_0-1u
+[31] MPI startup(): DAPL provider ofa-v2-mlx5_0-1u
+[5] MPI startup(): DAPL provider ofa-v2-mlx5_0-1u
+[3] MPI startup(): DAPL provider ofa-v2-mlx5_0-1u
+[2] MPI startup(): DAPL provider ofa-v2-mlx5_0-1u
+[71] DAPL startup(): trying to open DAPL provider from I_MPI_DAPL_PROVIDER: ofa-v2-mlx5_0-1u
+[50] DAPL startup(): trying to open DAPL provider from I_MPI_DAPL_PROVIDER: ofa-v2-mlx5_0-1u
+[61] DAPL startup(): trying to open DAPL provider from I_MPI_DAPL_PROVIDER: ofa-v2-mlx5_0-1u
+[55] DAPL startup(): trying to open DAPL provider from I_MPI_DAPL_PROVIDER: ofa-v2-mlx5_0-1u
+[47] DAPL startup(): trying to open DAPL provider from I_MPI_DAPL_PROVIDER: ofa-v2-mlx5_0-1u
+[79] DAPL startup(): trying to open DAPL provider from I_MPI_DAPL_PROVIDER: ofa-v2-mlx5_0-1u
+[28] DAPL startup(): trying to open DAPL provider from I_MPI_DAPL_PROVIDER: ofa-v2-mlx5_0-1u
+[75] DAPL startup(): trying to open DAPL provider from I_MPI_DAPL_PROVIDER: ofa-v2-mlx5_0-1u
+[57] DAPL startup(): trying to open DAPL provider from I_MPI_DAPL_PROVIDER: ofa-v2-mlx5_0-1u
+[35] DAPL startup(): trying to open DAPL provider from I_MPI_DAPL_PROVIDER: ofa-v2-mlx5_0-1u
+[25] MPI startup(): DAPL provider ofa-v2-mlx5_0-1u
+[10] DAPL startup(): trying to open DAPL provider from I_MPI_DAPL_PROVIDER: ofa-v2-mlx5_0-1u
+[69] DAPL startup(): trying to open DAPL provider from I_MPI_DAPL_PROVIDER: ofa-v2-mlx5_0-1u
+[48] DAPL startup(): trying to open DAPL provider from I_MPI_DAPL_PROVIDER: ofa-v2-mlx5_0-1u
+[67] DAPL startup(): trying to open DAPL provider from I_MPI_DAPL_PROVIDER: ofa-v2-mlx5_0-1u
+[6] DAPL startup(): trying to open DAPL provider from I_MPI_DAPL_PROVIDER: ofa-v2-mlx5_0-1u
+[34] DAPL startup(): trying to open DAPL provider from I_MPI_DAPL_PROVIDER: ofa-v2-mlx5_0-1u
+[12] DAPL startup(): trying to open DAPL provider from I_MPI_DAPL_PROVIDER: ofa-v2-mlx5_0-1u
+[44] DAPL startup(): trying to open DAPL provider from I_MPI_DAPL_PROVIDER: ofa-v2-mlx5_0-1u
+[22] DAPL startup(): trying to open DAPL provider from I_MPI_DAPL_PROVIDER: ofa-v2-mlx5_0-1u
+[15] DAPL startup(): trying to open DAPL provider from I_MPI_DAPL_PROVIDER: ofa-v2-mlx5_0-1u
+[51] DAPL startup(): trying to open DAPL provider from I_MPI_DAPL_PROVIDER: ofa-v2-mlx5_0-1u
+[14] DAPL startup(): trying to open DAPL provider from I_MPI_DAPL_PROVIDER: ofa-v2-mlx5_0-1u
+[38] DAPL startup(): trying to open DAPL provider from I_MPI_DAPL_PROVIDER: ofa-v2-mlx5_0-1u
+[72] DAPL startup(): trying to open DAPL provider from I_MPI_DAPL_PROVIDER: ofa-v2-mlx5_0-1u
+[16] DAPL startup(): trying to open DAPL provider from I_MPI_DAPL_PROVIDER: ofa-v2-mlx5_0-1u
+[53] DAPL startup(): trying to open DAPL provider from I_MPI_DAPL_PROVIDER: ofa-v2-mlx5_0-1u
+[0] DAPL startup(): trying to open DAPL provider from I_MPI_DAPL_PROVIDER: ofa-v2-mlx5_0-1u
+[43] DAPL startup(): trying to open DAPL provider from I_MPI_DAPL_PROVIDER: ofa-v2-mlx5_0-1u
+[45] DAPL startup(): trying to open DAPL provider from I_MPI_DAPL_PROVIDER: ofa-v2-mlx5_0-1u
+[58] DAPL startup(): trying to open DAPL provider from I_MPI_DAPL_PROVIDER: ofa-v2-mlx5_0-1u
+[66] DAPL startup(): trying to open DAPL provider from I_MPI_DAPL_PROVIDER: ofa-v2-mlx5_0-1u
+[49] DAPL startup(): trying to open DAPL provider from I_MPI_DAPL_PROVIDER: ofa-v2-mlx5_0-1u
+[76] DAPL startup(): trying to open DAPL provider from I_MPI_DAPL_PROVIDER: ofa-v2-mlx5_0-1u
+[68] DAPL startup(): trying to open DAPL provider from I_MPI_DAPL_PROVIDER: ofa-v2-mlx5_0-1u
+[77] DAPL startup(): trying to open DAPL provider from I_MPI_DAPL_PROVIDER: ofa-v2-mlx5_0-1u
+[74] DAPL startup(): trying to open DAPL provider from I_MPI_DAPL_PROVIDER: ofa-v2-mlx5_0-1u
+[36] DAPL startup(): trying to open DAPL provider from I_MPI_DAPL_PROVIDER: ofa-v2-mlx5_0-1u
+[60] DAPL startup(): trying to open DAPL provider from I_MPI_DAPL_PROVIDER: ofa-v2-mlx5_0-1u
+[40] DAPL startup(): trying to open DAPL provider from I_MPI_DAPL_PROVIDER: ofa-v2-mlx5_0-1u
+[13] DAPL startup(): trying to open DAPL provider from I_MPI_DAPL_PROVIDER: ofa-v2-mlx5_0-1u
+[56] DAPL startup(): trying to open DAPL provider from I_MPI_DAPL_PROVIDER: ofa-v2-mlx5_0-1u
+[70] DAPL startup(): trying to open DAPL provider from I_MPI_DAPL_PROVIDER: ofa-v2-mlx5_0-1u
+[26] DAPL startup(): trying to open DAPL provider from I_MPI_DAPL_PROVIDER: ofa-v2-mlx5_0-1u
+[73] DAPL startup(): trying to open DAPL provider from I_MPI_DAPL_PROVIDER: ofa-v2-mlx5_0-1u
+[39] DAPL startup(): trying to open DAPL provider from I_MPI_DAPL_PROVIDER: ofa-v2-mlx5_0-1u
+[18] DAPL startup(): trying to open DAPL provider from I_MPI_DAPL_PROVIDER: ofa-v2-mlx5_0-1u
+[30] DAPL startup(): trying to open DAPL provider from I_MPI_DAPL_PROVIDER: ofa-v2-mlx5_0-1u
+[11] DAPL startup(): trying to open DAPL provider from I_MPI_DAPL_PROVIDER: ofa-v2-mlx5_0-1u
+[23] DAPL startup(): trying to open DAPL provider from I_MPI_DAPL_PROVIDER: ofa-v2-mlx5_0-1u
+[8] DAPL startup(): trying to open DAPL provider from I_MPI_DAPL_PROVIDER: ofa-v2-mlx5_0-1u
+[17] DAPL startup(): trying to open DAPL provider from I_MPI_DAPL_PROVIDER: ofa-v2-mlx5_0-1u
+[33] DAPL startup(): trying to open DAPL provider from I_MPI_DAPL_PROVIDER: ofa-v2-mlx5_0-1u
+[29] DAPL startup(): trying to open DAPL provider from I_MPI_DAPL_PROVIDER: ofa-v2-mlx5_0-1u
+[1] DAPL startup(): trying to open DAPL provider from I_MPI_DAPL_PROVIDER: ofa-v2-mlx5_0-1u
+[21] DAPL startup(): trying to open DAPL provider from I_MPI_DAPL_PROVIDER: ofa-v2-mlx5_0-1u
+[32] DAPL startup(): trying to open DAPL provider from I_MPI_DAPL_PROVIDER: ofa-v2-mlx5_0-1u
+[20] DAPL startup(): trying to open DAPL provider from I_MPI_DAPL_PROVIDER: ofa-v2-mlx5_0-1u
+[65] MPI startup(): DAPL provider ofa-v2-mlx5_0-1u
+[7] DAPL startup(): trying to open DAPL provider from I_MPI_DAPL_PROVIDER: ofa-v2-mlx5_0-1u
+[24] DAPL startup(): trying to open DAPL provider from I_MPI_DAPL_PROVIDER: ofa-v2-mlx5_0-1u
+[37] DAPL startup(): trying to open DAPL provider from I_MPI_DAPL_PROVIDER: ofa-v2-mlx5_0-1u
+[41] MPI startup(): DAPL provider ofa-v2-mlx5_0-1u
+[46] MPI startup(): DAPL provider ofa-v2-mlx5_0-1u
+[62] MPI startup(): DAPL provider ofa-v2-mlx5_0-1u
+[2] MPI startup(): shm and dapl data transfer modes
+[3] MPI startup(): shm and dapl data transfer modes
+[5] MPI startup(): shm and dapl data transfer modes
+[25] MPI startup(): shm and dapl data transfer modes
+[31] MPI startup(): shm and dapl data transfer modes
+[59] MPI startup(): DAPL provider ofa-v2-mlx5_0-1u
+[54] MPI startup(): DAPL provider ofa-v2-mlx5_0-1u
+[42] MPI startup(): DAPL provider ofa-v2-mlx5_0-1u
+[52] MPI startup(): DAPL provider ofa-v2-mlx5_0-1u
+[63] MPI startup(): DAPL provider ofa-v2-mlx5_0-1u
+[41] MPI startup(): shm and dapl data transfer modes
+[42] MPI startup(): shm and dapl data transfer modes
+[52] MPI startup(): shm and dapl data transfer modes
+[54] MPI startup(): shm and dapl data transfer modes
+[59] MPI startup(): shm and dapl data transfer modes
+[62] MPI startup(): shm and dapl data transfer modes
+[63] MPI startup(): shm and dapl data transfer modes
+[65] MPI startup(): shm and dapl data transfer modes
+[46] MPI startup(): shm and dapl data transfer modes
+[78] MPI startup(): DAPL provider ofa-v2-mlx5_0-1u
+[78] MPI startup(): shm and dapl data transfer modes
+[19] MPI startup(): DAPL provider ofa-v2-mlx5_0-1u
+[19] MPI startup(): shm and dapl data transfer modes
+[64] MPI startup(): DAPL provider ofa-v2-mlx5_0-1u
+[64] MPI startup(): shm and dapl data transfer modes
+[71] MPI startup(): DAPL provider ofa-v2-mlx5_0-1u
+[71] MPI startup(): shm and dapl data transfer modes
+[50] MPI startup(): DAPL provider ofa-v2-mlx5_0-1u
+[50] MPI startup(): shm and dapl data transfer modes
+[55] MPI startup(): DAPL provider ofa-v2-mlx5_0-1u
+[61] MPI startup(): DAPL provider ofa-v2-mlx5_0-1u
+[55] MPI startup(): shm and dapl data transfer modes
+[27] MPI startup(): DAPL provider ofa-v2-mlx5_0-1u
+[61] MPI startup(): shm and dapl data transfer modes
+[27] MPI startup(): shm and dapl data transfer modes
+[79] MPI startup(): DAPL provider ofa-v2-mlx5_0-1u
+[47] MPI startup(): DAPL provider ofa-v2-mlx5_0-1u
+[79] MPI startup(): shm and dapl data transfer modes
+[47] MPI startup(): shm and dapl data transfer modes
+[75] MPI startup(): DAPL provider ofa-v2-mlx5_0-1u
+[75] MPI startup(): shm and dapl data transfer modes
+[57] MPI startup(): DAPL provider ofa-v2-mlx5_0-1u
+[57] MPI startup(): shm and dapl data transfer modes
+[69] MPI startup(): DAPL provider ofa-v2-mlx5_0-1u
+[69] MPI startup(): shm and dapl data transfer modes
+[48] MPI startup(): DAPL provider ofa-v2-mlx5_0-1u
+[48] MPI startup(): shm and dapl data transfer modes
+[44] MPI startup(): DAPL provider ofa-v2-mlx5_0-1u
+[44] MPI startup(): shm and dapl data transfer modes
+[9] MPI startup(): DAPL provider ofa-v2-mlx5_0-1u
+[9] MPI startup(): shm and dapl data transfer modes
+[67] MPI startup(): DAPL provider ofa-v2-mlx5_0-1u
+[67] MPI startup(): shm and dapl data transfer modes
+[53] MPI startup(): DAPL provider ofa-v2-mlx5_0-1u
+[51] MPI startup(): DAPL provider ofa-v2-mlx5_0-1u
+[53] MPI startup(): shm and dapl data transfer modes
+[51] MPI startup(): shm and dapl data transfer modes
+[45] MPI startup(): DAPL provider ofa-v2-mlx5_0-1u
+[45] MPI startup(): shm and dapl data transfer modes
+[28] MPI startup(): DAPL provider ofa-v2-mlx5_0-1u
+[58] MPI startup(): DAPL provider ofa-v2-mlx5_0-1u
+[58] MPI startup(): shm and dapl data transfer modes
+[28] MPI startup(): shm and dapl data transfer modes
+[43] MPI startup(): DAPL provider ofa-v2-mlx5_0-1u
+[43] MPI startup(): shm and dapl data transfer modes
+[72] MPI startup(): DAPL provider ofa-v2-mlx5_0-1u
+[49] MPI startup(): DAPL provider ofa-v2-mlx5_0-1u
+[72] MPI startup(): shm and dapl data transfer modes
+[49] MPI startup(): shm and dapl data transfer modes
+[66] MPI startup(): DAPL provider ofa-v2-mlx5_0-1u
+[66] MPI startup(): shm and dapl data transfer modes
+[4] MPI startup(): DAPL provider ofa-v2-mlx5_0-1u
+[60] MPI startup(): DAPL provider ofa-v2-mlx5_0-1u
+[68] MPI startup(): DAPL provider ofa-v2-mlx5_0-1u
+[60] MPI startup(): shm and dapl data transfer modes
+[4] MPI startup(): shm and dapl data transfer modes
+[68] MPI startup(): shm and dapl data transfer modes
+[74] MPI startup(): DAPL provider ofa-v2-mlx5_0-1u
+[74] MPI startup(): shm and dapl data transfer modes
+[56] MPI startup(): DAPL provider ofa-v2-mlx5_0-1u
+[56] MPI startup(): shm and dapl data transfer modes
+[77] MPI startup(): DAPL provider ofa-v2-mlx5_0-1u
+[40] MPI startup(): DAPL provider ofa-v2-mlx5_0-1u
+[73] MPI startup(): DAPL provider ofa-v2-mlx5_0-1u
+[77] MPI startup(): shm and dapl data transfer modes
+[40] MPI startup(): shm and dapl data transfer modes
+[76] MPI startup(): DAPL provider ofa-v2-mlx5_0-1u
+[35] MPI startup(): DAPL provider ofa-v2-mlx5_0-1u
+[35] MPI startup(): shm and dapl data transfer modes
+[10] MPI startup(): DAPL provider ofa-v2-mlx5_0-1u
+[6] MPI startup(): DAPL provider ofa-v2-mlx5_0-1u
+[15] MPI startup(): DAPL provider ofa-v2-mlx5_0-1u
+[10] MPI startup(): shm and dapl data transfer modes
+[6] MPI startup(): shm and dapl data transfer modes
+[15] MPI startup(): shm and dapl data transfer modes
+[34] MPI startup(): DAPL provider ofa-v2-mlx5_0-1u
+[70] MPI startup(): DAPL provider ofa-v2-mlx5_0-1u
+[70] MPI startup(): shm and dapl data transfer modes
+[34] MPI startup(): shm and dapl data transfer modes
+[73] MPI startup(): shm and dapl data transfer modes
+[76] MPI startup(): shm and dapl data transfer modes
+[16] MPI startup(): DAPL provider ofa-v2-mlx5_0-1u
+[12] MPI startup(): DAPL provider ofa-v2-mlx5_0-1u
+[16] MPI startup(): shm and dapl data transfer modes
+[12] MPI startup(): shm and dapl data transfer modes
+[0] MPI startup(): DAPL provider ofa-v2-mlx5_0-1u
+[0] MPI startup(): shm and dapl data transfer modes
+[22] MPI startup(): DAPL provider ofa-v2-mlx5_0-1u
+[38] MPI startup(): DAPL provider ofa-v2-mlx5_0-1u
+[22] MPI startup(): shm and dapl data transfer modes
+[38] MPI startup(): shm and dapl data transfer modes
+[14] MPI startup(): DAPL provider ofa-v2-mlx5_0-1u
+[14] MPI startup(): shm and dapl data transfer modes
+[13] MPI startup(): DAPL provider ofa-v2-mlx5_0-1u
+[13] MPI startup(): shm and dapl data transfer modes
+[26] MPI startup(): DAPL provider ofa-v2-mlx5_0-1u
+[26] MPI startup(): shm and dapl data transfer modes
+[36] MPI startup(): DAPL provider ofa-v2-mlx5_0-1u
+[36] MPI startup(): shm and dapl data transfer modes
+[39] MPI startup(): DAPL provider ofa-v2-mlx5_0-1u
+[39] MPI startup(): shm and dapl data transfer modes
+[8] MPI startup(): DAPL provider ofa-v2-mlx5_0-1u
+[8] MPI startup(): shm and dapl data transfer modes
+[18] MPI startup(): DAPL provider ofa-v2-mlx5_0-1u
+[18] MPI startup(): shm and dapl data transfer modes
+[30] MPI startup(): DAPL provider ofa-v2-mlx5_0-1u
+[1] MPI startup(): DAPL provider ofa-v2-mlx5_0-1u
+[30] MPI startup(): shm and dapl data transfer modes
+[1] MPI startup(): shm and dapl data transfer modes
+[11] MPI startup(): DAPL provider ofa-v2-mlx5_0-1u
+[11] MPI startup(): shm and dapl data transfer modes
+[37] MPI startup(): DAPL provider ofa-v2-mlx5_0-1u
+[37] MPI startup(): shm and dapl data transfer modes
+[23] MPI startup(): DAPL provider ofa-v2-mlx5_0-1u
+[23] MPI startup(): shm and dapl data transfer modes
+[20] MPI startup(): DAPL provider ofa-v2-mlx5_0-1u
+[33] MPI startup(): DAPL provider ofa-v2-mlx5_0-1u
+[29] MPI startup(): DAPL provider ofa-v2-mlx5_0-1u
+[7] MPI startup(): DAPL provider ofa-v2-mlx5_0-1u
+[7] MPI startup(): shm and dapl data transfer modes
+[17] MPI startup(): DAPL provider ofa-v2-mlx5_0-1u
+[17] MPI startup(): shm and dapl data transfer modes
+[20] MPI startup(): shm and dapl data transfer modes
+[21] MPI startup(): DAPL provider ofa-v2-mlx5_0-1u
+[21] MPI startup(): shm and dapl data transfer modes
+[24] MPI startup(): DAPL provider ofa-v2-mlx5_0-1u
+[24] MPI startup(): shm and dapl data transfer modes
+[29] MPI startup(): shm and dapl data transfer modes
+[32] MPI startup(): DAPL provider ofa-v2-mlx5_0-1u
+[32] MPI startup(): shm and dapl data transfer modes
+[33] MPI startup(): shm and dapl data transfer modes
+[40] MPID_nem_init_dapl_coll_fns(): User set DAPL collective mask = 0000
+[40] MPID_nem_init_dapl_coll_fns(): Effective DAPL collective mask = 0000
+[41] MPID_nem_init_dapl_coll_fns(): User set DAPL collective mask = 0000
+[41] MPID_nem_init_dapl_coll_fns(): Effective DAPL collective mask = 0000
+[43] MPID_nem_init_dapl_coll_fns(): User set DAPL collective mask = 0000
+[43] MPID_nem_init_dapl_coll_fns(): Effective DAPL collective mask = 0000
+[50] MPID_nem_init_dapl_coll_fns(): User set DAPL collective mask = 0000
+[50] MPID_nem_init_dapl_coll_fns(): Effective DAPL collective mask = 0000
+[55] MPID_nem_init_dapl_coll_fns(): User set DAPL collective mask = 0000
+[55] MPID_nem_init_dapl_coll_fns(): Effective DAPL collective mask = 0000
+[57] MPID_nem_init_dapl_coll_fns(): User set DAPL collective mask = 0000
+[57] MPID_nem_init_dapl_coll_fns(): Effective DAPL collective mask = 0000
+[58] MPID_nem_init_dapl_coll_fns(): User set DAPL collective mask = 0000
+[58] MPID_nem_init_dapl_coll_fns(): Effective DAPL collective mask = 0000
+[60] MPID_nem_init_dapl_coll_fns(): User set DAPL collective mask = 0000
+[60] MPID_nem_init_dapl_coll_fns(): Effective DAPL collective mask = 0000
+[64] MPID_nem_init_dapl_coll_fns(): User set DAPL collective mask = 0000
+[64] MPID_nem_init_dapl_coll_fns(): Effective DAPL collective mask = 0000
+[67] MPID_nem_init_dapl_coll_fns(): User set DAPL collective mask = 0000
+[67] MPID_nem_init_dapl_coll_fns(): Effective DAPL collective mask = 0000
+[42] MPID_nem_init_dapl_coll_fns(): User set DAPL collective mask = 0000
+[42] MPID_nem_init_dapl_coll_fns(): Effective DAPL collective mask = 0000
+[44] MPID_nem_init_dapl_coll_fns(): User set DAPL collective mask = 0000
+[44] MPID_nem_init_dapl_coll_fns(): Effective DAPL collective mask = 0000
+[45] MPID_nem_init_dapl_coll_fns(): User set DAPL collective mask = 0000
+[45] MPID_nem_init_dapl_coll_fns(): Effective DAPL collective mask = 0000
+[47] MPID_nem_init_dapl_coll_fns(): User set DAPL collective mask = 0000
+[47] MPID_nem_init_dapl_coll_fns(): Effective DAPL collective mask = 0000
+[48] MPID_nem_init_dapl_coll_fns(): User set DAPL collective mask = 0000
+[48] MPID_nem_init_dapl_coll_fns(): Effective DAPL collective mask = 0000
+[49] MPID_nem_init_dapl_coll_fns(): User set DAPL collective mask = 0000
+[49] MPID_nem_init_dapl_coll_fns(): Effective DAPL collective mask = 0000
+[52] MPID_nem_init_dapl_coll_fns(): User set DAPL collective mask = 0000
+[52] MPID_nem_init_dapl_coll_fns(): Effective DAPL collective mask = 0000
+[53] MPID_nem_init_dapl_coll_fns(): User set DAPL collective mask = 0000
+[53] MPID_nem_init_dapl_coll_fns(): Effective DAPL collective mask = 0000
+[54] MPID_nem_init_dapl_coll_fns(): User set DAPL collective mask = 0000
+[54] MPID_nem_init_dapl_coll_fns(): Effective DAPL collective mask = 0000
+[56] MPID_nem_init_dapl_coll_fns(): User set DAPL collective mask = 0000
+[56] MPID_nem_init_dapl_coll_fns(): Effective DAPL collective mask = 0000
+[59] MPID_nem_init_dapl_coll_fns(): User set DAPL collective mask = 0000
+[59] MPID_nem_init_dapl_coll_fns(): Effective DAPL collective mask = 0000
+[63] MPID_nem_init_dapl_coll_fns(): User set DAPL collective mask = 0000
+[63] MPID_nem_init_dapl_coll_fns(): Effective DAPL collective mask = 0000
+[65] MPID_nem_init_dapl_coll_fns(): User set DAPL collective mask = 0000
+[65] MPID_nem_init_dapl_coll_fns(): Effective DAPL collective mask = 0000
+[66] MPID_nem_init_dapl_coll_fns(): User set DAPL collective mask = 0000
+[66] MPID_nem_init_dapl_coll_fns(): Effective DAPL collective mask = 0000
+[68] MPID_nem_init_dapl_coll_fns(): User set DAPL collective mask = 0000
+[68] MPID_nem_init_dapl_coll_fns(): Effective DAPL collective mask = 0000
+[69] MPID_nem_init_dapl_coll_fns(): User set DAPL collective mask = 0000
+[69] MPID_nem_init_dapl_coll_fns(): Effective DAPL collective mask = 0000
+[70] MPID_nem_init_dapl_coll_fns(): User set DAPL collective mask = 0000
+[70] MPID_nem_init_dapl_coll_fns(): Effective DAPL collective mask = 0000
+[72] MPID_nem_init_dapl_coll_fns(): User set DAPL collective mask = 0000
+[72] MPID_nem_init_dapl_coll_fns(): Effective DAPL collective mask = 0000
+[73] MPID_nem_init_dapl_coll_fns(): User set DAPL collective mask = 0000
+[73] MPID_nem_init_dapl_coll_fns(): Effective DAPL collective mask = 0000
+[74] MPID_nem_init_dapl_coll_fns(): User set DAPL collective mask = 0000
+[74] MPID_nem_init_dapl_coll_fns(): Effective DAPL collective mask = 0000
+[75] MPID_nem_init_dapl_coll_fns(): User set DAPL collective mask = 0000
+[75] MPID_nem_init_dapl_coll_fns(): Effective DAPL collective mask = 0000
+[76] MPID_nem_init_dapl_coll_fns(): User set DAPL collective mask = 0000
+[76] MPID_nem_init_dapl_coll_fns(): Effective DAPL collective mask = 0000
+[1] MPID_nem_init_dapl_coll_fns(): User set DAPL collective mask = 0000
+[1] MPID_nem_init_dapl_coll_fns(): Effective DAPL collective mask = 0000
+[77] MPID_nem_init_dapl_coll_fns(): User set DAPL collective mask = 0000
+[77] MPID_nem_init_dapl_coll_fns(): Effective DAPL collective mask = 0000
+[3] MPID_nem_init_dapl_coll_fns(): User set DAPL collective mask = 0000
+[3] MPID_nem_init_dapl_coll_fns(): Effective DAPL collective mask = 0000
+[78] MPID_nem_init_dapl_coll_fns(): User set DAPL collective mask = 0000
+[78] MPID_nem_init_dapl_coll_fns(): Effective DAPL collective mask = 0000
+[9] MPID_nem_init_dapl_coll_fns(): User set DAPL collective mask = 0000
+[9] MPID_nem_init_dapl_coll_fns(): Effective DAPL collective mask = 0000
+[61] MPID_nem_init_dapl_coll_fns(): User set DAPL collective mask = 0000
+[61] MPID_nem_init_dapl_coll_fns(): Effective DAPL collective mask = 0000
+[10] MPID_nem_init_dapl_coll_fns(): User set DAPL collective mask = 0000
+[10] MPID_nem_init_dapl_coll_fns(): Effective DAPL collective mask = 0000
+[79] MPID_nem_init_dapl_coll_fns(): User set DAPL collective mask = 0000
+[79] MPID_nem_init_dapl_coll_fns(): Effective DAPL collective mask = 0000
+[16] MPID_nem_init_dapl_coll_fns(): User set DAPL collective mask = 0000
+[16] MPID_nem_init_dapl_coll_fns(): Effective DAPL collective mask = 0000
+[51] MPID_nem_init_dapl_coll_fns(): User set DAPL collective mask = 0000
+[51] MPID_nem_init_dapl_coll_fns(): Effective DAPL collective mask = 0000
+[20] MPID_nem_init_dapl_coll_fns(): User set DAPL collective mask = 0000
+[20] MPID_nem_init_dapl_coll_fns(): Effective DAPL collective mask = 0000
+[46] MPID_nem_init_dapl_coll_fns(): User set DAPL collective mask = 0000
+[46] MPID_nem_init_dapl_coll_fns(): Effective DAPL collective mask = 0000
+[21] MPID_nem_init_dapl_coll_fns(): User set DAPL collective mask = 0000
+[21] MPID_nem_init_dapl_coll_fns(): Effective DAPL collective mask = 0000
+[71] MPID_nem_init_dapl_coll_fns(): User set DAPL collective mask = 0000
+[71] MPID_nem_init_dapl_coll_fns(): Effective DAPL collective mask = 0000
+[22] MPID_nem_init_dapl_coll_fns(): User set DAPL collective mask = 0000
+[22] MPID_nem_init_dapl_coll_fns(): Effective DAPL collective mask = 0000
+[62] MPID_nem_init_dapl_coll_fns(): User set DAPL collective mask = 0000
+[62] MPID_nem_init_dapl_coll_fns(): Effective DAPL collective mask = 0000
+[26] MPID_nem_init_dapl_coll_fns(): User set DAPL collective mask = 0000
+[26] MPID_nem_init_dapl_coll_fns(): Effective DAPL collective mask = 0000
+[29] MPID_nem_init_dapl_coll_fns(): User set DAPL collective mask = 0000
+[29] MPID_nem_init_dapl_coll_fns(): Effective DAPL collective mask = 0000
+[31] MPID_nem_init_dapl_coll_fns(): User set DAPL collective mask = 0000
+[31] MPID_nem_init_dapl_coll_fns(): Effective DAPL collective mask = 0000
+[32] MPID_nem_init_dapl_coll_fns(): User set DAPL collective mask = 0000
+[32] MPID_nem_init_dapl_coll_fns(): Effective DAPL collective mask = 0000
+[36] MPID_nem_init_dapl_coll_fns(): User set DAPL collective mask = 0000
+[36] MPID_nem_init_dapl_coll_fns(): Effective DAPL collective mask = 0000
+[39] MPID_nem_init_dapl_coll_fns(): User set DAPL collective mask = 0000
+[39] MPID_nem_init_dapl_coll_fns(): Effective DAPL collective mask = 0000
+[0] MPID_nem_init_dapl_coll_fns(): User set DAPL collective mask = 0000
+[0] MPID_nem_init_dapl_coll_fns(): Effective DAPL collective mask = 0000
+[2] MPID_nem_init_dapl_coll_fns(): User set DAPL collective mask = 0000
+[2] MPID_nem_init_dapl_coll_fns(): Effective DAPL collective mask = 0000
+[4] MPID_nem_init_dapl_coll_fns(): User set DAPL collective mask = 0000
+[4] MPID_nem_init_dapl_coll_fns(): Effective DAPL collective mask = 0000
+[6] MPID_nem_init_dapl_coll_fns(): User set DAPL collective mask = 0000
+[6] MPID_nem_init_dapl_coll_fns(): Effective DAPL collective mask = 0000
+[7] MPID_nem_init_dapl_coll_fns(): User set DAPL collective mask = 0000
+[7] MPID_nem_init_dapl_coll_fns(): Effective DAPL collective mask = 0000
+[8] MPID_nem_init_dapl_coll_fns(): User set DAPL collective mask = 0000
+[8] MPID_nem_init_dapl_coll_fns(): Effective DAPL collective mask = 0000
+[11] MPID_nem_init_dapl_coll_fns(): User set DAPL collective mask = 0000
+[11] MPID_nem_init_dapl_coll_fns(): Effective DAPL collective mask = 0000
+[12] MPID_nem_init_dapl_coll_fns(): User set DAPL collective mask = 0000
+[12] MPID_nem_init_dapl_coll_fns(): Effective DAPL collective mask = 0000
+[13] MPID_nem_init_dapl_coll_fns(): User set DAPL collective mask = 0000
+[13] MPID_nem_init_dapl_coll_fns(): Effective DAPL collective mask = 0000
+[14] MPID_nem_init_dapl_coll_fns(): User set DAPL collective mask = 0000
+[14] MPID_nem_init_dapl_coll_fns(): Effective DAPL collective mask = 0000
+[17] MPID_nem_init_dapl_coll_fns(): User set DAPL collective mask = 0000
+[17] MPID_nem_init_dapl_coll_fns(): Effective DAPL collective mask = 0000
+[18] MPID_nem_init_dapl_coll_fns(): User set DAPL collective mask = 0000
+[18] MPID_nem_init_dapl_coll_fns(): Effective DAPL collective mask = 0000
+[19] MPID_nem_init_dapl_coll_fns(): User set DAPL collective mask = 0000
+[19] MPID_nem_init_dapl_coll_fns(): Effective DAPL collective mask = 0000
+[23] MPID_nem_init_dapl_coll_fns(): User set DAPL collective mask = 0000
+[23] MPID_nem_init_dapl_coll_fns(): Effective DAPL collective mask = 0000
+[24] MPID_nem_init_dapl_coll_fns(): User set DAPL collective mask = 0000
+[24] MPID_nem_init_dapl_coll_fns(): Effective DAPL collective mask = 0000
+[25] MPID_nem_init_dapl_coll_fns(): User set DAPL collective mask = 0000
+[25] MPID_nem_init_dapl_coll_fns(): Effective DAPL collective mask = 0000
+[27] MPID_nem_init_dapl_coll_fns(): User set DAPL collective mask = 0000
+[27] MPID_nem_init_dapl_coll_fns(): Effective DAPL collective mask = 0000
+[30] MPID_nem_init_dapl_coll_fns(): User set DAPL collective mask = 0000
+[30] MPID_nem_init_dapl_coll_fns(): Effective DAPL collective mask = 0000
+[33] MPID_nem_init_dapl_coll_fns(): User set DAPL collective mask = 0000
+[33] MPID_nem_init_dapl_coll_fns(): Effective DAPL collective mask = 0000
+[34] MPID_nem_init_dapl_coll_fns(): User set DAPL collective mask = 0000
+[34] MPID_nem_init_dapl_coll_fns(): Effective DAPL collective mask = 0000
+[35] MPID_nem_init_dapl_coll_fns(): User set DAPL collective mask = 0000
+[35] MPID_nem_init_dapl_coll_fns(): Effective DAPL collective mask = 0000
+[38] MPID_nem_init_dapl_coll_fns(): User set DAPL collective mask = 0000
+[38] MPID_nem_init_dapl_coll_fns(): Effective DAPL collective mask = 0000
+[28] MPID_nem_init_dapl_coll_fns(): User set DAPL collective mask = 0000
+[28] MPID_nem_init_dapl_coll_fns(): Effective DAPL collective mask = 0000
+[37] MPID_nem_init_dapl_coll_fns(): User set DAPL collective mask = 0000
+[37] MPID_nem_init_dapl_coll_fns(): Effective DAPL collective mask = 0000
+[5] MPID_nem_init_dapl_coll_fns(): User set DAPL collective mask = 0000
+[5] MPID_nem_init_dapl_coll_fns(): Effective DAPL collective mask = 0000
+[15] MPID_nem_init_dapl_coll_fns(): User set DAPL collective mask = 0000
+[15] MPID_nem_init_dapl_coll_fns(): Effective DAPL collective mask = 0000
+[0] MPI startup(): Device_reset_idx=0
+[0] MPI startup(): Allgather: 2: 0-0 & 0-80
+[0] MPI startup(): Allgather: 5: 1-96 & 0-80
+[0] MPI startup(): Allgather: 4: 97-149 & 0-80
+[0] MPI startup(): Allgather: 5: 150-256 & 0-80
+[0] MPI startup(): Allgather: 4: 257-17596 & 0-80
+[0] MPI startup(): Allgather: 3: 0-2147483647 & 0-80
+[0] MPI startup(): Allgather: 5: 0-36 & 81-160
+[0] MPI startup(): Allgather: 4: 37-10475 & 81-160
+[0] MPI startup(): Allgather: 3: 0-2147483647 & 81-160
+[0] MPI startup(): Allgather: 5: 0-29 & 161-320
+[0] MPI startup(): Allgather: 4: 30-7632 & 161-320
+[0] MPI startup(): Allgather: 3: 0-2147483647 & 161-320
+[0] MPI startup(): Allgather: 3: 0-0 & 321-640
+[0] MPI startup(): Allgather: 5: 1-45 & 321-640
+[0] MPI startup(): Allgather: 4: 46-8023 & 321-640
+[0] MPI startup(): Allgather: 3: 0-2147483647 & 321-640
+[0] MPI startup(): Allgather: 1: 0-0 & 641-2147483647
+[0] MPI startup(): Allgather: 5: 1-1 & 641-2147483647
+[0] MPI startup(): Allgather: 2: 2-2 & 641-2147483647
+[0] MPI startup(): Allgather: 5: 3-38 & 641-2147483647
+[0] MPI startup(): Allgather: 4: 39-8189 & 641-2147483647
+[0] MPI startup(): Allgather: 3: 0-2147483647 & 641-2147483647
+[0] MPI startup(): Allgatherv: 1: 0-0 & 0-80
+[0] MPI startup(): Allgatherv: 2: 1-2 & 0-80
+[0] MPI startup(): Allgatherv: 1: 3-64 & 0-80
+[0] MPI startup(): Allgatherv: 4: 65-3199 & 0-80
+[0] MPI startup(): Allgatherv: 3: 0-2147483647 & 0-80
+[0] MPI startup(): Allgatherv: 4: 0-0 & 81-160
+[0] MPI startup(): Allgatherv: 2: 1-2 & 81-160
+[0] MPI startup(): Allgatherv: 1: 3-26 & 81-160
+[0] MPI startup(): Allgatherv: 4: 27-4014 & 81-160
+[0] MPI startup(): Allgatherv: 3: 0-2147483647 & 81-160
+[0] MPI startup(): Allgatherv: 4: 0-0 & 161-320
+[0] MPI startup(): Allgatherv: 2: 1-39 & 161-320
+[0] MPI startup(): Allgatherv: 4: 40-3542 & 161-320
+[0] MPI startup(): Allgatherv: 3: 0-2147483647 & 161-320
+[0] MPI startup(): Allgatherv: 4: 0-0 & 321-640
+[0] MPI startup(): Allgatherv: 2: 1-35 & 321-640
+[0] MPI startup(): Allgatherv: 4: 36-3984 & 321-640
+[0] MPI startup(): Allgatherv: 3: 0-2147483647 & 321-640
+[0] MPI startup(): Allgatherv: 1: 0-0 & 641-2147483647
+[0] MPI startup(): Allgatherv: 2: 1-16 & 641-2147483647
+[0] MPI startup(): Allgatherv: 4: 17-4355 & 641-2147483647
+[0] MPI startup(): Allgatherv: 3: 0-2147483647 & 641-2147483647
+[0] MPI startup(): Allreduce: 10: 0-0 & 0-80
+[0] MPI startup(): Allreduce: 11: 1-32 & 0-80
+[0] MPI startup(): Allreduce: 12: 33-10846 & 0-80
+[0] MPI startup(): Allreduce: 2: 10847-1525423 & 0-80
+[0] MPI startup(): Allreduce: 8: 0-2147483647 & 0-80
+[0] MPI startup(): Allreduce: 8: 0-0 & 81-160
+[0] MPI startup(): Allreduce: 11: 1-85 & 81-160
+[0] MPI startup(): Allreduce: 12: 86-16243 & 81-160
+[0] MPI startup(): Allreduce: 2: 16244-2079700 & 81-160
+[0] MPI startup(): Allreduce: 8: 0-2147483647 & 81-160
+[0] MPI startup(): Allreduce: 8: 0-0 & 161-320
+[0] MPI startup(): Allreduce: 11: 1-12 & 161-320
+[0] MPI startup(): Allreduce: 12: 13-22 & 161-320
+[0] MPI startup(): Allreduce: 11: 23-68 & 161-320
+[0] MPI startup(): Allreduce: 12: 69-15358 & 161-320
+[0] MPI startup(): Allreduce: 2: 15359-2801917 & 161-320
+[0] MPI startup(): Allreduce: 4: 0-2147483647 & 161-320
+[0] MPI startup(): Allreduce: 1: 0-0 & 321-640
+[0] MPI startup(): Allreduce: 12: 1-4 & 321-640
+[0] MPI startup(): Allreduce: 11: 5-40 & 321-640
+[0] MPI startup(): Allreduce: 12: 41-64 & 321-640
+[0] MPI startup(): Allreduce: 11: 65-128 & 321-640
+[0] MPI startup(): Allreduce: 12: 129-13155 & 321-640
+[0] MPI startup(): Allreduce: 2: 13156-2984497 & 321-640
+[0] MPI startup(): Allreduce: 4: 0-2147483647 & 321-640
+[0] MPI startup(): Allreduce: 1: 0-0 & 641-2147483647
+[0] MPI startup(): Allreduce: 12: 1-4 & 641-2147483647
+[0] MPI startup(): Allreduce: 10: 5-29 & 641-2147483647
+[0] MPI startup(): Allreduce: 12: 30-36 & 641-2147483647
+[0] MPI startup(): Allreduce: 10: 37-74 & 641-2147483647
+[0] MPI startup(): Allreduce: 11: 75-220 & 641-2147483647
+[0] MPI startup(): Allreduce: 10: 221-256 & 641-2147483647
+[0] MPI startup(): Allreduce: 12: 257-8416 & 641-2147483647
+[0] MPI startup(): Allreduce: 2: 8417-2672861 & 641-2147483647
+[0] MPI startup(): Allreduce: 4: 0-2147483647 & 641-2147483647
+[0] MPI startup(): Alltoall: 4: 0-0 & 0-80
+[0] MPI startup(): Alltoall: 1: 1-208 & 0-80
+[0] MPI startup(): Alltoall: 2: 209-17455 & 0-80
+[0] MPI startup(): Alltoall: 3: 0-2147483647 & 0-80
+[0] MPI startup(): Alltoall: 2: 0-0 & 81-160
+[0] MPI startup(): Alltoall: 1: 1-253 & 81-160
+[0] MPI startup(): Alltoall: 2: 254-2048 & 81-160
+[0] MPI startup(): Alltoall: 3: 0-2147483647 & 81-160
+[0] MPI startup(): Alltoall: 4: 0-0 & 161-320
+[0] MPI startup(): Alltoall: 1: 1-243 & 161-320
+[0] MPI startup(): Alltoall: 2: 244-1024 & 161-320
+[0] MPI startup(): Alltoall: 3: 1025-68014 & 161-320
+[0] MPI startup(): Alltoall: 4: 68015-524288 & 161-320
+[0] MPI startup(): Alltoall: 3: 0-2147483647 & 161-320
+[0] MPI startup(): Alltoall: 2: 0-0 & 321-640
+[0] MPI startup(): Alltoall: 1: 1-110 & 321-640
+[0] MPI startup(): Alltoall: 2: 111-512 & 321-640
+[0] MPI startup(): Alltoall: 4: 513-2048 & 321-640
+[0] MPI startup(): Alltoall: 3: 2049-16384 & 321-640
+[0] MPI startup(): Alltoall: 4: 16385-32768 & 321-640
+[0] MPI startup(): Alltoall: 3: 32769-74069 & 321-640
+[0] MPI startup(): Alltoall: 4: 0-2147483647 & 321-640
+[0] MPI startup(): Alltoall: 4: 0-0 & 641-2147483647
+[0] MPI startup(): Alltoall: 1: 1-79 & 641-2147483647
+[0] MPI startup(): Alltoall: 2: 80-256 & 641-2147483647
+[0] MPI startup(): Alltoall: 4: 257-49632 & 641-2147483647
+[0] MPI startup(): Alltoall: 2: 0-2147483647 & 641-2147483647
+[0] MPI startup(): Alltoallv: 1: 0-2147483647 & 0-2147483647
+[0] MPI startup(): Alltoallw: 0: 0-2147483647 & 0-2147483647
+[0] MPI startup(): Barrier: 7: 0-2147483647 & 0-2147483647
+[0] MPI startup(): Bcast: 1: 0-0 & 0-80
+[0] MPI startup(): Bcast: 11: 1-1 & 0-80
+[0] MPI startup(): Bcast: 10: 2-69 & 0-80
+[0] MPI startup(): Bcast: 11: 70-128 & 0-80
+[0] MPI startup(): Bcast: 10: 129-256 & 0-80
+[0] MPI startup(): Bcast: 11: 257-13458 & 0-80
+[0] MPI startup(): Bcast: 10: 13459-31278 & 0-80
+[0] MPI startup(): Bcast: 11: 31279-112463 & 0-80
+[0] MPI startup(): Bcast: 9: 112464-262144 & 0-80
+[0] MPI startup(): Bcast: 10: 262145-524288 & 0-80
+[0] MPI startup(): Bcast: 11: 524289-1048576 & 0-80
+[0] MPI startup(): Bcast: 10: 1048577-2097152 & 0-80
+[0] MPI startup(): Bcast: 5: 0-2147483647 & 0-80
+[0] MPI startup(): Bcast: 1: 0-0 & 81-160
+[0] MPI startup(): Bcast: 10: 1-1 & 81-160
+[0] MPI startup(): Bcast: 9: 2-3 & 81-160
+[0] MPI startup(): Bcast: 11: 4-8 & 81-160
+[0] MPI startup(): Bcast: 10: 9-77 & 81-160
+[0] MPI startup(): Bcast: 11: 78-512 & 81-160
+[0] MPI startup(): Bcast: 9: 513-1024 & 81-160
+[0] MPI startup(): Bcast: 11: 1025-65536 & 81-160
+[0] MPI startup(): Bcast: 10: 65537-1048576 & 81-160
+[0] MPI startup(): Bcast: 9: 1048577-2097152 & 81-160
+[0] MPI startup(): Bcast: 10: 0-2147483647 & 81-160
+[0] MPI startup(): Bcast: 2: 0-0 & 161-320
+[0] MPI startup(): Bcast: 10: 1-64 & 161-320
+[0] MPI startup(): Bcast: 11: 65-8192 & 161-320
+[0] MPI startup(): Bcast: 9: 8193-20772 & 161-320
+[0] MPI startup(): Bcast: 10: 20773-364345 & 161-320
+[0] MPI startup(): Bcast: 9: 0-2147483647 & 161-320
+[0] MPI startup(): Bcast: 1: 0-0 & 321-640
+[0] MPI startup(): Bcast: 10: 1-8 & 321-640
+[0] MPI startup(): Bcast: 11: 9-219 & 321-640
+[0] MPI startup(): Bcast: 10: 220-512 & 321-640
+[0] MPI startup(): Bcast: 11: 513-2048 & 321-640
+[0] MPI startup(): Bcast: 10: 2049-4096 & 321-640
+[0] MPI startup(): Bcast: 11: 4097-32768 & 321-640
+[0] MPI startup(): Bcast: 10: 32769-65536 & 321-640
+[0] MPI startup(): Bcast: 11: 65537-131072 & 321-640
+[0] MPI startup(): Bcast: 9: 131073-742270 & 321-640
+[0] MPI startup(): Bcast: 6: 742271-1284555 & 321-640
+[0] MPI startup(): Bcast: 10: 1284556-3625708 & 321-640
+[0] MPI startup(): Bcast: 5: 0-2147483647 & 321-640
+[0] MPI startup(): Bcast: 2: 0-0 & 641-2147483647
+[0] MPI startup(): Bcast: 10: 1-16 & 641-2147483647
+[0] MPI startup(): Bcast: 11: 17-128 & 641-2147483647
+[0] MPI startup(): Bcast: 10: 129-512 & 641-2147483647
+[0] MPI startup(): Bcast: 11: 513-4096 & 641-2147483647
+[0] MPI startup(): Bcast: 10: 4097-8192 & 641-2147483647
+[0] MPI startup(): Bcast: 11: 8193-16384 & 641-2147483647
+[0] MPI startup(): Bcast: 10: 16385-32768 & 641-2147483647
+[0] MPI startup(): Bcast: 11: 32769-262144 & 641-2147483647
+[0] MPI startup(): Bcast: 9: 262145-524288 & 641-2147483647
+[0] MPI startup(): Bcast: 11: 524289-2097152 & 641-2147483647
+[0] MPI startup(): Bcast: 5: 0-2147483647 & 641-2147483647
+[0] MPI startup(): Exscan: 0: 0-2147483647 & 0-2147483647
+[0] MPI startup(): Gather: 3: 0-0 & 0-80
+[0] MPI startup(): Gather: 2: 1-5 & 0-80
+[0] MPI startup(): Gather: 1: 6-11 & 0-80
+[0] MPI startup(): Gather: 2: 12-256 & 0-80
+[0] MPI startup(): Gather: 1: 257-664 & 0-80
+[0] MPI startup(): Gather: 2: 665-1627 & 0-80
+[0] MPI startup(): Gather: 1: 1628-3026 & 0-80
+[0] MPI startup(): Gather: 2: 3027-4379 & 0-80
+[0] MPI startup(): Gather: 4: 4380-16382 & 0-80
+[0] MPI startup(): Gather: 3: 16383-16384 & 0-80
+[0] MPI startup(): Gather: 1: 16385-41272 & 0-80
+[0] MPI startup(): Gather: 3: 0-2147483647 & 0-80
+[0] MPI startup(): Gather: 2: 0-0 & 81-160
+[0] MPI startup(): Gather: 1: 1-64 & 81-160
+[0] MPI startup(): Gather: 4: 65-188 & 81-160
+[0] MPI startup(): Gather: 2: 189-2317 & 81-160
+[0] MPI startup(): Gather: 1: 2318-35650 & 81-160
+[0] MPI startup(): Gather: 3: 0-2147483647 & 81-160
+[0] MPI startup(): Gather: 2: 0-0 & 161-320
+[0] MPI startup(): Gather: 1: 1-386 & 161-320
+[0] MPI startup(): Gather: 4: 387-512 & 161-320
+[0] MPI startup(): Gather: 2: 513-1354 & 161-320
+[0] MPI startup(): Gather: 1: 1355-65442 & 161-320
+[0] MPI startup(): Gather: 3: 0-2147483647 & 161-320
+[0] MPI startup(): Gather: 4: 0-0 & 321-640
+[0] MPI startup(): Gather: 1: 1-112 & 321-640
+[0] MPI startup(): Gather: 4: 113-128 & 321-640
+[0] MPI startup(): Gather: 1: 129-32768 & 321-640
+[0] MPI startup(): Gather: 3: 0-2147483647 & 321-640
+[0] MPI startup(): Gather: 3: 0-0 & 641-2147483647
+[0] MPI startup(): Gather: 1: 1-65446 & 641-2147483647
+[0] MPI startup(): Gather: 3: 0-2147483647 & 641-2147483647
+[0] MPI startup(): Gatherv: 1: 0-2147483647 & 0-320
+[0] MPI startup(): Gatherv: 2: 0-2147483647 & 321-640
+[0] MPI startup(): Gatherv: 3: 0-2147483647 & 641-2147483647
+[0] MPI startup(): Reduce_scatter: 1: 0-21612 & 0-80
+[0] MPI startup(): Reduce_scatter: 4: 21613-162210 & 0-80
+[0] MPI startup(): Reduce_scatter: 5: 162211-2910901 & 0-80
+[0] MPI startup(): Reduce_scatter: 4: 0-2147483647 & 0-80
+[0] MPI startup(): Reduce_scatter: 3: 0-0 & 81-160
+[0] MPI startup(): Reduce_scatter: 1: 1-11880 & 81-160
+[0] MPI startup(): Reduce_scatter: 5: 11881-65536 & 81-160
+[0] MPI startup(): Reduce_scatter: 4: 65537-134828 & 81-160
+[0] MPI startup(): Reduce_scatter: 5: 134829-3796667 & 81-160
+[0] MPI startup(): Reduce_scatter: 4: 0-2147483647 & 81-160
+[0] MPI startup(): Reduce_scatter: 1: 0-21479 & 161-320
+[0] MPI startup(): Reduce_scatter: 5: 21480-76004 & 161-320
+[0] MPI startup(): Reduce_scatter: 4: 76005-137657 & 161-320
+[0] MPI startup(): Reduce_scatter: 5: 0-2147483647 & 161-320
+[0] MPI startup(): Reduce_scatter: 5: 0-0 & 321-640
+[0] MPI startup(): Reduce_scatter: 1: 1-71576 & 321-640
+[0] MPI startup(): Reduce_scatter: 4: 71577-160869 & 321-640
+[0] MPI startup(): Reduce_scatter: 5: 0-2147483647 & 321-640
+[0] MPI startup(): Reduce_scatter: 1: 0-0 & 641-2147483647
+[0] MPI startup(): Reduce_scatter: 4: 1-21 & 641-2147483647
+[0] MPI startup(): Reduce_scatter: 1: 22-103775 & 641-2147483647
+[0] MPI startup(): Reduce_scatter: 4: 103776-267032 & 641-2147483647
+[0] MPI startup(): Reduce_scatter: 5: 0-2147483647 & 641-2147483647
+[0] MPI startup(): Reduce: 2: 0-0 & 0-80
+[0] MPI startup(): Reduce: 8: 1-8 & 0-80
+[0] MPI startup(): Reduce: 9: 9-16 & 0-80
+[0] MPI startup(): Reduce: 10: 17-59 & 0-80
+[0] MPI startup(): Reduce: 11: 60-13957 & 0-80
+[0] MPI startup(): Reduce: 5: 13958-182129 & 0-80
+[0] MPI startup(): Reduce: 3: 0-2147483647 & 0-80
+[0] MPI startup(): Reduce: 9: 0-0 & 81-160
+[0] MPI startup(): Reduce: 8: 1-35 & 81-160
+[0] MPI startup(): Reduce: 11: 36-117 & 81-160
+[0] MPI startup(): Reduce: 10: 118-512 & 81-160
+[0] MPI startup(): Reduce: 11: 513-15855 & 81-160
+[0] MPI startup(): Reduce: 5: 15856-183863 & 81-160
+[0] MPI startup(): Reduce: 3: 0-2147483647 & 81-160
+[0] MPI startup(): Reduce: 10: 0-0 & 161-320
+[0] MPI startup(): Reduce: 11: 1-6 & 161-320
+[0] MPI startup(): Reduce: 10: 7-8 & 161-320
+[0] MPI startup(): Reduce: 11: 9-16 & 161-320
+[0] MPI startup(): Reduce: 10: 17-32 & 161-320
+[0] MPI startup(): Reduce: 11: 33-64 & 161-320
+[0] MPI startup(): Reduce: 10: 65-1024 & 161-320
+[0] MPI startup(): Reduce: 11: 1025-11929 & 161-320
+[0] MPI startup(): Reduce: 5: 11930-180232 & 161-320
+[0] MPI startup(): Reduce: 3: 0-2147483647 & 161-320
+[0] MPI startup(): Reduce: 1: 0-0 & 321-640
+[0] MPI startup(): Reduce: 10: 1-4096 & 321-640
+[0] MPI startup(): Reduce: 11: 4097-14731 & 321-640
+[0] MPI startup(): Reduce: 5: 14732-195853 & 321-640
+[0] MPI startup(): Reduce: 3: 0-2147483647 & 321-640
+[0] MPI startup(): Reduce: 3: 0-0 & 641-2147483647
+[0] MPI startup(): Reduce: 10: 1-16 & 641-2147483647
+[0] MPI startup(): Reduce: 11: 17-32 & 641-2147483647
+[0] MPI startup(): Reduce: 10: 33-1024 & 641-2147483647
+[0] MPI startup(): Reduce: 11: 1025-13624 & 641-2147483647
+[0] MPI startup(): Reduce: 5: 13625-230842 & 641-2147483647
+[0] MPI startup(): Reduce: 3: 0-2147483647 & 641-2147483647
+[0] MPI startup(): Scan: 0: 0-2147483647 & 0-2147483647
+[0] MPI startup(): Scatter: 2: 0-0 & 0-80
+[0] MPI startup(): Scatter: 1: 1-44 & 0-80
+[0] MPI startup(): Scatter: 2: 45-1901 & 0-80
+[0] MPI startup(): Scatter: 1: 1902-2852 & 0-80
+[0] MPI startup(): Scatter: 3: 2853-4096 & 0-80
+[0] MPI startup(): Scatter: 1: 4097-16384 & 0-80
+[0] MPI startup(): Scatter: 3: 0-2147483647 & 0-80
+[0] MPI startup(): Scatter: 2: 0-1 & 81-160
+[0] MPI startup(): Scatter: 1: 2-2 & 81-160
+[0] MPI startup(): Scatter: 2: 3-8 & 81-160
+[0] MPI startup(): Scatter: 1: 9-64 & 81-160
+[0] MPI startup(): Scatter: 2: 65-448 & 81-160
+[0] MPI startup(): Scatter: 1: 449-772 & 81-160
+[0] MPI startup(): Scatter: 2: 773-1149 & 81-160
+[0] MPI startup(): Scatter: 1: 1150-22387 & 81-160
+[0] MPI startup(): Scatter: 3: 0-2147483647 & 81-160
+[0] MPI startup(): Scatter: 2: 0-0 & 161-320
+[0] MPI startup(): Scatter: 1: 1-27028 & 161-320
+[0] MPI startup(): Scatter: 3: 0-2147483647 & 161-320
+[0] MPI startup(): Scatter: 2: 0-0 & 321-640
+[0] MPI startup(): Scatter: 1: 1-29137 & 321-640
+[0] MPI startup(): Scatter: 3: 0-2147483647 & 321-640
+[0] MPI startup(): Scatter: 1: 0-28737 & 641-2147483647
+[0] MPI startup(): Scatter: 3: 0-2147483647 & 641-2147483647
+[0] MPI startup(): Scatterv: 1: 0-2147483647 & 0-2147483647
+[1] MPI startup(): Recognition=2 Platform(code=512 ippn=11 dev=6) Fabric(intra=1 inter=4 flags=0x0)
+[5] MPI startup(): Recognition=2 Platform(code=512 ippn=11 dev=6) Fabric(intra=1 inter=4 flags=0x0)
+[9] MPI startup(): Recognition=2 Platform(code=512 ippn=11 dev=6) Fabric(intra=1 inter=4 flags=0x0)
+[17] MPI startup(): Recognition=2 Platform(code=512 ippn=11 dev=6) Fabric(intra=1 inter=4 flags=0x0)
+[19] MPI startup(): Recognition=2 Platform(code=512 ippn=11 dev=6) Fabric(intra=1 inter=4 flags=0x0)
+[23] MPI startup(): Recognition=2 Platform(code=512 ippn=11 dev=6) Fabric(intra=1 inter=4 flags=0x0)
+[31] MPI startup(): Recognition=2 Platform(code=512 ippn=11 dev=6) Fabric(intra=1 inter=4 flags=0x0)
+[33] MPI startup(): Recognition=2 Platform(code=512 ippn=11 dev=6) Fabric(intra=1 inter=4 flags=0x0)
+[34] MPI startup(): Recognition=2 Platform(code=512 ippn=11 dev=6) Fabric(intra=1 inter=4 flags=0x0)
+[38] MPI startup(): Recognition=2 Platform(code=512 ippn=11 dev=6) Fabric(intra=1 inter=4 flags=0x0)
+[2] MPI startup(): Recognition=2 Platform(code=512 ippn=11 dev=6) Fabric(intra=1 inter=4 flags=0x0)
+[3] MPI startup(): Recognition=2 Platform(code=512 ippn=11 dev=6) Fabric(intra=1 inter=4 flags=0x0)
+[6] MPI startup(): Recognition=2 Platform(code=512 ippn=11 dev=6) Fabric(intra=1 inter=4 flags=0x0)
+[7] MPI startup(): Recognition=2 Platform(code=512 ippn=11 dev=6) Fabric(intra=1 inter=4 flags=0x0)
+[10] MPI startup(): Recognition=2 Platform(code=512 ippn=11 dev=6) Fabric(intra=1 inter=4 flags=0x0)
+[11] MPI startup(): Recognition=2 Platform(code=512 ippn=11 dev=6) Fabric(intra=1 inter=4 flags=0x0)
+[12] MPI startup(): Recognition=2 Platform(code=512 ippn=11 dev=6) Fabric(intra=1 inter=4 flags=0x0)
+[13] MPI startup(): Recognition=2 Platform(code=512 ippn=11 dev=6) Fabric(intra=1 inter=4 flags=0x0)
+[14] MPI startup(): Recognition=2 Platform(code=512 ippn=11 dev=6) Fabric(intra=1 inter=4 flags=0x0)
+[15] MPI startup(): Recognition=2 Platform(code=512 ippn=11 dev=6) Fabric(intra=1 inter=4 flags=0x0)
+[18] MPI startup(): Recognition=2 Platform(code=512 ippn=11 dev=6) Fabric(intra=1 inter=4 flags=0x0)
+[20] MPI startup(): Recognition=2 Platform(code=512 ippn=11 dev=6) Fabric(intra=1 inter=4 flags=0x0)
+[21] MPI startup(): Recognition=2 Platform(code=512 ippn=11 dev=6) Fabric(intra=1 inter=4 flags=0x0)
+[22] MPI startup(): Recognition=2 Platform(code=512 ippn=11 dev=6) Fabric(intra=1 inter=4 flags=0x0)
+[25] MPI startup(): Recognition=2 Platform(code=512 ippn=11 dev=6) Fabric(intra=1 inter=4 flags=0x0)
+[26] MPI startup(): Recognition=2 Platform(code=512 ippn=11 dev=6) Fabric(intra=1 inter=4 flags=0x0)
+[27] MPI startup(): Recognition=2 Platform(code=512 ippn=11 dev=6) Fabric(intra=1 inter=4 flags=0x0)
+[29] MPI startup(): Recognition=2 Platform(code=512 ippn=11 dev=6) Fabric(intra=1 inter=4 flags=0x0)
+[30] MPI startup(): Recognition=2 Platform(code=512 ippn=11 dev=6) Fabric(intra=1 inter=4 flags=0x0)
+[32] MPI startup(): Recognition=2 Platform(code=512 ippn=11 dev=6) Fabric(intra=1 inter=4 flags=0x0)
+[35] MPI startup(): Recognition=2 Platform(code=512 ippn=11 dev=6) Fabric(intra=1 inter=4 flags=0x0)
+[36] MPI startup(): Recognition=2 Platform(code=512 ippn=11 dev=6) Fabric(intra=1 inter=4 flags=0x0)
+[37] MPI startup(): Recognition=2 Platform(code=512 ippn=11 dev=6) Fabric(intra=1 inter=4 flags=0x0)
+[39] MPI startup(): Recognition=2 Platform(code=512 ippn=11 dev=6) Fabric(intra=1 inter=4 flags=0x0)
+[4] MPI startup(): Recognition=2 Platform(code=512 ippn=11 dev=6) Fabric(intra=1 inter=4 flags=0x0)
+[8] MPI startup(): Recognition=2 Platform(code=512 ippn=11 dev=6) Fabric(intra=1 inter=4 flags=0x0)
+[28] MPI startup(): Recognition=2 Platform(code=512 ippn=11 dev=6) Fabric(intra=1 inter=4 flags=0x0)
+[62] MPI startup(): Recognition=2 Platform(code=512 ippn=11 dev=6) Fabric(intra=1 inter=4 flags=0x0)
+[63] MPI startup(): Recognition=2 Platform(code=512 ippn=11 dev=6) Fabric(intra=1 inter=4 flags=0x0)
+[16] MPI startup(): Recognition=2 Platform(code=512 ippn=11 dev=6) Fabric(intra=1 inter=4 flags=0x0)
+[70] MPI startup(): Recognition=2 Platform(code=512 ippn=11 dev=6) Fabric(intra=1 inter=4 flags=0x0)
+[24] MPI startup(): Recognition=2 Platform(code=512 ippn=11 dev=6) Fabric(intra=1 inter=4 flags=0x0)
+[71] MPI startup(): Recognition=2 Platform(code=512 ippn=11 dev=6) Fabric(intra=1 inter=4 flags=0x0)
+[73] MPI startup(): Recognition=2 Platform(code=512 ippn=11 dev=6) Fabric(intra=1 inter=4 flags=0x0)
+[77] MPI startup(): Recognition=2 Platform(code=512 ippn=11 dev=6) Fabric(intra=1 inter=4 flags=0x0)
+[79] MPI startup(): Recognition=2 Platform(code=512 ippn=11 dev=6) Fabric(intra=1 inter=4 flags=0x0)
+[60] MPI startup(): Recognition=2 Platform(code=512 ippn=11 dev=6) Fabric(intra=1 inter=4 flags=0x0)
+[61] MPI startup(): Recognition=2 Platform(code=512 ippn=11 dev=6) Fabric(intra=1 inter=4 flags=0x0)
+[64] MPI startup(): Recognition=2 Platform(code=512 ippn=11 dev=6) Fabric(intra=1 inter=4 flags=0x0)
+[65] MPI startup(): Recognition=2 Platform(code=512 ippn=11 dev=6) Fabric(intra=1 inter=4 flags=0x0)
+[66] MPI startup(): Recognition=2 Platform(code=512 ippn=11 dev=6) Fabric(intra=1 inter=4 flags=0x0)
+[67] MPI startup(): Recognition=2 Platform(code=512 ippn=11 dev=6) Fabric(intra=1 inter=4 flags=0x0)
+[68] MPI startup(): Recognition=2 Platform(code=512 ippn=11 dev=6) Fabric(intra=1 inter=4 flags=0x0)
+[69] MPI startup(): Recognition=2 Platform(code=512 ippn=11 dev=6) Fabric(intra=1 inter=4 flags=0x0)
+[72] MPI startup(): Recognition=2 Platform(code=512 ippn=11 dev=6) Fabric(intra=1 inter=4 flags=0x0)
+[0] MPI startup(): Rank    Pid      Node name  Pin cpu
+[0] MPI startup(): 0       72655    cn134      0
+[0] MPI startup(): 1       72656    cn134      1
+[0] MPI startup(): 2       72657    cn134      2
+[0] MPI startup(): 3       72658    cn134      3
+[0] MPI startup(): 4       72659    cn134      4
+[0] MPI startup(): 5       72660    cn134      5
+[0] MPI startup(): 6       72661    cn134      6
+[0] MPI startup(): 7       72662    cn134      7
+[0] MPI startup(): 8       72663    cn134      8
+[0] MPI startup(): 9       72664    cn134      9
+[74] MPI startup(): Recognition=2 Platform(code=512 ippn=11 dev=6) Fabric(intra=1 inter=4 flags=0x0)
+[75] MPI startup(): Recognition=2 Platform(code=512 ippn=11 dev=6) Fabric(intra=1 inter=4 flags=0x0)
+[76] MPI startup(): Recognition=2 Platform(code=512 ippn=11 dev=6) Fabric(intra=1 inter=4 flags=0x0)
+[0] MPI startup(): 10      72665    cn134      10
+[0] MPI startup(): 11      72666    cn134      11
+[0] MPI startup(): 12      72667    cn134      12
+[0] MPI startup(): 13      72668    cn134      13
+[0] MPI startup(): 14      72669    cn134      14
+[0] MPI startup(): 15      72670    cn134      15
+[0] MPI startup(): 16      72671    cn134      16
+[0] MPI startup(): 17      72672    cn134      17
+[0] MPI startup(): 18      72673    cn134      18
+[0] MPI startup(): 19      72674    cn134      19
+[0] MPI startup(): 20      72675    cn134      20
+[78] MPI startup(): Recognition=2 Platform(code=512 ippn=11 dev=6) Fabric(intra=1 inter=4 flags=0x0)
+[0] MPI startup(): 21      72676    cn134      21
+[0] MPI startup(): 22      72677    cn134      22
+[0] MPI startup(): 23      72678    cn134      23
+[0] MPI startup(): 24      72679    cn134      24
+[0] MPI startup(): 25      72680    cn134      25
+[0] MPI startup(): 26      72681    cn134      26
+[0] MPI startup(): 27      72682    cn134      27
+[0] MPI startup(): 28      72683    cn134      28
+[0] MPI startup(): 29      72684    cn134      29
+[0] MPI startup(): 30      72685    cn134      30
+[43] MPI startup(): Recognition=2 Platform(code=512 ippn=11 dev=6) Fabric(intra=1 inter=4 flags=0x0)
+[0] MPI startup(): 31      72686    cn134      31
+[0] MPI startup(): 32      72687    cn134      32
+[0] MPI startup(): 33      72688    cn134      33
+[0] MPI startup(): 34      72689    cn134      34
+[0] MPI startup(): 35      72690    cn134      35
+[0] MPI startup(): 36      72691    cn134      36
+[0] MPI startup(): 37      72692    cn134      37
+[0] MPI startup(): 38      72693    cn134      38
+[0] MPI startup(): 39      72694    cn134      39
+[0] MPI startup(): 40      200614   cn139      0
+[55] MPI startup(): Recognition=2 Platform(code=512 ippn=11 dev=6) Fabric(intra=1 inter=4 flags=0x0)
+[0] MPI startup(): 41      200615   cn139      1
+[0] MPI startup(): 42      200616   cn139      2
+[0] MPI startup(): 43      200617   cn139      3
+[0] MPI startup(): 44      200618   cn139      4
+[0] MPI startup(): 45      200619   cn139      5
+[0] MPI startup(): 46      200620   cn139      6
+[0] MPI startup(): 47      200621   cn139      7
+[0] MPI startup(): 48      200622   cn139      8
+[0] MPI startup(): 49      200623   cn139      9
+[41] MPI startup(): Recognition=2 Platform(code=512 ippn=11 dev=6) Fabric(intra=1 inter=4 flags=0x0)
+[0] MPI startup(): 50      200624   cn139      10
+[0] MPI startup(): 51      200625   cn139      11
+[0] MPI startup(): 52      200626   cn139      12
+[0] MPI startup(): 53      200627   cn139      13
+[0] MPI startup(): 54      200628   cn139      14
+[0] MPI startup(): 55      200629   cn139      15
+[0] MPI startup(): 56      200630   cn139      16
+[0] MPI startup(): 57      200631   cn139      17
+[0] MPI startup(): 58      200632   cn139      18
+[0] MPI startup(): 59      200633   cn139      19
+[42] MPI startup(): Recognition=2 Platform(code=512 ippn=11 dev=6) Fabric(intra=1 inter=4 flags=0x0)
+[44] MPI startup(): Recognition=2 Platform(code=512 ippn=11 dev=6) Fabric(intra=1 inter=4 flags=0x0)
+[45] MPI startup(): Recognition=2 Platform(code=512 ippn=11 dev=6) Fabric(intra=1 inter=4 flags=0x0)
+[0] MPI startup(): 60      200634   cn139      20
+[0] MPI startup(): 61      200635   cn139      21
+[0] MPI startup(): 62      200636   cn139      22
+[0] MPI startup(): 63      200637   cn139      23
+[0] MPI startup(): 64      200638   cn139      24
+[0] MPI startup(): 65      200639   cn139      25
+[0] MPI startup(): 66      200640   cn139      26
+[0] MPI startup(): 67      200641   cn139      27
+[0] MPI startup(): 68      200642   cn139      28
+[0] MPI startup(): 69      200643   cn139      29
+[0] MPI startup(): 70      200644   cn139      30
+[0] MPI startup(): 71      200645   cn139      31
+[46] MPI startup(): Recognition=2 Platform(code=512 ippn=11 dev=6) Fabric(intra=1 inter=4 flags=0x0)
+[47] MPI startup(): Recognition=2 Platform(code=512 ippn=11 dev=6) Fabric(intra=1 inter=4 flags=0x0)
+[0] MPI startup(): 72      200646   cn139      32
+[0] MPI startup(): 73      200647   cn139      33
+[0] MPI startup(): 74      200648   cn139      34
+[0] MPI startup(): 75      200649   cn139      35
+[0] MPI startup(): 76      200650   cn139      36
+[0] MPI startup(): 77      200651   cn139      37
+[0] MPI startup(): 78      200652   cn139      38
+[0] MPI startup(): 79      200653   cn139      39
+[49] MPI startup(): Recognition=2 Platform(code=512 ippn=11 dev=6) Fabric(intra=1 inter=4 flags=0x0)
+[0] MPI startup(): Recognition=2 Platform(code=512 ippn=11 dev=6) Fabric(intra=1 inter=4 flags=0x0)
+[50] MPI startup(): Recognition=2 Platform(code=512 ippn=11 dev=6) Fabric(intra=1 inter=4 flags=0x0)
+[51] MPI startup(): Recognition=2 Platform(code=512 ippn=11 dev=6) Fabric(intra=1 inter=4 flags=0x0)
+[52] MPI startup(): Recognition=2 Platform(code=512 ippn=11 dev=6) Fabric(intra=1 inter=4 flags=0x0)
+[53] MPI startup(): Recognition=2 Platform(code=512 ippn=11 dev=6) Fabric(intra=1 inter=4 flags=0x0)
+[54] MPI startup(): Recognition=2 Platform(code=512 ippn=11 dev=6) Fabric(intra=1 inter=4 flags=0x0)
+[56] MPI startup(): Recognition=2 Platform(code=512 ippn=11 dev=6) Fabric(intra=1 inter=4 flags=0x0)
+[57] MPI startup(): Recognition=2 Platform(code=512 ippn=11 dev=6) Fabric(intra=1 inter=4 flags=0x0)
+[58] MPI startup(): Recognition=2 Platform(code=512 ippn=11 dev=6) Fabric(intra=1 inter=4 flags=0x0)
+[59] MPI startup(): Recognition=2 Platform(code=512 ippn=11 dev=6) Fabric(intra=1 inter=4 flags=0x0)
+[40] MPI startup(): Recognition=2 Platform(code=512 ippn=11 dev=6) Fabric(intra=1 inter=4 flags=0x0)
+[48] MPI startup(): Recognition=2 Platform(code=512 ippn=11 dev=6) Fabric(intra=1 inter=4 flags=0x0)
+[0] MPI startup(): I_MPI_DEBUG=9
+[0] MPI startup(): I_MPI_FALLBACK=disable
+[0] MPI startup(): I_MPI_INFO_BRAND=Intel(R) Xeon(R) Gold 6148 
+[0] MPI startup(): I_MPI_INFO_CACHE1=0,1,2,3,4,8,9,10,11,12,16,17,18,19,20,24,25,26,27,28,32,33,34,35,36,40,41,42,43,44,48,49,50,51,52,56,57,58,59,60
+[0] MPI startup(): I_MPI_INFO_CACHE2=0,1,2,3,4,8,9,10,11,12,16,17,18,19,20,24,25,26,27,28,32,33,34,35,36,40,41,42,43,44,48,49,50,51,52,56,57,58,59,60
+[0] MPI startup(): I_MPI_INFO_CACHE3=0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+[0] MPI startup(): I_MPI_INFO_CACHES=3
+[0] MPI startup(): I_MPI_INFO_CACHE_SHARE=2,2,64
+[0] MPI startup(): I_MPI_INFO_CACHE_SIZE=32768,1048576,28835840
+[0] MPI startup(): I_MPI_INFO_CORE=0,1,2,3,4,8,9,10,11,12,16,17,18,19,20,24,25,26,27,28,0,1,2,3,4,8,9,10,11,12,16,17,18,19,20,24,25,26,27,28
+[0] MPI startup(): I_MPI_INFO_C_NAME=Unknown
+[0] MPI startup(): I_MPI_INFO_DESC=1342177280
+[0] MPI startup(): I_MPI_INFO_FLGB=-744488965
+[0] MPI startup(): I_MPI_INFO_FLGC=2147417087
+[0] MPI startup(): I_MPI_INFO_FLGCEXT=24
+[0] MPI startup(): I_MPI_INFO_FLGD=-1075053569
+[0] MPI startup(): I_MPI_INFO_FLGDEXT=-1677721600
+[0] MPI startup(): I_MPI_INFO_LCPU=40
+[0] MPI startup(): I_MPI_INFO_MODE=263
+[0] MPI startup(): I_MPI_INFO_NUMA_NODE_MAP=mlx5_0:0
+[0] MPI startup(): I_MPI_INFO_NUMA_NODE_NUM=2
+[0] MPI startup(): I_MPI_INFO_PACK=0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+[0] MPI startup(): I_MPI_INFO_SIGN=329300
+[0] MPI startup(): I_MPI_INFO_STATE=0
+[0] MPI startup(): I_MPI_INFO_THREAD=0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+[0] MPI startup(): I_MPI_INFO_VEND=1
+[0] MPI startup(): I_MPI_PIN_INFO=0
+[0] MPI startup(): I_MPI_PIN_MAPPING=40:0 0,1 1,2 2,3 3,4 4,5 5,6 6,7 7,8 8,9 9,10 10,11 11,12 12,13 13,14 14,15 15,16 16,17 17,18 18,19 19,20 20,21 21,22 22,23 23,24 24,25 25,26 26,27 27,28 28,29 29,30 30,31 31,32 32,33 33,34 34,35 35,36 36,37 37,38 38,39 39
+
+     Program BANDS v.6.4.1 starts on 28Apr2022 at 13: 2:20 
+
+     This program is part of the open-source Quantum ESPRESSO suite
+     for quantum simulation of materials; please cite
+         "P. Giannozzi et al., J. Phys.:Condens. Matter 21 395502 (2009);
+         "P. Giannozzi et al., J. Phys.:Condens. Matter 29 465901 (2017);
+          URL http://www.quantum-espresso.org", 
+     in publications or presentations arising from this work. More details at
+     http://www.quantum-espresso.org/quote
+
+     Parallel version (MPI & OpenMP), running on      80 processor cores
+     Number of MPI processes:                80
+     Threads/MPI process:                     1
+
+     MPI processes distributed on     2 nodes
+     R & G space division:  proc/nbgrp/npool/nimage =      80
+
+     Reading data from directory:
+     tmp/grap.save/
+
+     IMPORTANT: XC functional enforced from input :
+     Exchange-correlation      = PBE ( 1  4  3  4 0 0)
+     Any further DFT definition will be discarded
+     Please, verify this is what you really want
+
+ 
+     Parallelization info
+     --------------------
+     sticks:   dense  smooth     PW     G-vecs:    dense   smooth      PW
+     Min         140      70     18                24662     8718    1192
+     Max         141      71     19                24681     8735    1213
+     Sum       11261    5629   1489              1973819   697885   96199
+ 
+
+     negative rho (up, down):  1.315E-03 0.000E+00
+     high-symmetry point:  0.0000 0.0000 0.0000   x coordinate   0.0000
+     high-symmetry point:  0.0000 0.5000 0.0000   x coordinate   0.5000
+     high-symmetry point:  0.5000 0.5000 0.0000   x coordinate   1.0000
+     high-symmetry point:  0.5000 0.0000 0.0000   x coordinate   1.5000
+     high-symmetry point:  0.0000 0.0000 0.0000   x coordinate   2.0000
+
+     Plottable bands (eV) written to file ScB.bands.gnu
+     Bands written to file ScB.bands
+
+ **************************************************************************
+
+                    xk=(   0.00000,   0.00000,   0.00000  )
+
+     point group C_s (m)    
+     there are  2 classes
+     the character table:
+
+       E     s    
+A'     1.00  1.00
+A''    1.00 -1.00
+
+     the symmetry operations in each class and the name of the first element:
+
+     E        1
+                                                                 
+     s        2
+                                                                 
+
+     Band symmetry, C_s (m)     point group:
+
+     e(  1 -  1) =     -8.87669  eV     1   --> A'             
+     e(  2 -  2) =     -7.32266  eV     1   --> A'             
+     e(  3 -  3) =     -7.32232  eV     1   --> A''            
+     e(  4 -  4) =     -7.32186  eV     1   --> A'             
+     e(  5 -  5) =     -7.32147  eV     1   --> A''            
+     e(  6 -  6) =     -6.73992  eV     1   --> A''            
+     e(  7 -  7) =     -6.68181  eV     1   --> A'             
+     e(  8 - 10) =     -6.68159  eV     3   -->   2 A'             
+     e(  8 - 10) =     -6.68159  eV     3   --> A''            
+     e( 11 - 11) =     -6.48723  eV     1   --> A'             
+     e( 12 - 12) =     -6.16394  eV     1   --> A''            
+     e( 13 - 13) =     -6.16333  eV     1   --> A'             
+     e( 14 - 14) =     -6.16288  eV     1   --> A''            
+     e( 15 - 15) =     -6.16262  eV     1   --> A'             
+     e( 16 - 16) =     -5.94159  eV     1   --> A'             
+     e( 17 - 17) =     -5.94096  eV     1   --> A''            
+     e( 18 - 18) =     -5.94053  eV     1   --> A'             
+     e( 19 - 19) =     -5.94027  eV     1   --> A''            
+     e( 20 - 21) =     -5.64657  eV     2   --> A'             
+     e( 20 - 21) =     -5.64657  eV     2   --> A''            
+     e( 22 - 23) =     -5.64620  eV     2   -->   2 A''            
+     e( 24 - 24) =     -5.63632  eV     1   --> A'             
+     e( 25 - 25) =     -5.63603  eV     1   --> A'             
+     e( 26 - 26) =     -5.63539  eV     1   --> A''            
+     e( 27 - 27) =     -5.63496  eV     1   --> A'             
+     e( 28 - 28) =     -5.48816  eV     1   --> A'             
+     e( 29 - 29) =     -5.48796  eV     1   --> A''            
+     e( 30 - 30) =     -5.48755  eV     1   --> A'             
+     e( 31 - 31) =     -5.48735  eV     1   --> A'             
+     e( 32 - 32) =     -5.46461  eV     1   --> A''            
+     e( 33 - 34) =     -5.46417  eV     2   --> A'             
+     e( 33 - 34) =     -5.46417  eV     2   --> A''            
+     e( 35 - 35) =     -5.46360  eV     1   --> A''            
+     e( 36 - 37) =     -5.27226  eV     2   --> A'             
+     e( 36 - 37) =     -5.27226  eV     2   --> A''            
+     e( 38 - 38) =     -5.24368  eV     1   --> A'             
+     e( 39 - 39) =     -5.24347  eV     1   --> A''            
+     e( 40 - 40) =     -5.24324  eV     1   --> A''            
+     e( 41 - 41) =     -5.24281  eV     1   --> A'             
+     e( 42 - 42) =     -5.19543  eV     1   --> A'             
+     e( 43 - 43) =     -4.99010  eV     1   --> A'             
+     e( 44 - 44) =     -4.98999  eV     1   --> A''            
+     e( 45 - 45) =     -4.98963  eV     1   --> A''            
+     e( 46 - 46) =     -4.98931  eV     1   --> A'             
+     e( 47 - 47) =     -4.87246  eV     1   --> A'             
+     e( 48 - 48) =     -4.87192  eV     1   --> A''            
+     e( 49 - 49) =     -4.87163  eV     1   --> A'             
+     e( 50 - 50) =     -4.87152  eV     1   --> A''            
+     e( 51 - 51) =     -4.84869  eV     1   --> A''            
+     e( 52 - 52) =     -4.84854  eV     1   --> A'             
+     e( 53 - 53) =     -4.84823  eV     1   --> A'             
+     e( 54 - 54) =     -4.84785  eV     1   --> A''            
+     e( 55 - 55) =     -4.78609  eV     1   --> A'             
+     e( 56 - 57) =     -4.78589  eV     2   --> A'             
+     e( 56 - 57) =     -4.78589  eV     2   --> A''            
+     e( 58 - 58) =     -4.78571  eV     1   --> A'             
+     e( 59 - 59) =     -4.56393  eV     1   --> A'             
+     e( 60 - 61) =     -4.56364  eV     2   --> A'             
+     e( 60 - 61) =     -4.56364  eV     2   --> A''            
+     e( 62 - 62) =     -4.56335  eV     1   --> A'             
+     e( 63 - 63) =     -4.46856  eV     1   --> A''            
+     e( 64 - 64) =     -4.46808  eV     1   --> A''            
+     e( 65 - 65) =     -4.46762  eV     1   --> A'             
+     e( 66 - 66) =     -4.46708  eV     1   --> A''            
+     e( 67 - 67) =     -4.45409  eV     1   --> A'             
+     e( 68 - 68) =     -4.45384  eV     1   --> A''            
+     e( 69 - 69) =     -4.45345  eV     1   --> A'             
+     e( 70 - 70) =     -4.45320  eV     1   --> A''            
+     e( 71 - 71) =     -4.43671  eV     1   --> A''            
+     e( 72 - 72) =     -4.43654  eV     1   --> A'             
+     e( 73 - 73) =     -4.43612  eV     1   --> A'             
+     e( 74 - 74) =     -4.43571  eV     1   --> A''            
+     e( 75 - 75) =     -4.42462  eV     1   --> A''            
+     e( 76 - 76) =     -4.42445  eV     1   --> A'             
+     e( 77 - 77) =     -4.42401  eV     1   --> A'             
+     e( 78 - 78) =     -4.42367  eV     1   --> A''            
+     e( 79 - 80) =     -4.38144  eV     2   --> A'             
+     e( 79 - 80) =     -4.38144  eV     2   --> A''            
+     e( 81 - 81) =     -4.38128  eV     1   --> A'             
+     e( 82 - 82) =     -4.38117  eV     1   --> A'             
+     e( 83 - 83) =     -4.35410  eV     1   --> A'             
+     e( 84 - 84) =     -4.35379  eV     1   --> A'             
+     e( 85 - 85) =     -4.35346  eV     1   --> A''            
+     e( 86 - 86) =     -4.35315  eV     1   --> A'             
+     e( 87 - 88) =     -4.22970  eV     2   --> A'             
+     e( 87 - 88) =     -4.22970  eV     2   --> A''            
+     e( 89 - 89) =     -4.22912  eV     1   --> A''            
+     e( 90 - 90) =     -4.22874  eV     1   --> A'             
+     e( 91 - 91) =     -4.20451  eV     1   --> A'             
+     e( 92 - 93) =     -4.14186  eV     2   --> A'             
+     e( 92 - 93) =     -4.14186  eV     2   --> A''            
+     e( 94 - 95) =     -4.05023  eV     2   --> A'             
+     e( 94 - 95) =     -4.05023  eV     2   --> A''            
+     e( 96 - 97) =     -4.04998  eV     2   -->   2 A''            
+     e( 98 - 98) =     -3.83660  eV     1   --> A''            
+     e( 99 - 99) =     -3.22058  eV     1   --> A'             
+     e(100 -100) =     -2.38334  eV     1   --> A'             
+     e(101 -101) =     -1.58982  eV     1   --> A''            
+     e(102 -102) =     -1.58971  eV     1   --> A'             
+     e(103 -103) =     -1.58927  eV     1   --> A''            
+     e(104 -104) =     -1.58894  eV     1   --> A'             
+     e(105 -105) =     -0.63013  eV     1   --> A''            
+     e(106 -106) =     -0.62990  eV     1   --> A'             
+     e(107 -107) =     -0.62964  eV     1   --> A''            
+     e(108 -108) =     -0.62933  eV     1   --> A''            
+     e(109 -110) =     -0.29538  eV     2   --> A'             
+     e(109 -110) =     -0.29538  eV     2   --> A''            
+     e(111 -111) =     -0.29513  eV     1   --> A'             
+     e(112 -112) =     -0.29481  eV     1   --> A''            
+     e(113 -113) =      1.22636  eV     1   --> A'             
+     e(114 -114) =      1.22657  eV     1   --> A''            
+     e(115 -115) =      1.22672  eV     1   --> A'             
+     e(116 -116) =      1.22698  eV     1   --> A'             
+     e(117 -117) =      1.27360  eV     1   --> A'             
+     e(118 -119) =      1.37047  eV     2   -->   2 A'             
+
+ **************************************************************************
+
+ **************************************************************************
+
+                    xk=(   0.00000,   0.50000,   0.00000  )
+
+     point group C_1 (1)    
+     there are  1 classes
+     the character table:
+
+       E    
+A      1.00
+
+     the symmetry operations in each class and the name of the first element:
+
+     E        1
+                                                                 
+
+     Band symmetry, C_1 (1)     point group:
+
+     e(  1 -  1) =     -8.46961  eV     1   --> A              
+     e(  2 -  2) =     -8.46800  eV     1   --> A              
+     e(  3 -  4) =     -7.10567  eV     2   -->   2 A              
+     e(  5 -  5) =     -7.10463  eV     1   --> A              
+     e(  6 -  6) =     -7.10442  eV     1   --> A              
+     e(  7 -  7) =     -6.57163  eV     1   --> A              
+     e(  8 -  8) =     -6.56939  eV     1   --> A              
+     e(  9 -  9) =     -6.35094  eV     1   --> A              
+     e( 10 - 10) =     -6.34857  eV     1   --> A              
+     e( 11 - 11) =     -6.22037  eV     1   --> A              
+     e( 12 - 12) =     -6.22002  eV     1   --> A              
+     e( 13 - 13) =     -6.21808  eV     1   --> A              
+     e( 14 - 14) =     -6.21786  eV     1   --> A              
+     e( 15 - 16) =     -6.08379  eV     2   -->   2 A              
+     e( 17 - 17) =     -5.96838  eV     1   --> A              
+     e( 18 - 18) =     -5.96809  eV     1   --> A              
+     e( 19 - 19) =     -5.96624  eV     1   --> A              
+     e( 20 - 20) =     -5.96571  eV     1   --> A              
+     e( 21 - 21) =     -5.69486  eV     1   --> A              
+     e( 22 - 22) =     -5.69462  eV     1   --> A              
+     e( 23 - 23) =     -5.69315  eV     1   --> A              
+     e( 24 - 24) =     -5.69264  eV     1   --> A              
+     e( 25 - 26) =     -5.66605  eV     2   -->   2 A              
+     e( 27 - 28) =     -5.66375  eV     2   -->   2 A              
+     e( 29 - 29) =     -5.45942  eV     1   --> A              
+     e( 30 - 30) =     -5.45922  eV     1   --> A              
+     e( 31 - 31) =     -5.45881  eV     1   --> A              
+     e( 32 - 32) =     -5.45854  eV     1   --> A              
+     e( 33 - 33) =     -5.28021  eV     1   --> A              
+     e( 34 - 34) =     -5.28008  eV     1   --> A              
+     e( 35 - 35) =     -5.27347  eV     1   --> A              
+     e( 36 - 36) =     -5.27102  eV     1   --> A              
+     e( 37 - 37) =     -5.19774  eV     1   --> A              
+     e( 38 - 38) =     -5.19535  eV     1   --> A              
+     e( 39 - 39) =     -5.14476  eV     1   --> A              
+     e( 40 - 40) =     -5.14465  eV     1   --> A              
+     e( 41 - 41) =     -5.14403  eV     1   --> A              
+     e( 42 - 42) =     -5.14377  eV     1   --> A              
+     e( 43 - 43) =     -5.12057  eV     1   --> A              
+     e( 44 - 44) =     -5.12046  eV     1   --> A              
+     e( 45 - 45) =     -5.10610  eV     1   --> A              
+     e( 46 - 46) =     -5.10391  eV     1   --> A              
+     e( 47 - 47) =     -4.95266  eV     1   --> A              
+     e( 48 - 48) =     -4.95246  eV     1   --> A              
+     e( 49 - 49) =     -4.95162  eV     1   --> A              
+     e( 50 - 50) =     -4.95120  eV     1   --> A              
+     e( 51 - 51) =     -4.89995  eV     1   --> A              
+     e( 52 - 52) =     -4.89932  eV     1   --> A              
+     e( 53 - 53) =     -4.89761  eV     1   --> A              
+     e( 54 - 54) =     -4.89723  eV     1   --> A              
+     e( 55 - 55) =     -4.80359  eV     1   --> A              
+     e( 56 - 56) =     -4.80326  eV     1   --> A              
+     e( 57 - 57) =     -4.80146  eV     1   --> A              
+     e( 58 - 58) =     -4.80086  eV     1   --> A              
+     e( 59 - 59) =     -4.72191  eV     1   --> A              
+     e( 60 - 60) =     -4.72179  eV     1   --> A              
+     e( 61 - 61) =     -4.72120  eV     1   --> A              
+     e( 62 - 62) =     -4.72096  eV     1   --> A              
+     e( 63 - 66) =     -4.70709  eV     4   -->   4 A              
+     e( 67 - 67) =     -4.48390  eV     1   --> A              
+     e( 68 - 68) =     -4.48336  eV     1   --> A              
+     e( 69 - 69) =     -4.48133  eV     1   --> A              
+     e( 70 - 70) =     -4.48099  eV     1   --> A              
+     e( 71 - 71) =     -4.43513  eV     1   --> A              
+     e( 72 - 72) =     -4.43288  eV     1   --> A              
+     e( 73 - 73) =     -4.31320  eV     1   --> A              
+     e( 74 - 74) =     -4.31301  eV     1   --> A              
+     e( 75 - 75) =     -4.31196  eV     1   --> A              
+     e( 76 - 76) =     -4.31149  eV     1   --> A              
+     e( 77 - 77) =     -4.28089  eV     1   --> A              
+     e( 78 - 78) =     -4.28032  eV     1   --> A              
+     e( 79 - 79) =     -4.27840  eV     1   --> A              
+     e( 80 - 80) =     -4.27759  eV     1   --> A              
+     e( 81 - 81) =     -4.26843  eV     1   --> A              
+     e( 82 - 82) =     -4.26585  eV     1   --> A              
+     e( 83 - 83) =     -4.21884  eV     1   --> A              
+     e( 84 - 84) =     -4.21615  eV     1   --> A              
+     e( 85 - 86) =     -4.19719  eV     2   -->   2 A              
+     e( 87 - 87) =     -4.19642  eV     1   --> A              
+     e( 88 - 88) =     -4.19606  eV     1   --> A              
+     e( 89 - 90) =     -4.13245  eV     2   -->   2 A              
+     e( 91 - 92) =     -4.12978  eV     2   -->   2 A              
+     e( 93 - 93) =     -3.95624  eV     1   --> A              
+     e( 94 - 94) =     -3.95344  eV     1   --> A              
+     e( 95 - 96) =     -3.85611  eV     2   -->   2 A              
+     e( 97 - 97) =     -3.60794  eV     1   --> A              
+     e( 98 - 98) =     -3.60518  eV     1   --> A              
+     e( 99 -100) =     -2.77962  eV     2   -->   2 A              
+     e(101 -102) =     -2.77937  eV     2   -->   2 A              
+     e(103 -103) =     -1.75270  eV     1   --> A              
+     e(104 -104) =     -1.75200  eV     1   --> A              
+     e(105 -105) =     -1.07764  eV     1   --> A              
+     e(106 -106) =     -1.07749  eV     1   --> A              
+     e(107 -107) =     -1.07630  eV     1   --> A              
+     e(108 -108) =     -1.07618  eV     1   --> A              
+     e(109 -109) =      0.08469  eV     1   --> A              
+     e(110 -110) =      0.08483  eV     1   --> A              
+     e(111 -112) =      0.08580  eV     2   -->   2 A              
+     e(113 -113) =      1.64233  eV     1   --> A              
+     e(114 -114) =      1.64262  eV     1   --> A              
+     e(115 -115) =      1.68227  eV     1   --> A              
+     e(116 -116) =      1.68389  eV     1   --> A              
+     e(117 -118) =      1.77124  eV     2   -->   2 A              
+     e(119 -119) =      2.10994  eV     1   --> A              
+
+ **************************************************************************
+
+ **************************************************************************
+
+                    xk=(   0.50000,   0.50000,   0.00000  )
+
+     point group C_s (m)    
+     there are  2 classes
+     the character table:
+
+       E     s    
+A'     1.00  1.00
+A''    1.00 -1.00
+
+     the symmetry operations in each class and the name of the first element:
+
+     E        1
+                                                                 
+     s        2
+                                                                 
+
+     Band symmetry, C_s (m)     point group:
+
+     e(  1 -  1) =     -8.09577  eV     1   --> A'             
+     e(  2 -  2) =     -8.09462  eV     1   --> A'             
+     e(  3 -  3) =     -8.09410  eV     1   --> A''            
+     e(  4 -  4) =     -8.09263  eV     1   --> A'             
+     e(  5 -  5) =     -6.39630  eV     1   --> A''            
+     e(  6 -  6) =     -6.39438  eV     1   --> A''            
+     e(  7 -  7) =     -6.39382  eV     1   --> A'             
+     e(  8 -  8) =     -6.39172  eV     1   --> A''            
+     e(  9 - 10) =     -6.31095  eV     2   -->   2 A'             
+     e( 11 - 11) =     -6.20058  eV     1   --> A'             
+     e( 12 - 12) =     -6.19850  eV     1   --> A'             
+     e( 13 - 13) =     -6.19804  eV     1   --> A''            
+     e( 14 - 14) =     -6.19591  eV     1   --> A'             
+     e( 15 - 15) =     -6.07084  eV     1   --> A'             
+     e( 16 - 16) =     -6.07049  eV     1   --> A''            
+     e( 17 - 19) =     -6.07032  eV     3   -->   2 A'             
+     e( 17 - 19) =     -6.07032  eV     3   --> A''            
+     e( 20 - 20) =     -6.06964  eV     1   --> A''            
+     e( 21 - 21) =     -6.06945  eV     1   --> A''            
+     e( 22 - 22) =     -6.06928  eV     1   --> A'             
+     e( 23 - 24) =     -5.76845  eV     2   --> A'             
+     e( 23 - 24) =     -5.76845  eV     2   --> A''            
+     e( 25 - 27) =     -5.39851  eV     3   --> A'             
+     e( 25 - 27) =     -5.39851  eV     3   -->   2 A''            
+     e( 28 - 28) =     -5.39815  eV     1   --> A''            
+     e( 29 - 29) =     -5.38519  eV     1   --> A'             
+     e( 30 - 30) =     -5.38495  eV     1   --> A''            
+     e( 31 - 32) =     -5.38443  eV     2   --> A'             
+     e( 31 - 32) =     -5.38443  eV     2   --> A''            
+     e( 33 - 34) =     -5.38406  eV     2   --> A'             
+     e( 33 - 34) =     -5.38406  eV     2   --> A''            
+     e( 35 - 36) =     -5.38347  eV     2   --> A'             
+     e( 35 - 36) =     -5.38347  eV     2   --> A''            
+     e( 37 - 38) =     -5.26971  eV     2   --> A'             
+     e( 37 - 38) =     -5.26971  eV     2   --> A''            
+     e( 39 - 40) =     -5.26942  eV     2   --> A'             
+     e( 39 - 40) =     -5.26942  eV     2   --> A''            
+     e( 41 - 41) =     -5.26920  eV     1   --> A'             
+     e( 42 - 42) =     -5.26900  eV     1   --> A''            
+     e( 43 - 44) =     -5.26842  eV     2   --> A'             
+     e( 43 - 44) =     -5.26842  eV     2   --> A''            
+     e( 45 - 45) =     -5.02222  eV     1   --> A'             
+     e( 46 - 46) =     -5.02012  eV     1   --> A'             
+     e( 47 - 47) =     -5.01982  eV     1   --> A''            
+     e( 48 - 48) =     -5.01779  eV     1   --> A'             
+     e( 49 - 49) =     -5.00025  eV     1   --> A'             
+     e( 50 - 50) =     -5.00007  eV     1   --> A''            
+     e( 51 - 51) =     -4.99973  eV     1   --> A'             
+     e( 52 - 52) =     -4.99934  eV     1   --> A'             
+     e( 53 - 53) =     -4.75940  eV     1   --> A'             
+     e( 54 - 55) =     -4.75927  eV     2   --> A'             
+     e( 54 - 55) =     -4.75927  eV     2   --> A''            
+     e( 56 - 56) =     -4.75898  eV     1   --> A'             
+     e( 57 - 57) =     -4.66420  eV     1   --> A''            
+     e( 58 - 58) =     -4.66407  eV     1   --> A''            
+     e( 59 - 59) =     -4.59273  eV     1   --> A'             
+     e( 60 - 60) =     -4.59244  eV     1   --> A''            
+     e( 61 - 61) =     -4.59194  eV     1   --> A''            
+     e( 62 - 62) =     -4.59174  eV     1   --> A'             
+     e( 63 - 63) =     -4.59064  eV     1   --> A'             
+     e( 64 - 65) =     -4.59030  eV     2   --> A'             
+     e( 64 - 65) =     -4.59030  eV     2   --> A''            
+     e( 66 - 66) =     -4.58963  eV     1   --> A''            
+     e( 67 - 68) =     -4.44609  eV     2   -->   2 A'             
+     e( 69 - 69) =     -4.43238  eV     1   --> A''            
+     e( 70 - 70) =     -4.43227  eV     1   --> A'             
+     e( 71 - 72) =     -4.43176  eV     2   --> A'             
+     e( 71 - 72) =     -4.43176  eV     2   --> A''            
+     e( 73 - 74) =     -4.43135  eV     2   --> A'             
+     e( 73 - 74) =     -4.43135  eV     2   --> A''            
+     e( 75 - 75) =     -4.43083  eV     1   --> A'             
+     e( 76 - 76) =     -4.43069  eV     1   --> A''            
+     e( 77 - 77) =     -4.38724  eV     1   --> A'             
+     e( 78 - 78) =     -4.38545  eV     1   --> A'             
+     e( 79 - 79) =     -4.38532  eV     1   --> A''            
+     e( 80 - 80) =     -4.38362  eV     1   --> A'             
+     e( 81 - 82) =     -4.11156  eV     2   --> A'             
+     e( 81 - 82) =     -4.11156  eV     2   --> A''            
+     e( 83 - 84) =     -4.11127  eV     2   -->   2 A''            
+     e( 85 - 85) =     -4.05750  eV     1   --> A''            
+     e( 86 - 86) =     -4.05478  eV     1   --> A''            
+     e( 87 - 87) =     -4.05462  eV     1   --> A'             
+     e( 88 - 88) =     -4.05198  eV     1   --> A''            
+     e( 89 - 90) =     -4.01928  eV     2   --> A'             
+     e( 89 - 90) =     -4.01928  eV     2   --> A''            
+     e( 91 - 91) =     -3.93207  eV     1   --> A'             
+     e( 92 - 92) =     -3.93029  eV     1   --> A'             
+     e( 93 - 93) =     -3.93014  eV     1   --> A''            
+     e( 94 - 94) =     -3.92833  eV     1   --> A'             
+     e( 95 - 96) =     -3.57630  eV     2   --> A'             
+     e( 95 - 96) =     -3.57630  eV     2   --> A''            
+     e( 97 - 98) =     -3.57593  eV     2   --> A'             
+     e( 97 - 98) =     -3.57593  eV     2   --> A''            
+     e( 99 -100) =     -3.57485  eV     2   --> A'             
+     e( 99 -100) =     -3.57485  eV     2   --> A''            
+     e(101 -101) =     -3.57441  eV     1   --> A''            
+     e(102 -102) =     -3.57429  eV     1   --> A'             
+     e(103 -104) =     -1.99983  eV     2   --> A'             
+     e(103 -104) =     -1.99983  eV     2   --> A''            
+     e(105 -105) =     -1.25593  eV     1   --> A'             
+     e(106 -106) =     -1.25520  eV     1   --> A'             
+     e(107 -107) =     -1.25496  eV     1   --> A''            
+     e(108 -108) =     -1.25408  eV     1   --> A'             
+     e(109 -110) =      1.03199  eV     2   -->   2 A'             
+     e(111 -111) =      2.01081  eV     1   --> A'             
+     e(112 -113) =      2.01110  eV     2   --> A'             
+     e(112 -113) =      2.01110  eV     2   --> A''            
+     e(114 -114) =      2.01140  eV     1   --> A'             
+     e(115 -115) =      2.01911  eV     1   --> A''            
+     e(116 -116) =      2.02011  eV     1   --> A''            
+     e(117 -117) =      2.02032  eV     1   --> A'             
+     e(118 -118) =      2.02123  eV     1   --> A''            
+     e(119 -119) =      2.10070  eV     1   -->   ?
+
+ **************************************************************************
+
+ **************************************************************************
+
+                    xk=(   0.50000,   0.00000,   0.00000  )
+
+     point group C_1 (1)    
+     there are  1 classes
+     the character table:
+
+       E    
+A      1.00
+
+     the symmetry operations in each class and the name of the first element:
+
+     E        1
+                                                                 
+
+     Band symmetry, C_1 (1)     point group:
+
+     e(  1 -  1) =     -8.46961  eV     1   --> A              
+     e(  2 -  2) =     -8.46800  eV     1   --> A              
+     e(  3 -  4) =     -7.10567  eV     2   -->   2 A              
+     e(  5 -  5) =     -7.10463  eV     1   --> A              
+     e(  6 -  6) =     -7.10442  eV     1   --> A              
+     e(  7 -  7) =     -6.57163  eV     1   --> A              
+     e(  8 -  8) =     -6.56939  eV     1   --> A              
+     e(  9 -  9) =     -6.35094  eV     1   --> A              
+     e( 10 - 10) =     -6.34857  eV     1   --> A              
+     e( 11 - 11) =     -6.22037  eV     1   --> A              
+     e( 12 - 12) =     -6.22002  eV     1   --> A              
+     e( 13 - 13) =     -6.21808  eV     1   --> A              
+     e( 14 - 14) =     -6.21786  eV     1   --> A              
+     e( 15 - 16) =     -6.08379  eV     2   -->   2 A              
+     e( 17 - 17) =     -5.96838  eV     1   --> A              
+     e( 18 - 18) =     -5.96809  eV     1   --> A              
+     e( 19 - 19) =     -5.96624  eV     1   --> A              
+     e( 20 - 20) =     -5.96571  eV     1   --> A              
+     e( 21 - 21) =     -5.69486  eV     1   --> A              
+     e( 22 - 22) =     -5.69462  eV     1   --> A              
+     e( 23 - 23) =     -5.69315  eV     1   --> A              
+     e( 24 - 24) =     -5.69264  eV     1   --> A              
+     e( 25 - 26) =     -5.66605  eV     2   -->   2 A              
+     e( 27 - 28) =     -5.66375  eV     2   -->   2 A              
+     e( 29 - 29) =     -5.45942  eV     1   --> A              
+     e( 30 - 30) =     -5.45922  eV     1   --> A              
+     e( 31 - 31) =     -5.45881  eV     1   --> A              
+     e( 32 - 32) =     -5.45854  eV     1   --> A              
+     e( 33 - 33) =     -5.28021  eV     1   --> A              
+     e( 34 - 34) =     -5.28008  eV     1   --> A              
+     e( 35 - 35) =     -5.27347  eV     1   --> A              
+     e( 36 - 36) =     -5.27102  eV     1   --> A              
+     e( 37 - 37) =     -5.19774  eV     1   --> A              
+     e( 38 - 38) =     -5.19535  eV     1   --> A              
+     e( 39 - 39) =     -5.14476  eV     1   --> A              
+     e( 40 - 40) =     -5.14465  eV     1   --> A              
+     e( 41 - 41) =     -5.14403  eV     1   --> A              
+     e( 42 - 42) =     -5.14377  eV     1   --> A              
+     e( 43 - 43) =     -5.12057  eV     1   --> A              
+     e( 44 - 44) =     -5.12046  eV     1   --> A              
+     e( 45 - 45) =     -5.10610  eV     1   --> A              
+     e( 46 - 46) =     -5.10391  eV     1   --> A              
+     e( 47 - 47) =     -4.95266  eV     1   --> A              
+     e( 48 - 48) =     -4.95246  eV     1   --> A              
+     e( 49 - 49) =     -4.95162  eV     1   --> A              
+     e( 50 - 50) =     -4.95120  eV     1   --> A              
+     e( 51 - 51) =     -4.89995  eV     1   --> A              
+     e( 52 - 52) =     -4.89932  eV     1   --> A              
+     e( 53 - 53) =     -4.89761  eV     1   --> A              
+     e( 54 - 54) =     -4.89723  eV     1   --> A              
+     e( 55 - 55) =     -4.80359  eV     1   --> A              
+     e( 56 - 56) =     -4.80326  eV     1   --> A              
+     e( 57 - 57) =     -4.80146  eV     1   --> A              
+     e( 58 - 58) =     -4.80086  eV     1   --> A              
+     e( 59 - 59) =     -4.72191  eV     1   --> A              
+     e( 60 - 60) =     -4.72179  eV     1   --> A              
+     e( 61 - 61) =     -4.72120  eV     1   --> A              
+     e( 62 - 62) =     -4.72096  eV     1   --> A              
+     e( 63 - 66) =     -4.70709  eV     4   -->   4 A              
+     e( 67 - 67) =     -4.48390  eV     1   --> A              
+     e( 68 - 68) =     -4.48336  eV     1   --> A              
+     e( 69 - 69) =     -4.48133  eV     1   --> A              
+     e( 70 - 70) =     -4.48099  eV     1   --> A              
+     e( 71 - 71) =     -4.43513  eV     1   --> A              
+     e( 72 - 72) =     -4.43288  eV     1   --> A              
+     e( 73 - 73) =     -4.31320  eV     1   --> A              
+     e( 74 - 74) =     -4.31301  eV     1   --> A              
+     e( 75 - 75) =     -4.31196  eV     1   --> A              
+     e( 76 - 76) =     -4.31149  eV     1   --> A              
+     e( 77 - 77) =     -4.28089  eV     1   --> A              
+     e( 78 - 78) =     -4.28032  eV     1   --> A              
+     e( 79 - 79) =     -4.27840  eV     1   --> A              
+     e( 80 - 80) =     -4.27759  eV     1   --> A              
+     e( 81 - 81) =     -4.26843  eV     1   --> A              
+     e( 82 - 82) =     -4.26585  eV     1   --> A              
+     e( 83 - 83) =     -4.21884  eV     1   --> A              
+     e( 84 - 84) =     -4.21615  eV     1   --> A              
+     e( 85 - 86) =     -4.19719  eV     2   -->   2 A              
+     e( 87 - 87) =     -4.19642  eV     1   --> A              
+     e( 88 - 88) =     -4.19606  eV     1   --> A              
+     e( 89 - 90) =     -4.13245  eV     2   -->   2 A              
+     e( 91 - 92) =     -4.12978  eV     2   -->   2 A              
+     e( 93 - 93) =     -3.95624  eV     1   --> A              
+     e( 94 - 94) =     -3.95344  eV     1   --> A              
+     e( 95 - 96) =     -3.85611  eV     2   -->   2 A              
+     e( 97 - 97) =     -3.60794  eV     1   --> A              
+     e( 98 - 98) =     -3.60518  eV     1   --> A              
+     e( 99 -100) =     -2.77962  eV     2   -->   2 A              
+     e(101 -102) =     -2.77937  eV     2   -->   2 A              
+     e(103 -103) =     -1.75270  eV     1   --> A              
+     e(104 -104) =     -1.75200  eV     1   --> A              
+     e(105 -105) =     -1.07764  eV     1   --> A              
+     e(106 -106) =     -1.07749  eV     1   --> A              
+     e(107 -107) =     -1.07630  eV     1   --> A              
+     e(108 -108) =     -1.07618  eV     1   --> A              
+     e(109 -109) =      0.08469  eV     1   --> A              
+     e(110 -110) =      0.08483  eV     1   --> A              
+     e(111 -112) =      0.08580  eV     2   -->   2 A              
+     e(113 -113) =      1.64233  eV     1   --> A              
+     e(114 -114) =      1.64262  eV     1   --> A              
+     e(115 -115) =      1.68227  eV     1   --> A              
+     e(116 -116) =      1.68389  eV     1   --> A              
+     e(117 -118) =      1.77124  eV     2   -->   2 A              
+     e(119 -119) =      2.10987  eV     1   --> A              
+
+ **************************************************************************
+
+ **************************************************************************
+
+                    xk=(   0.00000,   0.00000,   0.00000  )
+
+     point group C_s (m)    
+     there are  2 classes
+     the character table:
+
+       E     s    
+A'     1.00  1.00
+A''    1.00 -1.00
+
+     the symmetry operations in each class and the name of the first element:
+
+     E        1
+                                                                 
+     s        2
+                                                                 
+
+     Band symmetry, C_s (m)     point group:
+
+     e(  1 -  1) =     -8.87669  eV     1   --> A'             
+     e(  2 -  2) =     -7.32266  eV     1   --> A'             
+     e(  3 -  3) =     -7.32232  eV     1   --> A''            
+     e(  4 -  4) =     -7.32186  eV     1   --> A'             
+     e(  5 -  5) =     -7.32147  eV     1   --> A''            
+     e(  6 -  6) =     -6.73992  eV     1   --> A''            
+     e(  7 -  7) =     -6.68181  eV     1   --> A'             
+     e(  8 - 10) =     -6.68159  eV     3   -->   2 A'             
+     e(  8 - 10) =     -6.68159  eV     3   --> A''            
+     e( 11 - 11) =     -6.48723  eV     1   --> A'             
+     e( 12 - 12) =     -6.16394  eV     1   --> A''            
+     e( 13 - 13) =     -6.16333  eV     1   --> A'             
+     e( 14 - 14) =     -6.16288  eV     1   --> A''            
+     e( 15 - 15) =     -6.16262  eV     1   --> A'             
+     e( 16 - 16) =     -5.94159  eV     1   --> A'             
+     e( 17 - 17) =     -5.94096  eV     1   --> A''            
+     e( 18 - 18) =     -5.94053  eV     1   --> A'             
+     e( 19 - 19) =     -5.94027  eV     1   --> A''            
+     e( 20 - 21) =     -5.64657  eV     2   --> A'             
+     e( 20 - 21) =     -5.64657  eV     2   --> A''            
+     e( 22 - 23) =     -5.64620  eV     2   -->   2 A''            
+     e( 24 - 24) =     -5.63632  eV     1   --> A'             
+     e( 25 - 25) =     -5.63603  eV     1   --> A'             
+     e( 26 - 26) =     -5.63539  eV     1   --> A''            
+     e( 27 - 27) =     -5.63496  eV     1   --> A'             
+     e( 28 - 28) =     -5.48816  eV     1   --> A'             
+     e( 29 - 29) =     -5.48796  eV     1   --> A''            
+     e( 30 - 30) =     -5.48755  eV     1   --> A'             
+     e( 31 - 31) =     -5.48735  eV     1   --> A'             
+     e( 32 - 32) =     -5.46461  eV     1   --> A''            
+     e( 33 - 34) =     -5.46417  eV     2   --> A'             
+     e( 33 - 34) =     -5.46417  eV     2   --> A''            
+     e( 35 - 35) =     -5.46360  eV     1   --> A''            
+     e( 36 - 37) =     -5.27226  eV     2   --> A'             
+     e( 36 - 37) =     -5.27226  eV     2   --> A''            
+     e( 38 - 38) =     -5.24368  eV     1   --> A'             
+     e( 39 - 39) =     -5.24347  eV     1   --> A''            
+     e( 40 - 40) =     -5.24324  eV     1   --> A''            
+     e( 41 - 41) =     -5.24281  eV     1   --> A'             
+     e( 42 - 42) =     -5.19543  eV     1   --> A'             
+     e( 43 - 43) =     -4.99010  eV     1   --> A'             
+     e( 44 - 44) =     -4.98999  eV     1   --> A''            
+     e( 45 - 45) =     -4.98963  eV     1   --> A''            
+     e( 46 - 46) =     -4.98931  eV     1   --> A'             
+     e( 47 - 47) =     -4.87246  eV     1   --> A'             
+     e( 48 - 48) =     -4.87192  eV     1   --> A''            
+     e( 49 - 49) =     -4.87163  eV     1   --> A'             
+     e( 50 - 50) =     -4.87152  eV     1   --> A''            
+     e( 51 - 51) =     -4.84869  eV     1   --> A''            
+     e( 52 - 52) =     -4.84854  eV     1   --> A'             
+     e( 53 - 53) =     -4.84823  eV     1   --> A'             
+     e( 54 - 54) =     -4.84785  eV     1   --> A''            
+     e( 55 - 55) =     -4.78609  eV     1   --> A'             
+     e( 56 - 57) =     -4.78589  eV     2   --> A'             
+     e( 56 - 57) =     -4.78589  eV     2   --> A''            
+     e( 58 - 58) =     -4.78571  eV     1   --> A'             
+     e( 59 - 59) =     -4.56393  eV     1   --> A'             
+     e( 60 - 61) =     -4.56364  eV     2   --> A'             
+     e( 60 - 61) =     -4.56364  eV     2   --> A''            
+     e( 62 - 62) =     -4.56335  eV     1   --> A'             
+     e( 63 - 63) =     -4.46856  eV     1   --> A''            
+     e( 64 - 64) =     -4.46808  eV     1   --> A''            
+     e( 65 - 65) =     -4.46762  eV     1   --> A'             
+     e( 66 - 66) =     -4.46708  eV     1   --> A''            
+     e( 67 - 67) =     -4.45409  eV     1   --> A'             
+     e( 68 - 68) =     -4.45384  eV     1   --> A''            
+     e( 69 - 69) =     -4.45345  eV     1   --> A'             
+     e( 70 - 70) =     -4.45320  eV     1   --> A''            
+     e( 71 - 71) =     -4.43671  eV     1   --> A''            
+     e( 72 - 72) =     -4.43654  eV     1   --> A'             
+     e( 73 - 73) =     -4.43612  eV     1   --> A'             
+     e( 74 - 74) =     -4.43571  eV     1   --> A''            
+     e( 75 - 75) =     -4.42462  eV     1   --> A''            
+     e( 76 - 76) =     -4.42445  eV     1   --> A'             
+     e( 77 - 77) =     -4.42401  eV     1   --> A'             
+     e( 78 - 78) =     -4.42367  eV     1   --> A''            
+     e( 79 - 80) =     -4.38144  eV     2   --> A'             
+     e( 79 - 80) =     -4.38144  eV     2   --> A''            
+     e( 81 - 81) =     -4.38128  eV     1   --> A'             
+     e( 82 - 82) =     -4.38117  eV     1   --> A'             
+     e( 83 - 83) =     -4.35410  eV     1   --> A'             
+     e( 84 - 84) =     -4.35379  eV     1   --> A'             
+     e( 85 - 85) =     -4.35346  eV     1   --> A''            
+     e( 86 - 86) =     -4.35315  eV     1   --> A'             
+     e( 87 - 88) =     -4.22970  eV     2   --> A'             
+     e( 87 - 88) =     -4.22970  eV     2   --> A''            
+     e( 89 - 89) =     -4.22912  eV     1   --> A''            
+     e( 90 - 90) =     -4.22874  eV     1   --> A'             
+     e( 91 - 91) =     -4.20451  eV     1   --> A'             
+     e( 92 - 93) =     -4.14186  eV     2   --> A'             
+     e( 92 - 93) =     -4.14186  eV     2   --> A''            
+     e( 94 - 95) =     -4.05023  eV     2   --> A'             
+     e( 94 - 95) =     -4.05023  eV     2   --> A''            
+     e( 96 - 97) =     -4.04998  eV     2   -->   2 A''            
+     e( 98 - 98) =     -3.83660  eV     1   --> A''            
+     e( 99 - 99) =     -3.22058  eV     1   --> A'             
+     e(100 -100) =     -2.38334  eV     1   --> A'             
+     e(101 -101) =     -1.58982  eV     1   --> A''            
+     e(102 -102) =     -1.58971  eV     1   --> A'             
+     e(103 -103) =     -1.58927  eV     1   --> A''            
+     e(104 -104) =     -1.58894  eV     1   --> A'             
+     e(105 -105) =     -0.63013  eV     1   --> A''            
+     e(106 -106) =     -0.62990  eV     1   --> A'             
+     e(107 -107) =     -0.62964  eV     1   --> A''            
+     e(108 -108) =     -0.62933  eV     1   --> A''            
+     e(109 -110) =     -0.29538  eV     2   --> A'             
+     e(109 -110) =     -0.29538  eV     2   --> A''            
+     e(111 -111) =     -0.29513  eV     1   --> A'             
+     e(112 -112) =     -0.29481  eV     1   --> A''            
+     e(113 -113) =      1.22636  eV     1   --> A'             
+     e(114 -114) =      1.22657  eV     1   --> A''            
+     e(115 -115) =      1.22672  eV     1   --> A'             
+     e(116 -116) =      1.22698  eV     1   --> A'             
+     e(117 -117) =      1.27360  eV     1   --> A'             
+     e(118 -119) =      1.37047  eV     2   -->   2 A'             
+
+ **************************************************************************
+ 
+     BANDS        :     11.55s CPU     14.93s WALL
+
+ 
+   This run was terminated on:  13: 2:35  28Apr2022            
+
+=------------------------------------------------------------------------------=
+   JOB DONE.
+=------------------------------------------------------------------------------=
